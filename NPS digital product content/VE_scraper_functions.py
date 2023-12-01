@@ -41,23 +41,6 @@ def scrape_site(park):
                     website_list.append(z)
         except:
             pass
-    link = "https://www.nps.gov/"+park+"/index.htm"
-    driver.get(link)
-    for l in soup.find_all('a'):
-        try:
-            if "planyourvisit" in l.get('href') and l.get('href') not in raw_list: #only want plan your visit sites
-                if "https://www.nps.gov" in l.get('href'):
-                    z= l.get('href')
-                    raw_list.append(z)
-                    website_list.append(z)
-                else:
-                    z = l.get('href')
-                    raw_list.append(z)
-                    z = "https://www.nps.gov"+z
-                    website_list.append(z)
-        except:
-            pass
-
 
     for x in website_list:
         try:
