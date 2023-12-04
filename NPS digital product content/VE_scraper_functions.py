@@ -11,6 +11,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd
+from selenium.webdriver.common.by import By
 
 
 def scrape_site(park):
@@ -23,29 +24,30 @@ def scrape_site(park):
     #driver.find_element_by_xpath('//*[@id="anch_15"]').click()
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'lxml')
+    elems = driver.find_elements(By.TAG_NAME, "a")
     website_list=[]
     raw_list=[]
     website_content=[]
     raw_soup_list = []
-    for l in soup.find_all('a'):
+    website_location = []
+
+    for elem in elems:
         try:
-            if "planyourvisit" in l.get('href') and l.get('href') not in raw_list: #only want plan your visit sites
-                if "https://www.nps.gov" in l.get('href'):
-                    z= l.get('href')
-                    raw_list.append(z)
-                    website_list.append(z)
-                else:
-                    z = l.get('href')
-                    raw_list.append(z)
-                    z = "https://www.nps.gov"+z
-                    website_list.append(z)
+            if "planyourvisit" in str(elem.get_attribute('href')) and str(elem.get_attribute('href')) not in raw_list: #only want plan your visit sites
+                z= str(elem.get_attribute('href'))
+                raw_list.append(z)
+                website_list.append(z)
         except:
             pass
 
     for x in website_list:
         try:
             driver.get(x)
+            
+            page_location = driver.find_element(By.ID, "breadcrumbs")
+            website_location.append(page_location.text)
             page_source = driver.page_source
+            elems = driver.find_elements(By.TAG_NAME, "a")
             soup = BeautifulSoup(page_source, 'lxml')
             raw_content = soup.get_text(strip=True) #all text fields are scraped
             website_content.append(raw_content) #raw content added to list of all content
@@ -54,8 +56,10 @@ def scrape_site(park):
             #This means that the webpage doesn't exist
             website_content.append("page doesn't exist")
             raw_soup_list.append("page doesn't exist")
+            website_location.append("page doesn't exist")
+
     driver.close() #close driver link at end of scrape
-    dict = {'website page': website_list, 'content': website_content, 'soup': raw_soup_list}  #create dataframe for park data
+    dict = {'website page': website_list, 'content': website_content, 'soup': raw_soup_list, "website location": website_location}  #create dataframe for park data
     park_data = pd.DataFrame(dict)
     park_data['park']=park
    # print("done with scrape")
