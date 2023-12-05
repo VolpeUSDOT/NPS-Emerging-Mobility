@@ -12,6 +12,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd
 from selenium.webdriver.common.by import By
+import numpy as np
 
 
 def scrape_site(park):
@@ -78,7 +79,6 @@ def Traveler_Info_Finder(park):
 
     AFS_list = []
     Bike_Ped_count = []
-    Directions_count = []
     Directions_page_count = []
     Pub_Transit_count = []
     Direction_majorcount = []
@@ -89,6 +89,7 @@ def Traveler_Info_Finder(park):
     Accessibility_count=[]
     Parking_count=[]
     Parking_plan_count=[]
+    Accessibility_information_count = []
 
 
     Directions_Words = ["Entrance","Center","street","Visitor"
@@ -223,6 +224,7 @@ def Traveler_Info_Finder(park):
         z=0
         z2=0
         z3=0
+
         major = 0
         congestion = 0
         pubtrans=0
@@ -245,10 +247,13 @@ def Traveler_Info_Finder(park):
             Direction_count.append(z)
             Parking_plan_count.append(z2)
             Accessibility_count.append(z3)
+            Accessibility_info = np.where(np.logical_or(z2>2,z3>2),1,0)
+            Accessibility_information_count.append(Accessibility_info)
         except:
             Direction_count.append(0)
             Parking_plan_count.append(0)
             Accessibility_count.append(0)
+            Accessibility_information_count.append(0)
 
     park["Alternative_Fueling_Stations"]=AFS_list
     park["MajorDirections_count"]=Direction_majorcount
@@ -263,11 +268,12 @@ def Traveler_Info_Finder(park):
     park['Parking_information']=Parking_count
     park['Parking_experience_information']=Parking_plan_count
     park['Parking_max_on_one_site']=park['Parking_experience_information']
+    park['Accessibility_information']=Accessibility_information_count
 
 
-    park['Accessibility_information']=np.where(
-        np.logical_or(park['Accessibility_intro_information']>2,
-                     park['Parking_experience_information']>2),1,0)
+#    park['Accessibility_information']=np.where(
+#        np.logical_or(park['Accessibility_intro_information']>2,
+##                     park['Parking_experience_information']>2),1,0)
 
     park_final = park.groupby('park', as_index=False).agg({
         "MajorDirections_count": "sum",
