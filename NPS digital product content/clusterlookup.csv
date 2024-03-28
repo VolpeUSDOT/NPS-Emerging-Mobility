@@ -1,0 +1,389 @@
+﻿Park Alpha,NPS Full Name,Region,FinalCluster,Label
+ABLI,Abraham Lincoln Birthplace National Historical Park,SER,8,"High Visitation, Rural"
+ACAD,Acadia National Park,NER,1,Transit Park
+ADAM,Adams National Historical Park,NER,1,Transit Park
+AFBG,African Burial Ground National Monument,NER,2,Urban Sites
+AGFO,Agate Fossil Beds National Monument,MWR,7,"Low Visitation, Rural"
+ALAG,Alagnak Wild River,AKR,4,High Seasonality
+ALFL,Alibates Flint Quarries National Monument,IMR,7,"Low Visitation, Rural"
+ALPO,Allegheny Portage Railroad National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+AMIS,Amistad National Recreation Area,IMR,8,"High Visitation, Rural"
+ANDE,Andersonville National Historic Site,SER,7,"Low Visitation, Rural"
+ANIA,Aniakchak National Monument and Preserve,AKR,4,High Seasonality
+ANJO,Andrew Johnson National Historic Site,SER,6,"Low Visitation, (Sub)Urban"
+ANTI,Antietam National Battlefield,NCR,6,"Low Visitation, (Sub)Urban"
+APCO,Appomattox Court House National Historical Park,NER,7,"Low Visitation, Rural"
+APIS,Apostle Islands National Lakeshore,MWR,4,High Seasonality
+ARCH,Arches National Park,IMR,8,"High Visitation, Rural"
+ARHO,"Arlington House, The Robert E. Lee Memorial",NCR,2,Urban Sites
+ARPO,Arkansas Post National Memorial,MWR,7,"Low Visitation, Rural"
+ASIS,Assateague Island National Seashore,NER,8,"High Visitation, Rural"
+AZRU,Aztec Ruins National Monument,IMR,7,"Low Visitation, Rural"
+BADL,Badlands National Park,MWR,8,"High Visitation, Rural"
+BAND,Bandelier National Monument,IMR,1,Transit Park
+BELA,Bering Land Bridge National Preserve,AKR,5,Limited Access
+BEOL,Bent's Old Fort National Historic Site,IMR,7,"Low Visitation, Rural"
+BEPA,Belmont-Paul Women's Equality National Monument,NCR,2,Urban Sites
+BIBE,Big Bend National Park,IMR,8,"High Visitation, Rural"
+BICA,Bighorn Canyon National Recreation Area,IMR,8,"High Visitation, Rural"
+BICY,Big Cypress National Preserve,SER,4,High Seasonality
+BIHO,Big Hole National Battlefield,PWR,7,"Low Visitation, Rural"
+BISC,Biscayne National Park,SER,9,"High Visitation, Urban"
+BISO,Big South Fork National River and Recreation Area,SER,8,"High Visitation, Rural"
+BITH,Big Thicket National Preserve,IMR,6,"Low Visitation, (Sub)Urban"
+BLCA,Black Canyon of the Gunnison National Park,IMR,4,High Seasonality
+BLRI,Blue Ridge Parkway,SER,1,Transit Park
+BLUE,Bluestone National Scenic River,NER,5,Limited Access
+BOAF,Boston African American National Historic Site,NER,2,Urban Sites
+BOHA,Boston Harbor Islands National Recreation Area,NER,1,Transit Park
+BOST,Boston National Historical Park,NER,9,"High Visitation, Urban"
+BOWA,Booker T. Washington National Monument,NER,6,"Low Visitation, (Sub)Urban"
+BRCA,Bryce Canyon National Park,IMR,1,Transit Park
+BRVB,Brown v. Board of Education National Historic Site,"MWR, SER",3,Rural Sites
+BUFF,Buffalo National River,MWR,8,"High Visitation, Rural"
+BUIS,Buck Island Reef National Monument,SER,5,Limited Access
+CABR,Cabrillo National Monument,PWR,9,"High Visitation, Urban"
+CACH,Canyon de Chelly National Monument,IMR,8,"High Visitation, Rural"
+CACL,Castle Clinton National Monument,NER,2,Urban Sites
+CACO,Cape Cod National Seashore,NER,1,Transit Park
+CAGR,Casa Grande Ruins National Monument,IMR,6,"Low Visitation, (Sub)Urban"
+CAHA,Cape Hatteras National Seashore,SER,8,"High Visitation, Rural"
+CAKR,Cape Krusenstern National Monument,AKR,5,Limited Access
+CALO,Cape Lookout National Seashore,SER,1,Transit Park
+CANA,Canaveral National Seashore,SER,9,"High Visitation, Urban"
+CANE,Camp Nelson National Monument,SER,5,Limited Access
+CANY,Canyonlands National Park,IMR,10,Misc TBD
+CARE,Capitol Reef National Park,IMR,8,"High Visitation, Rural"
+CARI,Cane River Creole National Historical Park,SER,10,Misc TBD
+CARL,Carl Sandburg Home National Historic Site,SER,1,Transit Park
+CASA,Castillo de San Marcos National Monument,SER,9,"High Visitation, Urban"
+CATO,Catoctin Mountain Park,NCR,6,"Low Visitation, (Sub)Urban"
+CAVE,Carlsbad Caverns National Park,IMR,8,"High Visitation, Rural"
+CAVO,Capulin Volcano National Monument,IMR,4,High Seasonality
+CAWO,Carter G. Woodson Home National Historic Site,NCR,4,High Seasonality
+CEBR,Cedar Breaks National Monument,IMR,8,"High Visitation, Rural"
+CECH,CÃ©sar E. ChÃ¡vez National Monument,PWR,7,"Low Visitation, Rural"
+CHAM,Chamizal National Memorial,IMR,6,"Low Visitation, (Sub)Urban"
+CHAT,Chattahoochee River National Recreation Area,SER,9,"High Visitation, Urban"
+CHCH,Chickamauga and Chattanooga National Military Park,SER,9,"High Visitation, Urban"
+CHCU,Chaco Culture National Historical Park,IMR,7,"Low Visitation, Rural"
+CHIC,Chickasaw National Recreation Area,IMR,8,"High Visitation, Rural"
+CHIR,Chiricahua National Monument,IMR,7,"Low Visitation, Rural"
+CHIS,Channel Islands National Park,PWR,1,Transit Park
+CHOH,Chesapeake and Ohio Canal National Historical Park,NCR,9,"High Visitation, Urban"
+CHPI,Charles Pinckney National Historic Site,SER,5,Limited Access
+CHRI,Christiansted National Historic Site,SER,6,"Low Visitation, (Sub)Urban"
+CHSC,Little Rock Central High School National Historic Site,MWR,3,Rural Sites
+CHYO,Charles Young Buffalo Soldiers National Monument,MWR,3,Rural Sites
+CIRO,City of Rocks National Reserve,PWR,5,Limited Access
+CLBA,Clara Barton National Historic Site,NCR,2,Urban Sites
+COLM,Colorado National Monument,IMR,8,"High Visitation, Rural"
+COLO,Colonial National Historical Park,NER,9,"High Visitation, Urban"
+CONG,Congaree National Park,SER,6,"Low Visitation, (Sub)Urban"
+CORO,Coronado National Memorial,IMR,6,"Low Visitation, (Sub)Urban"
+COWP,Cowpens National Battlefield,SER,6,"Low Visitation, (Sub)Urban"
+CRLA,Crater Lake National Park,PWR,4,High Seasonality
+CRMO,Craters of the Moon National Monument and Preserve,PWR,8,"High Visitation, Rural"
+CUGA,Cumberland Gap National Historical Park,SER,9,"High Visitation, Urban"
+CUIS,Cumberland Island National Seashore,SER,1,Transit Park
+CURE,Curecanti National Recreation Area,IMR,8,"High Visitation, Rural"
+CUVA,Cuyahoga Valley National Park,MWR,1,Transit Park
+DAAV,Dayton Aviation Heritage National Historical Park,MWR,2,Urban Sites
+DDEM,Dwight D. Eisenhower Memorial,NCR,2,Urban Sites
+DENA,Denali National Park and Preserve,AKR,1,Transit Park
+DEPO,Devils Postpile National Monument,PWR,1,Transit Park
+DESO,De Soto National Memorial,SER,3,Rural Sites
+DETO,Devils Tower National Monument,IMR,8,"High Visitation, Rural"
+DEVA,Death Valley National Park,PWR,10,Misc TBD
+DEWA,Delaware Water Gap National Recreation Area,NER,1,Transit Park
+DINO,Dinosaur National Monument,IMR,1,Transit Park
+DRTO,Dry Tortugas National Park,SER,1,Transit Park
+EDAL,Edgar Allan Poe National Historic Site,NER,2,Urban Sites
+EDIS,Thomas Edison National Historical Park,NER,6,"Low Visitation, (Sub)Urban"
+EFMO,Effigy Mounds National Monument,MWR,3,Rural Sites
+EISE,Eisenhower National Historic Site,NER,1,Transit Park
+ELMA,El Malpais National Monument,IMR,7,"Low Visitation, Rural"
+ELMO,El Morro National Monument,IMR,7,"Low Visitation, Rural"
+ELRO,Eleanor Roosevelt National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+EUON,Eugene O'Neill National Historic Site,PWR,1,Transit Park
+EVER,Everglades National Park,SER,9,"High Visitation, Urban"
+FEHA,Federal Hall National Memorial,NER,2,Urban Sites
+FIIS,Fire Island National Seashore,NER,1,Transit Park
+FILA,First Ladies National Historic Site,MWR,3,Rural Sites
+FLFO,Florissant Fossil Beds National Monument,IMR,7,"Low Visitation, Rural"
+FLNI,Flight 93 National Memorial,NER,8,"High Visitation, Rural"
+FOBO,Fort Bowie National Historic Site,IMR,7,"Low Visitation, Rural"
+FOBU,Fossil Butte National Monument,IMR,7,"Low Visitation, Rural"
+FOCA,Fort Caroline National Memorial,SER,6,"Low Visitation, (Sub)Urban"
+FODA,Fort Davis National Historic Site,IMR,7,"Low Visitation, Rural"
+FODO,Fort Donelson National Battlefield,SER,7,"Low Visitation, Rural"
+FOFR,Fort Frederica National Monument,SER,6,"Low Visitation, (Sub)Urban"
+FOLA,Fort Laramie National Historic Site,IMR,7,"Low Visitation, Rural"
+FOLS,Fort Larned National Historic Site,MWR,7,"Low Visitation, Rural"
+FOMA,Fort Matanzas National Monument,SER,1,Transit Park
+FOMC,Fort McHenry National Monument and Historic Shrine,NER,9,"High Visitation, Urban"
+FONE,Fort Necessity National Battlefield,NER,6,"Low Visitation, (Sub)Urban"
+FOPO,Fort Point National Historic Site,PWR,9,"High Visitation, Urban"
+FOPU,Fort Pulaski National Monument,SER,6,"Low Visitation, (Sub)Urban"
+FORA,Fort Raleigh National Historic Site,SER,8,"High Visitation, Rural"
+FOSC,Fort Scott National Historic Site,MWR,7,"Low Visitation, Rural"
+FOSM,Fort Smith National Historic Site,MWR,3,Rural Sites
+FOST,Fort Stanwix National Monument,NER,4,High Seasonality
+FOSU,Fort Sumter and Fort Moultrie National Historical Park,SER,1,Transit Park
+FOTH,Ford's Theatre National Historic Site,NCR,2,Urban Sites
+FOUN,Fort Union National Monument,IMR,7,"Low Visitation, Rural"
+FOUS,Fort Union Trading Post National Historic Site,MWR,7,"Low Visitation, Rural"
+FOVA,Fort Vancouver National Historic Site,PWR,9,"High Visitation, Urban"
+FOWA,Fort Washington Park,NCR,6,"Low Visitation, (Sub)Urban"
+FRDE,Franklin Delano Roosevelt Memorial,NCR,2,Urban Sites
+FRDO,Frederick Douglass National Historic Site,NCR,2,Urban Sites
+FRHI,Friendship Hill National Historic Site,NER,4,High Seasonality
+FRLA,Frederick Law Olmsted National Historic Site,NER,2,Urban Sites
+FRSP,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,NER,9,"High Visitation, Urban"
+GAAR,Gates of the Arctic National Park and Preserve,AKR,4,High Seasonality
+GARI,Gauley River National Recreation Area,NER,4,High Seasonality
+GATE,Gateway National Recreation Area,NER,9,"High Visitation, Urban"
+GEGR,General Grant National Memorial,NER,4,High Seasonality
+GERO,George Rogers Clark National Historical Park,MWR,6,"Low Visitation, (Sub)Urban"
+GETT,Gettysburg National Military Park,NER,9,"High Visitation, Urban"
+GEWA,George Washington Birthplace National Monument,NER,7,"Low Visitation, Rural"
+GICL,Gila Cliff Dwellings National Monument,IMR,7,"Low Visitation, Rural"
+GLAC,Glacier National Park,IMR,1,Transit Park
+GLBA,Glacier Bay National Park and Preserve,AKR,1,Transit Park
+GLCA,Glen Canyon National Recreation Area,IMR,1,Transit Park
+GOGA,Golden Gate National Recreation Area,PWR,1,Transit Park
+GOIS,Governors Island National Monument,NER,4,High Seasonality
+GOSP,Golden Spike National Historical Park,IMR,10,Misc TBD
+GRBA,Great Basin National Park,PWR,7,"Low Visitation, Rural"
+GRCA,Grand Canyon National Park,IMR,1,Transit Park
+GREE,Greenbelt Park,NCR,6,"Low Visitation, (Sub)Urban"
+GRKO,Grant-Kohrs Ranch National Historic Site,IMR,3,Rural Sites
+GRPO,Grand Portage National Monument,MWR,4,High Seasonality
+GRSA,Great Sand Dunes National Park and Preserve,IMR,4,High Seasonality
+GRSM,Great Smoky Mountains National Park,SER,9,"High Visitation, Urban"
+GRTE,Grand Teton National Park,IMR,1,Transit Park
+GUCO,Guilford Courthouse National Military Park,SER,10,Misc TBD
+GUIS,Gulf Islands National Seashore,SER,1,Transit Park
+GUMO,Guadalupe Mountains National Park,IMR,8,"High Visitation, Rural"
+GWCA,George Washington Carver National Monument,MWR,6,"Low Visitation, (Sub)Urban"
+GWMP,George Washington Memorial Parkway,NCR,9,"High Visitation, Urban"
+HAFE,Harpers Ferry National Historical Park,NCR,1,Transit Park
+HAFO,Hagerman Fossil Beds National Monument,PWR,5,Limited Access
+HAGR,Hamilton Grange National Memorial,NER,2,Urban Sites
+HALE,Haleakala National Park,PWR,8,"High Visitation, Rural"
+HAMP,Hampton National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+HAVO,Hawai'i Volcanoes National Park,PWR,8,"High Visitation, Rural"
+HEHO,Herbert Hoover National Historic Site,MWR,6,"Low Visitation, (Sub)Urban"
+HOBE,Horseshoe Bend National Military Park,SER,7,"Low Visitation, Rural"
+HOCU,Hopewell Culture National Historical Park,MWR,6,"Low Visitation, (Sub)Urban"
+HOFR,Home of Franklin D. Roosevelt National Historic Site,NER,1,Transit Park
+HOFU,Hopewell Furnace National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+HOME,Homestead National Historical Park,MWR,7,"Low Visitation, Rural"
+HOSP,Hot Springs National Park,MWR,9,"High Visitation, Urban"
+HOVE,Hovenweep National Monument,IMR,7,"Low Visitation, Rural"
+HSTR,Harry S Truman National Historic Site,MWR,3,Rural Sites
+HUTR,Hubbell Trading Post National Historic Site,IMR,7,"Low Visitation, Rural"
+INDE,Independence National Historical Park,NER,2,Urban Sites
+INDU,Indiana Dunes National Park,MWR,9,"High Visitation, Urban"
+ISRO,Isle Royale National Park,MWR,1,Transit Park
+JAGA,James A. Garfield National Historic Site,MWR,3,Rural Sites
+JAZZ,New Orleans Jazz National Historical Park,SER,2,Urban Sites
+JECA,Jewel Cave National Monument,MWR,4,High Seasonality
+JEFF,Gateway Arch National Park,MWR,9,"High Visitation, Urban"
+JELA,Jean Lafitte National Historical Park and Preserve,SER,6,"Low Visitation, (Sub)Urban"
+JICA,Jimmy Carter National Historical Park,SER,5,Limited Access
+JODA,John Day Fossil Beds National Monument,PWR,8,"High Visitation, Rural"
+JODR,"John D. Rockefeller, Jr., Memorial Parkway",IMR,8,"High Visitation, Rural"
+JOFI,John Fitzgerald Kennedy National Historic Site,NER,4,High Seasonality
+JOFL,Johnstown Flood National Memorial,NER,6,"Low Visitation, (Sub)Urban"
+JOMU,John Muir National Historic Site,PWR,6,"Low Visitation, (Sub)Urban"
+JOTR,Joshua Tree National Park,PWR,10,Misc TBD
+KAHO,Kaloko-Honokohau National Historical Park,PWR,6,"Low Visitation, (Sub)Urban"
+KALA,Kalaupapa National Historical Park,PWR,10,Misc TBD
+KATM,Katmai National Park and Preserve,AKR,4,High Seasonality
+KAWW,Katahdin Woods and Waters National Monument,NER,5,Limited Access
+KEFJ,Kenai Fjords National Park,AKR,4,High Seasonality
+KEMO,Kennesaw Mountain National Battlefield Park,SER,1,Transit Park
+KEWE,Keweenaw National Historical Park,MWR,3,Rural Sites
+KICA,Kings Canyon National Park,PWR,8,"High Visitation, Rural"
+KIMO,Kings Mountain National Military Park,SER,6,"Low Visitation, (Sub)Urban"
+KLGO,Klondike Gold Rush National Historical Park,AKR,10,Misc TBD
+KNRI,Knife River Indian Villages National Historic Site,MWR,10,Misc TBD
+KOVA,Kobuk Valley National Park,AKR,5,Limited Access
+KOWA,Korean War Veterans Memorial,NCR,2,Urban Sites
+LABE,Lava Beds National Monument,PWR,10,Misc TBD
+LACH,Lake Chelan National Recreation Area,PWR,1,Transit Park
+LACL,Lake Clark National Park and Preserve,AKR,4,High Seasonality
+LAKE,Lake Mead National Recreation Area,PWR,10,Misc TBD
+LAMR,Lake Meredith National Recreation Area,IMR,10,Misc TBD
+LARO,Lake Roosevelt National Recreation Area,PWR,4,High Seasonality
+LAVO,Lassen Volcanic National Park,PWR,4,High Seasonality
+LEWI,Lewis and Clark National Historical Park,PWR,10,Misc TBD
+LIBI,Little Bighorn Battlefield National Monument,IMR,4,High Seasonality
+LIBO,Lincoln Boyhood National Memorial,MWR,4,High Seasonality
+LIHO,Lincoln Home National Historic Site,MWR,6,"Low Visitation, (Sub)Urban"
+LINC,Lincoln Memorial,NCR,2,Urban Sites
+LIRI,Little River Canyon National Preserve,SER,10,Misc TBD
+LONG,Longfellow House-Washington's Headquarters National Historic Site,NER,5,Limited Access
+LOWE,Lowell National Historical Park,NER,1,Transit Park
+LYBA,Lyndon Baines Johnson Memorial Grove on the Potomac,NCR,5,Limited Access
+LYJO,Lyndon B. Johnson National Historical Park,IMR,10,Misc TBD
+MABI,Marsh-Billings-Rockefeller National Historical Park,NER,5,Limited Access
+MACA,Mammoth Cave National Park,SER,1,Transit Park
+MALU,"Martin Luther King, Jr., National Historical Park",SER,2,Urban Sites
+MALW,Maggie L. Walker National Historic Site,NER,5,Limited Access
+MAMC,Mary McLeod Bethune Council House National Historic Site,NCR,5,Limited Access
+MANA,Manassas National Battlefield Park,NCR,9,"High Visitation, Urban"
+MANZ,Manzanar National Historic Site,PWR,10,Misc TBD
+MAPR,Manhattan Project National Historical Park,"SER, IMR, PWR",5,Limited Access
+MAVA,Martin Van Buren National Historic Site,NER,10,Misc TBD
+MEMY,Medgar and Myrlie Evers Home National Monument,SER,4,High Seasonality
+MEVE,Mesa Verde National Park,IMR,10,Misc TBD
+MIIN,Minidoka National Historic Site,PWR,3,Rural Sites
+MIMA,Minute Man National Historical Park,NER,9,"High Visitation, Urban"
+MIMI,Minuteman Missile National Historic Site,MWR,3,Rural Sites
+MISS,Mississippi National River and Recreation Area,MWR,4,High Seasonality
+MLKM,"Martin Luther King, Jr., Memorial",NCR,2,Urban Sites
+MNRR,Missouri National Recreational River,MWR,4,High Seasonality
+MOCA,Montezuma Castle National Monument,IMR,10,Misc TBD
+MOCR,Moores Creek National Battlefield,SER,4,High Seasonality
+MOJA,Mojave National Preserve,PWR,8,"High Visitation, Rural"
+MONO,Monocacy National Battlefield,NCR,6,"Low Visitation, (Sub)Urban"
+MORA,Mount Rainier National Park,PWR,8,"High Visitation, Rural"
+MORR,Morristown National Historical Park,NER,6,"Low Visitation, (Sub)Urban"
+MORU,Mount Rushmore National Memorial,MWR,8,"High Visitation, Rural"
+MUWO,Muir Woods National Monument,PWR,1,Transit Park
+NABR,Natural Bridges National Monument,IMR,10,Misc TBD
+NACE,National Capital Park East,NCR,9,"High Visitation, Urban"
+NAMA,National Mall,NCR,1,Transit Park
+NATC,Natchez National Historical Park,SER,3,Rural Sites
+NATR,Natchez Trace Parkway,SER,9,"High Visitation, Urban"
+NAVA,Navajo National Monument,IMR,7,"Low Visitation, Rural"
+NEBE,New Bedford Whaling National Historical Park,NER,5,Limited Access
+NEPE,Nez Perce National Historical Park,PWR,10,Misc TBD
+NERI,New River Gorge National Park and Preserve,NER,10,Misc TBD
+NICO,Nicodemus National Historic Site,MWR,5,Limited Access
+NIOB,Niobrara National Scenic River,MWR,4,High Seasonality
+NISI,Ninety Six National Historic Site,SER,10,Misc TBD
+NOAT,Noatak National Preserve,AKR,5,Limited Access
+NOCA,North Cascades National Park,PWR,4,High Seasonality
+NPSA,National Park of American Samoa,PWR,4,High Seasonality
+OBED,Obed Wild and Scenic River,SER,5,Limited Access
+OCMU,Ocmulgee Mounds National Historical Park,SER,10,Misc TBD
+OLYM,Olympic National Park,PWR,8,"High Visitation, Rural"
+ORCA,Oregon Caves National Monument and Preserve,PWR,7,"Low Visitation, Rural"
+ORPI,Organ Pipe Cactus National Monument,IMR,7,"Low Visitation, Rural"
+OZAR,Ozark National Scenic Riverways,MWR,1,Transit Park
+PAAL,Palo Alto Battlefield National Historical Park,IMR,4,High Seasonality
+PAAV,Pennsylvania Avenue National Historic Site,NCR,2,Urban Sites
+PAGR,Paterson Great Falls National Historical Park,NER,6,"Low Visitation, (Sub)Urban"
+PAIS,Padre Island National Seashore,IMR,8,"High Visitation, Rural"
+PECO,Pecos National Historical Park,IMR,7,"Low Visitation, Rural"
+PEFO,Petrified Forest National Park,IMR,8,"High Visitation, Rural"
+PERI,Pea Ridge National Military Park,MWR,6,"Low Visitation, (Sub)Urban"
+PERL,Pearl Harbor National Memorial,PWR,2,Urban Sites
+PETE,Petersburg National Battlefield,NER,6,"Low Visitation, (Sub)Urban"
+PETR,Petroglyph National Monument,IMR,6,"Low Visitation, (Sub)Urban"
+PEVI,Perry's Victory and International Peace Memorial,MWR,3,Rural Sites
+PINN,Pinnacles National Park,PWR,1,Transit Park
+PIPE,Pipestone National Monument,MWR,7,"Low Visitation, Rural"
+PIRO,Pictured Rocks National Lakeshore,MWR,4,High Seasonality
+PISC,Piscataway Park,NCR,2,Urban Sites
+PISP,Pipe Spring National Monument,IMR,7,"Low Visitation, Rural"
+POCH,Port Chicago Naval Magazine National Memorial,PWR,4,High Seasonality
+PORE,Point Reyes National Seashore,PWR,1,Transit Park
+PRPA,President's Park,NCR,2,Urban Sites
+PRWI,Prince William Forest Park,NCR,6,"Low Visitation, (Sub)Urban"
+PUHE,Pu'ukohola Heiau National Historic Site,PWR,3,Rural Sites
+PUHO,Pu'uhonua o Honaunau National Historical Park,PWR,8,"High Visitation, Rural"
+RABR,Rainbow Bridge National Monument,IMR,5,Limited Access
+REDW,Redwood National Park,PWR,8,"High Visitation, Rural"
+REER,Reconstruction Era National Historical Park,SER,6,"Low Visitation, (Sub)Urban"
+RICH,Richmond National Battlefield Park,NER,6,"Low Visitation, (Sub)Urban"
+RIGR,Rio Grande Wild and Scenic River,IMR,5,Limited Access
+RIRA,River Raisin National Battlefield Park,MWR,3,Rural Sites
+ROCR,Rock Creek Park,NCR,9,"High Visitation, Urban"
+ROLA,Ross Lake National Recreation Area,PWR,1,Transit Park
+ROMO,Rocky Mountain National Park,IMR,1,Transit Park
+RORI,Rosie the Riveter/World War II Home Front National Historical Park,PWR,2,Urban Sites
+ROWI,Roger Williams National Memorial,NER,2,Urban Sites
+RUCA,Russell Cave National Monument,SER,7,"Low Visitation, Rural"
+SAAN,San Antonio Missions National Historical Park,IMR,9,"High Visitation, Urban"
+SACN,Saint Croix National Scenic Riverway,MWR,4,High Seasonality
+SACR,Saint Croix Island International Historic Site,NER,3,Rural Sites
+SAFR,San Francisco Maritime National Historical Park,PWR,9,"High Visitation, Urban"
+SAGA,Saint-Gaudens National Historical Park,NER,6,"Low Visitation, (Sub)Urban"
+SAGU,Saguaro National Park,IMR,9,"High Visitation, Urban"
+SAHI,Sagamore Hill National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+SAIR,Saugus Iron Works National Historic Site,NER,3,Rural Sites
+SAJH,San Juan Island National Historical Park,PWR,4,High Seasonality
+SAJU,San Juan National Historic Site,SER,10,Misc TBD
+SAMA,Salem Maritime National Historic Site,NER,2,Urban Sites
+SAMO,Santa Monica Mountains National Recreation Area,PWR,9,"High Visitation, Urban"
+SAND,Sand Creek Massacre National Historic Site,IMR,5,Limited Access
+SAPA,Saint Paul's Church National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+SAPU,Salinas Pueblo Missions National Monument,IMR,7,"Low Visitation, Rural"
+SARA,Saratoga National Historical Park,NER,4,High Seasonality
+SARI,Salt River Bay National Historical Park and Ecological Preserve,SER,10,Misc TBD
+SCBL,Scotts Bluff National Monument,MWR,1,Transit Park
+SEQU,Sequoia National Park,PWR,8,"High Visitation, Rural"
+SHEN,Shenandoah National Park,NER,9,"High Visitation, Urban"
+SHIL,Shiloh National Military Park,SER,8,"High Visitation, Rural"
+SITK,Sitka National Historical Park,AKR,8,"High Visitation, Rural"
+SLBE,Sleeping Bear Dunes National Lakeshore,MWR,1,Transit Park
+SPAR,Springfield Armory National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+STEA,Steamtown National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+STLI,Statue of Liberty National Monument,NER,1,Transit Park
+STON,Stonewall National Monument,NER,4,High Seasonality
+STRI,Stones River National Battlefield,SER,6,"Low Visitation, (Sub)Urban"
+SUCR,Sunset Crater Volcano National Monument,IMR,7,"Low Visitation, Rural"
+TAPR,Tallgrass Prairie National Preserve,MWR,5,Limited Access
+THIS,Theodore Roosevelt Island,NCR,2,Urban Sites
+THJE,Thomas Jefferson Memorial,NCR,2,Urban Sites
+THKO,Thaddeus Kosciuszko National Memorial,NER,2,Urban Sites
+THRB,Theodore Roosevelt Birthplace National Historic Site,NER,2,Urban Sites
+THRI,Theodore Roosevelt Inaugural National Historic Site,NER,3,Rural Sites
+THRO,Theodore Roosevelt National Park,MWR,8,"High Visitation, Rural"
+THST,Thomas Stone National Historic Site,NER,5,Limited Access
+TICA,Timpanogos Cave National Monument,IMR,6,"Low Visitation, (Sub)Urban"
+TIMU,Timucuan Ecological and Historic Preserve,SER,9,"High Visitation, Urban"
+TONT,Tonto National Monument,IMR,7,"Low Visitation, Rural"
+TUAI,Tuskegee Airmen National Historic Site,SER,7,"Low Visitation, Rural"
+TUIN,Tuskegee Institute National Historic Site,SER,7,"Low Visitation, Rural"
+TUMA,Tumacacori National Historical Park,IMR,7,"Low Visitation, Rural"
+TUSK,Tule Springs Fossil Beds National Monument,PWR,5,Limited Access
+TUZI,Tuzigoot National Monument,IMR,7,"Low Visitation, Rural"
+ULSG,Ulysses S. Grant National Historic Site,MWR,6,"Low Visitation, (Sub)Urban"
+UPDE,Upper Delaware Scenic and Recreational River,NER,8,"High Visitation, Rural"
+VAFO,Valley Forge National Historical Park,NER,9,"High Visitation, Urban"
+VALL,Valles Caldera National Preserve,IMR,10,Misc TBD
+VAMA,Vanderbilt Mansion National Historic Site,NER,6,"Low Visitation, (Sub)Urban"
+VICK,Vicksburg National Military Park,SER,8,"High Visitation, Rural"
+VIIS,Virgin Islands National Park,SER,6,"Low Visitation, (Sub)Urban"
+VIVE,Vietnam Veterans Memorial,NCR,2,Urban Sites
+VOYA,Voyageurs National Park,MWR,8,"High Visitation, Rural"
+WABA,Washita Battlefield National Historic Site,IMR,3,Rural Sites
+WACA,Walnut Canyon National Monument,IMR,7,"Low Visitation, Rural"
+WACO,Waco Mammoth National Monument,IMR,6,"Low Visitation, (Sub)Urban"
+WAMO,Washington Monument,NCR,2,Urban Sites
+WAPA,War in the Pacific National Historical Park,PWR,10,Misc TBD
+WEFA,Weir Farm National Historical Park,NER,5,Limited Access
+WHHO,White House,NCR,6,"Low Visitation, (Sub)Urban"
+WHIS,Whiskeytown-Shasta-Trinity National Recreation Area,PWR,8,"High Visitation, Rural"
+WHMI,Whitman Mission National Historic Site,PWR,6,"Low Visitation, (Sub)Urban"
+WHSA,White Sands National Park,IMR,8,"High Visitation, Rural"
+WICA,Wind Cave National Park,MWR,8,"High Visitation, Rural"
+WICL,President William Jefferson Clinton Birthplace Home National Historic Site,MWR,5,Limited Access
+WICR,Wilson's Creek National Battlefield,MWR,6,"Low Visitation, (Sub)Urban"
+WIHO,William Howard Taft National Historic Site,MWR,3,Rural Sites
+WORI,Women's Rights National Historical Park,NER,5,Limited Access
+WOTR,Wolf Trap National Park for the Performing Arts,NCR,1,Transit Park
+WRBR,Wright Brothers National Memorial,SER,10,Misc TBD
+WRST,Wrangell-St. Elias National Park,AKR,4,High Seasonality
+WUPA,Wupatki National Monument,IMR,7,"Low Visitation, Rural"
+WWII,World War II Memorial,NCR,2,Urban Sites
+WWIM,World War I Memorial,NCR,2,Urban Sites
+YELL,Yellowstone National Park,IMR,8,"High Visitation, Rural"
+YOSE,Yosemite National Park,PWR,1,Transit Park
+YUCH,Yukon-Charley Rivers National Preserve,AKR,5,Limited Access
+ZION,Zion National Park,IMR,1,Transit Park
