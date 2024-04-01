@@ -1,10 +1,11 @@
-,Label,EV_Parks
-0,High Seasonality,2
-1,"High Visitation, Rural",9
-2,"High Visitation, Urban",2
-3,Limited Access,1
-4,"Low Visitation, (Sub)Urban",2
-5,"Low Visitation, Rural",1
-6,Misc TBD,1
-7,Rural Sites,1
-8,Transit Park,4
+,Label,Total_Parks,EV_Parks,Percent_EV
+0,High Seasonality,43,2,4.7
+1,"High Visitation, Rural",56,10,17.9
+2,"High Visitation, Urban",37,2,5.4
+3,Limited Access,29,1,3.4
+4,"Low Visitation, Rural",54,1,1.9
+5,"Low Visitation, Urban",57,2,3.5
+6,Rural Sites,22,1,4.5
+7,Transit Park,49,4,8.2
+8,Urban Sites,33,0,0.0
+9,Total,380,23,6.1
