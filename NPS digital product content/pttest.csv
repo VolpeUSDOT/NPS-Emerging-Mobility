@@ -1,4 +1,4 @@
-,Unnamed: 0,index,website page,website location,park, bus ,shuttle,transit,public transportation,ferry,alternative transportation,total
+,Unnamed: 0,index,website page,website location,park, bus ,shuttle,transit,public transportation,ferry,ferry service,total
 0,0,0,https://home.nps.gov/abli/planyourvisit/directions.htm#GlobalNav-toggle,,ABLI,0,0,0,1,0,0,1
 1,1,1,https://home.nps.gov/abli/planyourvisit/directions.htm#LocalNav-desktop-nav,,ABLI,0,0,0,1,0,0,1
 2,2,2,https://home.nps.gov/abli/planyourvisit/directions.htm#main,,ABLI,0,0,0,1,0,0,1
@@ -65,7 +65,7 @@
 63,63,48,https://home.nps.gov/acad/planyourvisit/park-store.htm,,ACAD,0,0,0,0,0,0,0
 64,64,49,https://home.nps.gov/acad/planyourvisit/stargazing.htm,NPS.govPark HomePlan Your VisitThings To DoStargazing,ACAD,0,0,0,0,0,0,0
 65,65,50,https://home.nps.gov/acad/planyourvisit/water-activities.htm,,ACAD,0,0,0,0,0,0,0
-66,66,51,https://home.nps.gov/acad/planyourvisit/boating.htm,,ACAD,0,0,0,0,1,0,1
+66,66,51,https://home.nps.gov/acad/planyourvisit/boating.htm,,ACAD,0,0,0,0,1,1,2
 67,67,52,https://home.nps.gov/acad/planyourvisit/swimming.htm,,ACAD,0,0,0,0,0,0,0
 68,68,53,https://home.nps.gov/acad/planyourvisit/fishing.htm,,ACAD,0,0,0,0,0,0,0
 69,69,54,https://home.nps.gov/acad/planyourvisit/tidepooling.htm,,ACAD,0,0,0,0,0,0,0
@@ -565,7 +565,7 @@
 563,563,13,https://nps.gov/apis/planyourvisit/permits.htm,,APIS,0,0,0,0,0,0,0
 564,564,14,https://nps.gov/apis/planyourvisit/directions.htm,,APIS,0,0,0,0,0,0,0
 565,565,15,https://nps.gov/apis/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,APIS,0,0,0,0,1,0,1
-566,566,16,https://nps.gov/apis/planyourvisit/getting-to-the-islands.htm,NPS.govPark HomePlan Your VisitDirections & TransportationGetting to the Islands,APIS,0,2,0,0,1,0,3
+566,566,16,https://nps.gov/apis/planyourvisit/getting-to-the-islands.htm,NPS.govPark HomePlan Your VisitDirections & TransportationGetting to the Islands,APIS,0,2,0,0,1,1,4
 567,567,17,https://nps.gov/apis/planyourvisit/placestogo.htm,NPS.govPark HomePlan Your VisitPlaces To Go,APIS,0,0,0,0,0,0,0
 568,568,18,https://nps.gov/apis/planyourvisit/visitorcenters.htm,NPS.govPark HomePlan Your VisitPlaces To GoVisitor Centers,APIS,0,0,0,0,0,0,0
 569,569,19,https://nps.gov/apis/planyourvisit/things2do.htm,NPS.govPark HomePlan Your VisitThings To Do,APIS,0,0,0,0,0,0,0
@@ -1201,7 +1201,7 @@
 1199,1199,17,https://www.nps.gov/bisc/planyourvisit/publictransportation.htm,,BISC,1,0,0,2,0,0,3
 1200,1200,18,https://www.nps.gov/bisc/planyourvisit/placestogo.htm,,BISC,0,0,0,0,0,0,0
 1201,1201,19,https://www.nps.gov/bisc/planyourvisit/bocachita.htm,,BISC,0,0,0,0,0,0,0
-1202,1202,20,https://www.nps.gov/bisc/planyourvisit/elliottkey.htm,,BISC,0,0,0,0,1,0,1
+1202,1202,20,https://www.nps.gov/bisc/planyourvisit/elliottkey.htm,,BISC,0,0,0,0,1,1,2
 1203,1203,21,https://www.nps.gov/bisc/planyourvisit/adamskey.htm,,BISC,0,0,0,0,0,0,0
 1204,1204,22,https://www.nps.gov/bisc/planyourvisit/things2do.htm,,BISC,0,0,0,0,0,0,0
 1205,1205,23,https://www.nps.gov/bisc/planyourvisit/outdooractivities.htm,,BISC,0,0,0,0,0,0,0
@@ -1925,7 +1925,7 @@
 1923,1923,22,https://www.nps.gov/caco/planyourvisit/cacolostandfound.htm,NPS.govPark HomePlan Your VisitBasic InformationLost and Found,CACO,0,0,0,0,0,0,0
 1924,1924,23,https://www.nps.gov/caco/planyourvisit/directions.htm,NPS.govPark HomePlan Your VisitDirections & Transportation,CACO,0,0,0,0,0,0,0
 1925,1925,24,https://www.nps.gov/caco/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,CACO,0,0,0,0,0,0,0
-1926,1926,25,https://www.nps.gov/caco/planyourvisit/getting-around.htm,NPS.govPark HomePlan Your VisitDirections & TransportationGetting Around,CACO,1,0,0,0,2,0,3
+1926,1926,25,https://www.nps.gov/caco/planyourvisit/getting-around.htm,NPS.govPark HomePlan Your VisitDirections & TransportationGetting Around,CACO,1,0,0,0,2,1,4
 1927,1927,26,https://www.nps.gov/caco/planyourvisit/eatingsleeping.htm,NPS.govPark HomePlan Your VisitEating & Sleeping,CACO,0,0,0,0,0,0,0
 1928,1928,27,https://www.nps.gov/caco/planyourvisit/lodging.htm,NPS.govPark HomePlan Your VisitEating & SleepingLodging,CACO,0,0,0,0,0,0,0
 1929,1929,28,https://www.nps.gov/caco/planyourvisit/restaurants.htm,NPS.govPark HomePlan Your VisitEating & SleepingRestaurants,CACO,0,0,0,0,0,0,0
@@ -1961,7 +1961,7 @@
 1959,1959,58,https://www.nps.gov/caco/planyourvisit/deaf-hearing-loss.htm,NPS.govPark HomePlan Your VisitAccessibilityDeaf / Hearing Loss,CACO,0,0,0,0,0,0,0
 1960,1960,59,https://www.nps.gov/caco/planyourvisit/blind-low-vision-accessibility.htm,NPS.govPark HomePlan Your VisitAccessibilityBlind / Low Vision,CACO,0,0,0,0,0,0,0
 1961,1961,60,https://www.nps.gov/caco/planyourvisit/park-brochure-visual.htm,NPS.govPark HomePlan Your VisitAccessibilityBlind / Low VisionInteractive Park Brochure,CACO,0,0,0,0,0,0,0
-1962,1962,61,https://www.nps.gov/caco/planyourvisit/brochure-text-only.htm,NPS.govPark HomePlan Your VisitAccessibilityBlind / Low VisionText Only Park Brochure,CACO,0,0,0,1,1,0,2
+1962,1962,61,https://www.nps.gov/caco/planyourvisit/brochure-text-only.htm,NPS.govPark HomePlan Your VisitAccessibilityBlind / Low VisionText Only Park Brochure,CACO,0,0,0,1,1,1,3
 1963,1963,62,https://www.nps.gov/caco/planyourvisit/brochure-audio-only.htm,NPS.govPark HomePlan Your VisitAccessibilityBlind / Low VisionAudio Only Park Brochure,CACO,0,0,0,0,0,0,0
 1964,1964,63,https://www.nps.gov/caco/planyourvisit/tourops.htm,NPS.govPark HomePlan Your VisitTour Buses and Guides,CACO,4,2,2,0,0,0,8
 1965,1965,64,https://www.nps.gov/planyourvisit/index.htm,,CACO,0,0,0,0,0,0,0
@@ -1997,12 +1997,12 @@
 1995,1995,26,https://www.nps.gov/planyourvisit/event-search.htm,,CAGR,0,0,0,0,0,0,0
 1996,1996,27,https://www.nps.gov/planyourvisit/passes.htm,,CAGR,0,0,0,0,0,0,0
 1997,1997,28,https://www.nps.gov/planyourvisit/trip-ideas.htm,,CAGR,0,0,0,0,0,0,0
-1998,1998,0,https://www.nps.gov/caha/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,0,20
-1999,1999,1,https://www.nps.gov/caha/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,0,20
-2000,2000,2,https://www.nps.gov/caha/planyourvisit/directions.htm#main,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,0,20
-2001,2001,3,https://www.nps.gov/caha/planyourvisit/directions.htm#ParkFooter,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,0,20
-2002,2002,4,https://www.nps.gov/caha/planyourvisit/directions.htm#GlobalFooter,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,0,20
-2003,2003,5,https://www.nps.gov/caha/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,0,20
+1998,1998,0,https://www.nps.gov/caha/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,1,21
+1999,1999,1,https://www.nps.gov/caha/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,1,21
+2000,2000,2,https://www.nps.gov/caha/planyourvisit/directions.htm#main,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,1,21
+2001,2001,3,https://www.nps.gov/caha/planyourvisit/directions.htm#ParkFooter,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,1,21
+2002,2002,4,https://www.nps.gov/caha/planyourvisit/directions.htm#GlobalFooter,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,1,21
+2003,2003,5,https://www.nps.gov/caha/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPlan Your VisitDirections & Transportation,CAHA,0,0,0,0,20,1,21
 2004,2004,6,https://www.nps.gov/caha/planyourvisit/index.htm,NPS.govPlan Your Visit,CAHA,0,0,0,0,0,0,0
 2005,2005,7,https://www.nps.gov/caha/planyourvisit/basicinfo.htm,NPS.govPlan Your VisitBasic Information,CAHA,0,0,0,0,0,0,0
 2006,2006,8,https://www.nps.gov/caha/planyourvisit/hours.htm,NPS.govPlan Your VisitBasic InformationOperating Hours & Seasons,CAHA,0,0,0,0,0,0,0
@@ -2012,13 +2012,13 @@
 2010,2010,12,https://www.nps.gov/caha/planyourvisit/wedding-permits.htm,NPS.govPlan Your VisitBasic InformationPermits & ReservationsWedding Permits,CAHA,0,1,0,0,4,0,5
 2011,2011,13,https://www.nps.gov/caha/planyourvisit/pets.htm,NPS.govPlan Your VisitBasic InformationPets,CAHA,0,0,0,0,0,0,0
 2012,2012,14,https://www.nps.gov/caha/planyourvisit/report-a-lost-item.htm,NPS.govPlan Your VisitBasic InformationReport a Lost Item,CAHA,0,0,0,0,0,0,0
-2013,2013,15,https://www.nps.gov/caha/planyourvisit/directions.htm,,CAHA,0,0,0,0,20,0,20
+2013,2013,15,https://www.nps.gov/caha/planyourvisit/directions.htm,,CAHA,0,0,0,0,20,1,21
 2014,2014,16,https://www.nps.gov/caha/planyourvisit/maps.htm,NPS.govPlan Your VisitDirections & TransportationMaps,CAHA,0,0,0,0,0,0,0
 2015,2015,17,https://www.nps.gov/caha/planyourvisit/eatingsleeping.htm,NPS.govPlan Your VisitEating & Sleeping,CAHA,0,0,0,0,0,0,0
 2016,2016,18,https://www.nps.gov/caha/planyourvisit/campgrounds.htm,NPS.govPlan Your VisitEating & SleepingCamping,CAHA,0,0,0,0,0,0,0
 2017,2017,19,https://www.nps.gov/caha/planyourvisit/placestogo.htm,NPS.govPlan Your VisitPlaces To Go,CAHA,0,0,0,0,0,0,0
 2018,2018,20,https://www.nps.gov/caha/planyourvisit/bils.htm,NPS.govPlan Your VisitPlaces To GoBodie Island Light Station,CAHA,0,0,0,0,0,0,0
-2019,2019,21,https://www.nps.gov/caha/planyourvisit/chls.htm,NPS.govPlan Your VisitPlaces To GoCape Hatteras Light Station,CAHA,0,0,0,0,1,0,1
+2019,2019,21,https://www.nps.gov/caha/planyourvisit/chls.htm,NPS.govPlan Your VisitPlaces To GoCape Hatteras Light Station,CAHA,0,0,0,0,1,1,2
 2020,2020,22,https://www.nps.gov/caha/planyourvisit/ols.htm,NPS.govPlan Your VisitPlaces To GoOcracoke Light Station,CAHA,0,0,1,0,0,0,1
 2021,2021,23,https://www.nps.gov/caha/planyourvisit/visitor-centers.htm,NPS.govPlan Your VisitPlaces To GoVisitor Centers,CAHA,0,0,0,0,1,0,1
 2022,2022,24,https://www.nps.gov/caha/planyourvisit/uswbs.htm,NPS.govPlan Your VisitPlaces To GoWeather Bureau Station,CAHA,0,0,0,0,0,0,0
@@ -2068,29 +2068,29 @@
 2066,2066,12,https://home.nps.gov/cakr/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,CAKR,0,0,0,0,0,0,0
 2067,2067,13,https://home.nps.gov/cakr/planyourvisit/calendar.htm,,CAKR,0,0,0,0,0,0,0
 2068,2068,14,https://home.nps.gov/cakr/planyourvisit/fees.htm,,CAKR,0,0,0,0,0,0,0
-2069,2069,0,https://home.nps.gov/calo/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,0,36
-2070,2070,1,https://home.nps.gov/calo/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,0,36
-2071,2071,2,https://home.nps.gov/calo/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,0,36
-2072,2072,3,https://home.nps.gov/calo/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,0,36
-2073,2073,4,https://home.nps.gov/calo/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,0,36
-2074,2074,5,https://home.nps.gov/calo/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,0,36
+2069,2069,0,https://home.nps.gov/calo/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,9,45
+2070,2070,1,https://home.nps.gov/calo/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,9,45
+2071,2071,2,https://home.nps.gov/calo/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,9,45
+2072,2072,3,https://home.nps.gov/calo/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,9,45
+2073,2073,4,https://home.nps.gov/calo/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,9,45
+2074,2074,5,https://home.nps.gov/calo/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,CALO,0,1,0,0,35,9,45
 2075,2075,6,https://home.nps.gov/planyourvisit/index.htm,,CALO,0,0,0,0,0,0,0
 2076,2076,7,https://home.nps.gov/planyourvisit/event-search.htm,,CALO,0,0,0,0,0,0,0
 2077,2077,8,https://home.nps.gov/planyourvisit/passes.htm,,CALO,0,0,0,0,0,0,0
 2078,2078,9,https://home.nps.gov/planyourvisit/trip-ideas.htm,,CALO,0,0,0,0,0,0,0
-2079,2079,10,https://home.nps.gov/calo/planyourvisit/basicinfo.htm,,CALO,0,1,0,0,7,0,8
-2080,2080,11,https://home.nps.gov/calo/planyourvisit/conditions.htm,,CALO,0,0,0,0,11,0,11
+2079,2079,10,https://home.nps.gov/calo/planyourvisit/basicinfo.htm,,CALO,0,1,0,0,7,1,9
+2080,2080,11,https://home.nps.gov/calo/planyourvisit/conditions.htm,,CALO,0,0,0,0,11,9,20
 2081,2081,12,https://home.nps.gov/calo/planyourvisit/maps.htm,,CALO,0,0,0,0,2,0,2
 2082,2082,13,https://home.nps.gov/calo/planyourvisit/calendar.htm,,CALO,0,0,0,0,0,0,0
-2083,2083,14,https://home.nps.gov/calo/planyourvisit/fees.htm,,CALO,0,1,0,0,7,0,8
-2084,2084,15,https://home.nps.gov/calo/planyourvisit/directions.htm#island,,CALO,0,1,0,0,33,0,34
-2085,2085,16,https://home.nps.gov/calo/planyourvisit/directions.htm#__topdoc__,,CALO,0,1,0,0,33,0,34
-2086,2086,17,https://www.nps.gov/calo/planyourvisit/ferry.htm,NPS.govPark HomePlan Your VisitDirections & TransportationList of Authorized Ferry Services,CALO,0,2,0,0,27,0,29
-2087,2087,18,https://home.nps.gov/calo/planyourvisit/directions.htm#HIVC,,CALO,0,1,0,0,33,0,34
-2088,2088,19,https://home.nps.gov/calo/planyourvisit/directions.htm#BVIC,,CALO,0,1,0,0,33,0,34
-2089,2089,20,https://home.nps.gov/calo/planyourvisit/ferry.htm#MuleTrain,,CALO,0,2,0,0,24,0,26
-2090,2090,21,https://home.nps.gov/calo/planyourvisit/directions.htm#GI,,CALO,0,1,0,0,33,0,34
-2091,2091,22,https://home.nps.gov/calo/planyourvisit/ferry.htm,,CALO,0,2,0,0,24,0,26
+2083,2083,14,https://home.nps.gov/calo/planyourvisit/fees.htm,,CALO,0,1,0,0,7,1,9
+2084,2084,15,https://home.nps.gov/calo/planyourvisit/directions.htm#island,,CALO,0,1,0,0,33,7,41
+2085,2085,16,https://home.nps.gov/calo/planyourvisit/directions.htm#__topdoc__,,CALO,0,1,0,0,33,7,41
+2086,2086,17,https://www.nps.gov/calo/planyourvisit/ferry.htm,NPS.govPark HomePlan Your VisitDirections & TransportationList of Authorized Ferry Services,CALO,0,2,0,0,27,12,41
+2087,2087,18,https://home.nps.gov/calo/planyourvisit/directions.htm#HIVC,,CALO,0,1,0,0,33,7,41
+2088,2088,19,https://home.nps.gov/calo/planyourvisit/directions.htm#BVIC,,CALO,0,1,0,0,33,7,41
+2089,2089,20,https://home.nps.gov/calo/planyourvisit/ferry.htm#MuleTrain,,CALO,0,2,0,0,24,9,35
+2090,2090,21,https://home.nps.gov/calo/planyourvisit/directions.htm#GI,,CALO,0,1,0,0,33,7,41
+2091,2091,22,https://home.nps.gov/calo/planyourvisit/ferry.htm,,CALO,0,2,0,0,24,9,35
 2092,2092,0,https://home.nps.gov/camo/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,CAMO,0,0,0,1,0,0,1
 2093,2093,1,https://home.nps.gov/camo/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,CAMO,0,0,0,1,0,0,1
 2094,2094,2,https://home.nps.gov/camo/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,CAMO,0,0,0,1,0,0,1
@@ -3460,7 +3460,7 @@
 3458,3458,16,https://www.nps.gov/cuis/planyourvisit/hours.htm,,CUIS,0,0,0,0,6,0,6
 3459,3459,17,https://www.nps.gov/cuis/planyourvisit/fees.htm,NPS.govPark HomePlan Your VisitBasic InformationFees & Passes,CUIS,0,0,0,0,2,0,2
 3460,3460,18,https://www.nps.gov/cuis/planyourvisit/your-fee-dollars.htm,,CUIS,0,1,0,0,0,0,1
-3461,3461,19,https://www.nps.gov/cuis/planyourvisit/conditions.htm,NPS.govPark HomePlan Your VisitBasic InformationCurrent Conditions,CUIS,0,0,0,0,5,0,5
+3461,3461,19,https://www.nps.gov/cuis/planyourvisit/conditions.htm,NPS.govPark HomePlan Your VisitBasic InformationCurrent Conditions,CUIS,0,0,0,0,5,1,6
 3462,3462,20,https://www.nps.gov/cuis/planyourvisit/permitsandreservations.htm,,CUIS,0,0,0,0,10,0,10
 3463,3463,21,https://www.nps.gov/cuis/planyourvisit/photo-and-film-permits.htm,,CUIS,0,0,0,0,0,0,0
 3464,3464,22,https://www.nps.gov/cuis/planyourvisit/cua.htm,,CUIS,0,0,0,0,0,0,0
@@ -4397,12 +4397,12 @@
 4395,4395,22,https://home.nps.gov/planyourvisit/event-search.htm,,FEHA,0,0,0,0,0,0,0
 4396,4396,23,https://home.nps.gov/planyourvisit/passes.htm,,FEHA,0,0,0,0,0,0,0
 4397,4397,24,https://home.nps.gov/planyourvisit/trip-ideas.htm,,FEHA,0,0,0,0,0,0,0
-4398,4398,0,https://home.nps.gov/fiis/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,0,9
-4399,4399,1,https://home.nps.gov/fiis/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,0,9
-4400,4400,2,https://home.nps.gov/fiis/planyourvisit/directions.htm#main,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,0,9
-4401,4401,3,https://home.nps.gov/fiis/planyourvisit/directions.htm#ParkFooter,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,0,9
-4402,4402,4,https://home.nps.gov/fiis/planyourvisit/directions.htm#GlobalFooter,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,0,9
-4403,4403,5,https://home.nps.gov/fiis/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,0,9
+4398,4398,0,https://home.nps.gov/fiis/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,2,11
+4399,4399,1,https://home.nps.gov/fiis/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,2,11
+4400,4400,2,https://home.nps.gov/fiis/planyourvisit/directions.htm#main,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,2,11
+4401,4401,3,https://home.nps.gov/fiis/planyourvisit/directions.htm#ParkFooter,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,2,11
+4402,4402,4,https://home.nps.gov/fiis/planyourvisit/directions.htm#GlobalFooter,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,2,11
+4403,4403,5,https://home.nps.gov/fiis/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPlan Your VisitDirections & Transportation,FIIS,0,0,0,0,9,2,11
 4404,4404,6,https://home.nps.gov/planyourvisit/index.htm,,FIIS,0,0,0,0,0,0,0
 4405,4405,7,https://home.nps.gov/planyourvisit/event-search.htm,,FIIS,0,0,0,0,0,0,0
 4406,4406,8,https://home.nps.gov/planyourvisit/passes.htm,,FIIS,0,0,0,0,0,0,0
@@ -4412,9 +4412,9 @@
 4410,4410,12,https://home.nps.gov/fiis/planyourvisit/maps.htm,NPS.govPlan Your VisitDirections & TransportationMaps,FIIS,0,0,0,0,2,0,2
 4411,4411,13,https://home.nps.gov/fiis/planyourvisit/calendar.htm,,FIIS,0,0,0,0,0,0,0
 4412,4412,14,https://home.nps.gov/fiis/planyourvisit/fees.htm,,FIIS,0,0,0,0,0,0,0
-4413,4413,15,https://home.nps.gov/fiis/planyourvisit/directions-to-long-island-and-fire-island.htm,,FIIS,1,1,1,1,16,0,20
+4413,4413,15,https://home.nps.gov/fiis/planyourvisit/directions-to-long-island-and-fire-island.htm,,FIIS,1,1,1,1,16,2,22
 4414,4414,16,https://home.nps.gov/fiis/planyourvisit/directions-to-fire-island-lighthouse.htm,,FIIS,0,0,0,0,1,0,1
-4415,4415,17,https://home.nps.gov/fiis/planyourvisit/getting-around-on-fire-island.htm,,FIIS,0,0,0,0,2,0,2
+4415,4415,17,https://home.nps.gov/fiis/planyourvisit/getting-around-on-fire-island.htm,,FIIS,0,0,0,0,2,1,3
 4416,4416,18,https://www.nps.gov/fiis/planyourvisit/williamfloydestate.htm,NPS.govPlan Your VisitPlaces To GoWilliam Floyd Estate,FIIS,0,0,0,0,2,0,2
 4417,4417,0,https://www.nps.gov/fila/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPlan Your VisitDirections & Transportation,FILA,0,0,0,0,0,0,0
 4418,4418,1,https://www.nps.gov/fila/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPlan Your VisitDirections & Transportation,FILA,0,0,0,0,0,0,0
@@ -4731,26 +4731,26 @@
 4729,4729,31,https://www.nps.gov/planyourvisit/passes.htm,,FOLS,0,0,0,0,0,0,0
 4730,4730,32,https://www.nps.gov/planyourvisit/trip-ideas.htm,,FOLS,0,0,0,0,0,0,0
 4731,4731,33,https://www.nps.gov/fols/planyourvisit/maps.htm,,FOLS,0,0,0,0,0,0,0
-4732,4732,0,https://www.nps.gov/foma/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,0,6
-4733,4733,1,https://www.nps.gov/foma/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,0,6
-4734,4734,2,https://www.nps.gov/foma/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,0,6
-4735,4735,3,https://www.nps.gov/foma/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,0,6
-4736,4736,4,https://www.nps.gov/foma/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,0,6
-4737,4737,5,https://www.nps.gov/foma/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,0,6
-4738,4738,6,https://www.nps.gov/foma/planyourvisit/index.htm,,FOMA,0,0,0,0,5,0,5
-4739,4739,7,https://www.nps.gov/foma/planyourvisit/basicinfo.htm,,FOMA,0,0,0,0,4,0,4
-4740,4740,8,https://www.nps.gov/foma/planyourvisit/hours.htm,,FOMA,0,0,0,0,12,0,12
+4732,4732,0,https://www.nps.gov/foma/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,3,9
+4733,4733,1,https://www.nps.gov/foma/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,3,9
+4734,4734,2,https://www.nps.gov/foma/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,3,9
+4735,4735,3,https://www.nps.gov/foma/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,3,9
+4736,4736,4,https://www.nps.gov/foma/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,3,9
+4737,4737,5,https://www.nps.gov/foma/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,FOMA,1,0,0,2,3,3,9
+4738,4738,6,https://www.nps.gov/foma/planyourvisit/index.htm,,FOMA,0,0,0,0,5,1,6
+4739,4739,7,https://www.nps.gov/foma/planyourvisit/basicinfo.htm,,FOMA,0,0,0,0,4,1,5
+4740,4740,8,https://www.nps.gov/foma/planyourvisit/hours.htm,,FOMA,0,0,0,0,12,4,16
 4741,4741,9,https://www.nps.gov/foma/planyourvisit/fees.htm,,FOMA,0,0,0,0,3,0,3
-4742,4742,10,https://www.nps.gov/foma/planyourvisit/conditions.htm,,FOMA,0,0,0,0,2,0,2
+4742,4742,10,https://www.nps.gov/foma/planyourvisit/conditions.htm,,FOMA,0,0,0,0,2,1,3
 4743,4743,11,https://www.nps.gov/foma/planyourvisit/permits.htm,,FOMA,0,0,0,0,0,0,0
-4744,4744,12,https://www.nps.gov/foma/planyourvisit/weather.htm,,FOMA,0,0,0,0,1,0,1
+4744,4744,12,https://www.nps.gov/foma/planyourvisit/weather.htm,,FOMA,0,0,0,0,1,1,2
 4745,4745,13,https://www.nps.gov/foma/planyourvisit/pets.htm,,FOMA,0,0,0,0,0,0,0
 4746,4746,14,https://www.nps.gov/foma/planyourvisit/directions.htm,,FOMA,1,0,0,2,0,0,3
-4747,4747,15,https://www.nps.gov/foma/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,FOMA,0,0,0,0,3,0,3
+4747,4747,15,https://www.nps.gov/foma/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,FOMA,0,0,0,0,3,3,6
 4748,4748,16,https://www.nps.gov/foma/planyourvisit/things2do.htm,,FOMA,0,0,0,0,3,0,3
 4749,4749,17,https://www.nps.gov/foma/planyourvisit/fishing.htm,,FOMA,0,0,0,0,0,0,0
 4750,4750,18,https://www.nps.gov/foma/planyourvisit/nature-trail-guide.htm,,FOMA,0,0,1,0,0,0,1
-4751,4751,19,https://www.nps.gov/foma/planyourvisit/living-history.htm,NPS.govPark HomePlan Your VisitThings To DoLiving History,FOMA,0,0,0,0,3,0,3
+4751,4751,19,https://www.nps.gov/foma/planyourvisit/living-history.htm,NPS.govPark HomePlan Your VisitThings To DoLiving History,FOMA,0,0,0,0,3,3,6
 4752,4752,20,https://www.nps.gov/foma/planyourvisit/nearby-attractions.htm,,FOMA,0,0,0,0,0,0,0
 4753,4753,21,https://www.nps.gov/foma/planyourvisit/calendar.htm,,FOMA,0,0,0,0,0,0,0
 4754,4754,22,https://www.nps.gov/foma/planyourvisit/safety.htm,,FOMA,0,0,0,0,0,0,0
@@ -5732,12 +5732,12 @@
 5730,5730,28,https://www.nps.gov/glba/planyourvisit/eatingsleeping.htm,,GLBA,0,0,0,0,0,0,0
 5731,5731,29,https://home.nps.gov/glba/planyourvisit/index.htm,,GLBA,0,0,0,0,0,0,0
 5732,5732,30,https://home.nps.gov/glba/planyourvisit/things2do.htm,,GLBA,0,0,0,0,0,0,0
-5733,5733,0,https://www.nps.gov/glca/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,0,22
-5734,5734,1,https://www.nps.gov/glca/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,0,22
-5735,5735,2,https://www.nps.gov/glca/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,0,22
-5736,5736,3,https://www.nps.gov/glca/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,0,22
-5737,5737,4,https://www.nps.gov/glca/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,0,22
-5738,5738,5,https://www.nps.gov/glca/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,0,22
+5733,5733,0,https://www.nps.gov/glca/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,2,24
+5734,5734,1,https://www.nps.gov/glca/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,2,24
+5735,5735,2,https://www.nps.gov/glca/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,2,24
+5736,5736,3,https://www.nps.gov/glca/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,2,24
+5737,5737,4,https://www.nps.gov/glca/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,2,24
+5738,5738,5,https://www.nps.gov/glca/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,GLCA,0,4,0,2,16,2,24
 5739,5739,6,https://www.nps.gov/glca/planyourvisit/index.htm,,GLCA,0,0,0,0,0,0,0
 5740,5740,7,https://www.nps.gov/glca/planyourvisit/basicinfo.htm,NPS.govPark HomePlan Your VisitBasic Information,GLCA,0,0,0,0,4,0,4
 5741,5741,8,https://www.nps.gov/glca/planyourvisit/hours.htm,NPS.govPark HomePlan Your VisitBasic InformationOperating Hours & Seasons,GLCA,0,0,0,0,6,0,6
@@ -5750,7 +5750,7 @@
 5748,5748,15,https://www.nps.gov/glca/planyourvisit/weather.htm,NPS.govPark HomePlan Your VisitBasic InformationWeather,GLCA,0,0,0,0,4,0,4
 5749,5749,16,https://www.nps.gov/glca/planyourvisit/pets.htm,,GLCA,0,0,0,0,0,0,0
 5750,5750,17,https://www.nps.gov/glca/planyourvisit/goodsandservices.htm,,GLCA,0,0,0,0,1,0,1
-5751,5751,18,https://www.nps.gov/glca/planyourvisit/directions.htm,,GLCA,0,4,0,2,12,0,18
+5751,5751,18,https://www.nps.gov/glca/planyourvisit/directions.htm,,GLCA,0,4,0,2,12,2,20
 5752,5752,19,https://www.nps.gov/glca/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,GLCA,0,0,0,0,4,0,4
 5753,5753,20,https://www.nps.gov/glca/planyourvisit/eatingsleeping.htm,,GLCA,0,0,0,0,0,0,0
 5754,5754,21,https://www.nps.gov/glca/planyourvisit/camping.htm,,GLCA,0,0,0,0,3,0,3
@@ -5763,7 +5763,7 @@
 5761,5761,28,https://www.nps.gov/glca/planyourvisit/escalante.htm,,GLCA,0,0,0,0,0,0,0
 5762,5762,29,https://www.nps.gov/glca/planyourvisit/floating-the-escalante-river.htm,,GLCA,0,1,0,0,0,0,1
 5763,5763,30,https://www.nps.gov/glca/planyourvisit/coyote-gulch.htm,,GLCA,0,0,0,0,0,0,0
-5764,5764,31,https://www.nps.gov/glca/planyourvisit/hite.htm,,GLCA,0,0,0,0,3,0,3
+5764,5764,31,https://www.nps.gov/glca/planyourvisit/hite.htm,,GLCA,0,0,0,0,3,1,4
 5765,5765,32,https://www.nps.gov/glca/planyourvisit/muley-point.htm,NPS.govPark HomePlan Your VisitPlaces To GoMuley Point,GLCA,0,0,0,0,4,0,4
 5766,5766,33,https://www.nps.gov/glca/planyourvisit/orange-cliffs.htm,,GLCA,0,0,0,0,0,0,0
 5767,5767,34,https://www.nps.gov/glca/planyourvisit/things2do.htm,NPS.govPark HomePlan Your VisitThings To Do,GLCA,0,0,0,0,4,0,4
@@ -5805,7 +5805,7 @@
 5803,5803,6,https://www.nps.gov/goga/planyourvisit/index.htm,,GOGA,0,0,0,0,0,0,0
 5804,5804,7,https://www.nps.gov/goga/planyourvisit/basicinfo.htm,,GOGA,0,0,0,0,0,0,0
 5805,5805,8,https://www.nps.gov/goga/planyourvisit/hours.htm,,GOGA,0,0,0,0,0,0,0
-5806,5806,9,https://www.nps.gov/goga/planyourvisit/fees.htm,,GOGA,0,3,0,0,3,0,6
+5806,5806,9,https://www.nps.gov/goga/planyourvisit/fees.htm,,GOGA,0,3,0,0,3,1,7
 5807,5807,10,https://www.nps.gov/goga/planyourvisit/conditions.htm,,GOGA,0,0,0,0,0,0,0
 5808,5808,11,https://www.nps.gov/goga/planyourvisit/permits.htm,,GOGA,0,0,0,0,0,0,0
 5809,5809,12,https://www.nps.gov/goga/planyourvisit/specialparkuses.htm,,GOGA,0,0,0,0,0,0,0
@@ -5843,18 +5843,18 @@
 5841,5841,44,https://www.nps.gov/alca/planyourvisit/directions.htm,NPS.govPark HomePlan Your VisitDirections & Transportation,GOGA,0,0,1,6,2,0,9
 5842,5842,45,https://www.nps.gov/fopo/planyourvisit/directions.htm,NPS.govPlan Your VisitDirections & Transportation,GOGA,1,3,1,0,0,0,5
 5843,5843,46,https://www.nps.gov/goga/planyourvisit/partners.htm,page doesn't exist,GOGA,0,0,0,0,0,0,0
-5844,5844,0,https://www.nps.gov/gois/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,0,6
-5845,5845,1,https://www.nps.gov/gois/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,0,6
-5846,5846,2,https://www.nps.gov/gois/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,0,6
-5847,5847,3,https://www.nps.gov/gois/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,0,6
-5848,5848,4,https://www.nps.gov/gois/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,0,6
-5849,5849,5,https://www.nps.gov/gois/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,0,6
+5844,5844,0,https://www.nps.gov/gois/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,1,7
+5845,5845,1,https://www.nps.gov/gois/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,1,7
+5846,5846,2,https://www.nps.gov/gois/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,1,7
+5847,5847,3,https://www.nps.gov/gois/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,1,7
+5848,5848,4,https://www.nps.gov/gois/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,1,7
+5849,5849,5,https://www.nps.gov/gois/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,GOIS,1,0,0,0,5,1,7
 5850,5850,6,https://www.nps.gov/gois/planyourvisit/index.htm,,GOIS,0,0,0,0,0,0,0
 5851,5851,7,https://www.nps.gov/gois/planyourvisit/basicinfo.htm,,GOIS,0,0,0,0,8,0,8
 5852,5852,8,https://www.nps.gov/gois/planyourvisit/conditions.htm,NPS.govPark HomePlan Your VisitBasic InformationCurrent Conditions,GOIS,0,0,3,0,0,0,3
 5853,5853,9,https://www.nps.gov/gois/planyourvisit/permitsandreservations.htm,,GOIS,0,0,0,0,0,0,0
-5854,5854,10,https://www.nps.gov/gois/planyourvisit/directions.htm,,GOIS,1,0,0,0,5,0,6
-5855,5855,11,https://www.nps.gov/gois/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,GOIS,0,0,0,0,3,0,3
+5854,5854,10,https://www.nps.gov/gois/planyourvisit/directions.htm,,GOIS,1,0,0,0,5,1,7
+5855,5855,11,https://www.nps.gov/gois/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,GOIS,0,0,0,0,3,1,4
 5856,5856,12,https://www.nps.gov/gois/planyourvisit/things2do.htm,NPS.govPark HomePlan Your VisitThings To Do,GOIS,0,0,0,0,0,0,0
 5857,5857,13,https://www.nps.gov/gois/planyourvisit/calendar.htm,NPS.govPark HomePlan Your VisitCalendar,GOIS,0,0,0,0,0,0,0
 5858,5858,14,https://www.nps.gov/gois/planyourvisit/safety.htm,,GOIS,0,0,0,0,5,0,5
@@ -6500,7 +6500,7 @@
 6498,6498,35,https://home.nps.gov/guis/planyourvisit/davis-bayou-area.htm,,GUIS,0,0,0,0,0,0,0
 6499,6499,36,https://home.nps.gov/guis/planyourvisit/horn-island.htm,,GUIS,0,0,0,0,0,0,0
 6500,6500,37,https://home.nps.gov/guis/planyourvisit/petit-bois-island.htm,,GUIS,0,0,0,0,0,0,0
-6501,6501,38,https://home.nps.gov/guis/planyourvisit/ship-island.htm,,GUIS,0,0,0,1,5,0,6
+6501,6501,38,https://home.nps.gov/guis/planyourvisit/ship-island.htm,,GUIS,0,0,0,1,5,2,8
 6502,6502,39,https://home.nps.gov/guis/planyourvisit/west-petit-bois-island.htm,,GUIS,0,0,0,0,0,0,0
 6503,6503,40,https://home.nps.gov/guis/planyourvisit/florida.htm,,GUIS,0,0,0,0,0,0,0
 6504,6504,41,https://home.nps.gov/guis/planyourvisit/fort-barrancas-area.htm,,GUIS,0,0,0,0,0,0,0
@@ -6692,7 +6692,7 @@
 6690,6690,14,https://www.nps.gov/hafe/planyourvisit/weddings-at-harpers-ferry-national-historical-park.htm,,HAFE,0,0,0,0,0,0,0
 6691,6691,15,https://www.nps.gov/hafe/planyourvisit/pets.htm,,HAFE,0,2,0,0,0,0,2
 6692,6692,16,https://www.nps.gov/hafe/planyourvisit/trashfreepark.htm,,HAFE,0,0,0,0,0,0,0
-6693,6693,17,https://www.nps.gov/hafe/planyourvisit/park-brochure.htm,,HAFE,10,8,0,0,5,0,23
+6693,6693,17,https://www.nps.gov/hafe/planyourvisit/park-brochure.htm,,HAFE,10,8,0,0,5,1,24
 6694,6694,18,https://www.nps.gov/hafe/planyourvisit/directions.htm,,HAFE,0,0,0,0,0,0,0
 6695,6695,19,https://www.nps.gov/hafe/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,HAFE,5,3,0,0,0,0,8
 6696,6696,20,https://www.nps.gov/hafe/planyourvisit/gettingaround.htm,,HAFE,5,6,0,0,0,0,11
@@ -7348,7 +7348,7 @@
 7346,7346,37,https://www.nps.gov/isro/planyourvisit/rock-harbor.htm,NPS.govPark HomePlan Your VisitPlaces To GoRock Harbor,ISRO,0,0,0,0,3,0,3
 7347,7347,38,https://www.nps.gov/isro/planyourvisit/windigo.htm,NPS.govPark HomePlan Your VisitPlaces To GoWindigo,ISRO,0,0,0,0,3,0,3
 7348,7348,39,https://www.nps.gov/isro/planyourvisit/things2do.htm,NPS.govPark HomePlan Your VisitThings To Do,ISRO,0,0,0,0,3,0,3
-7349,7349,40,https://www.nps.gov/isro/planyourvisit/first-timer-s-guide.htm,NPS.govPark HomePlan Your VisitThings To DoFirst Timer Guide,ISRO,0,0,0,0,10,0,10
+7349,7349,40,https://www.nps.gov/isro/planyourvisit/first-timer-s-guide.htm,NPS.govPark HomePlan Your VisitThings To DoFirst Timer Guide,ISRO,0,0,0,0,10,2,12
 7350,7350,41,https://www.nps.gov/isro/planyourvisit/camping.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & Camping,ISRO,0,0,1,0,3,0,4
 7351,7351,42,https://www.nps.gov/isro/planyourvisit/backpacking-faq.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & CampingBackpacking FAQ,ISRO,0,0,0,0,3,0,3
 7352,7352,43,https://www.nps.gov/isro/planyourvisit/cross-country-camping.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & CampingCross-Country Camping,ISRO,0,0,0,0,3,0,3
@@ -7356,7 +7356,7 @@
 7354,7354,45,https://www.nps.gov/isro/planyourvisit/group-camping-7-or-more-people.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & CampingGroup Camping (7 or more people),ISRO,0,0,0,0,4,0,4
 7355,7355,46,https://www.nps.gov/isro/planyourvisit/food-storage.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & CampingFood Storage,ISRO,0,0,0,0,3,0,3
 7356,7356,47,https://www.nps.gov/isro/planyourvisit/fuels-and-stoves.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & CampingFuels and Stoves,ISRO,0,0,0,0,3,0,3
-7357,7357,48,https://www.nps.gov/isro/planyourvisit/supply-delivery-and-storage.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & CampingSupply Delivery and Storage,ISRO,0,0,0,0,5,0,5
+7357,7357,48,https://www.nps.gov/isro/planyourvisit/supply-delivery-and-storage.htm,NPS.govPark HomePlan Your VisitThings To DoBackpacking & CampingSupply Delivery and Storage,ISRO,0,0,0,0,5,1,6
 7358,7358,49,https://www.nps.gov/isro/planyourvisit/boating.htm,NPS.govPark HomePlan Your VisitThings To DoBoating,ISRO,0,0,0,0,3,0,3
 7359,7359,50,https://www.nps.gov/isro/planyourvisit/boating-guide.htm,NPS.govPark HomePlan Your VisitThings To DoBoatingBoating Guide,ISRO,0,0,1,0,4,0,5
 7360,7360,51,https://www.nps.gov/isro/planyourvisit/boating-faq.htm,NPS.govPark HomePlan Your VisitThings To DoBoatingBoating FAQ,ISRO,0,0,0,0,3,0,3
@@ -8282,7 +8282,7 @@
 8280,8280,9,https://www.nps.gov/noca/planyourvisit/fees.htm,,LACH,0,1,0,0,0,0,1
 8281,8281,10,https://www.nps.gov/noca/planyourvisit/conditions.htm,NPS.govPlan Your VisitBasic InformationCurrent Conditions,LACH,0,0,0,2,0,0,2
 8282,8282,11,https://www.nps.gov/noca/planyourvisit/trail-conditions.htm,,LACH,0,0,0,0,0,0,0
-8283,8283,12,https://www.nps.gov/noca/planyourvisit/lake-and-river-conditions.htm,,LACH,0,0,0,0,3,0,3
+8283,8283,12,https://www.nps.gov/noca/planyourvisit/lake-and-river-conditions.htm,,LACH,0,0,0,0,3,1,4
 8284,8284,13,https://www.nps.gov/noca/planyourvisit/road-conditions.htm,,LACH,0,2,0,0,0,0,2
 8285,8285,14,https://www.nps.gov/noca/planyourvisit/planning-a-climb.htm,,LACH,0,0,0,0,0,0,0
 8286,8286,15,https://www.nps.gov/noca/planyourvisit/fire-closures.htm,NPS.govPlan Your VisitBasic InformationCurrent ConditionsFire Closures,LACH,0,0,0,2,0,0,2
@@ -8404,7 +8404,7 @@
 8402,8402,33,https://www.nps.gov/lake/planyourvisit/temple-bar.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MeadTemple Bar,LAKE,0,0,0,0,0,0,0
 8403,8403,34,https://www.nps.gov/lake/planyourvisit/lake-mohave.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake Mohave,LAKE,0,0,0,0,0,0,0
 8404,8404,35,https://www.nps.gov/lake/planyourvisit/lake-mohave-launch-ramps.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveLaunch Ramps,LAKE,0,0,0,0,0,0,0
-8405,8405,36,https://www.nps.gov/lake/planyourvisit/cottonwood-cove.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveCottonwood Cove,LAKE,0,0,0,0,1,0,1
+8405,8405,36,https://www.nps.gov/lake/planyourvisit/cottonwood-cove.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveCottonwood Cove,LAKE,0,0,0,0,1,1,2
 8406,8406,37,https://www.nps.gov/lake/planyourvisit/katherine-landing.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveKatherine Landing,LAKE,0,0,0,0,0,0,0
 8407,8407,38,https://www.nps.gov/lake/planyourvisit/willow-beach.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveWillow Beach,LAKE,0,0,0,0,0,0,0
 8408,8408,39,https://www.nps.gov/lake/planyourvisit/visitorcenters.htm,NPS.govPark HomePlan Your VisitPlaces To GoVisitor Centers,LAKE,0,0,0,0,0,0,0
@@ -8473,7 +8473,7 @@
 8471,8471,33,https://www.nps.gov/lake/planyourvisit/temple-bar.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MeadTemple Bar,LAME,0,0,0,0,0,0,0
 8472,8472,34,https://www.nps.gov/lake/planyourvisit/lake-mohave.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake Mohave,LAME,0,0,0,0,0,0,0
 8473,8473,35,https://www.nps.gov/lake/planyourvisit/lake-mohave-launch-ramps.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveLaunch Ramps,LAME,0,0,0,0,0,0,0
-8474,8474,36,https://www.nps.gov/lake/planyourvisit/cottonwood-cove.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveCottonwood Cove,LAME,0,0,0,0,1,0,1
+8474,8474,36,https://www.nps.gov/lake/planyourvisit/cottonwood-cove.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveCottonwood Cove,LAME,0,0,0,0,1,1,2
 8475,8475,37,https://www.nps.gov/lake/planyourvisit/katherine-landing.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveKatherine Landing,LAME,0,0,0,0,0,0,0
 8476,8476,38,https://www.nps.gov/lake/planyourvisit/willow-beach.htm,NPS.govPark HomePlan Your VisitPlaces To GoLake MohaveWillow Beach,LAME,0,0,0,0,0,0,0
 8477,8477,39,https://www.nps.gov/lake/planyourvisit/visitorcenters.htm,NPS.govPark HomePlan Your VisitPlaces To GoVisitor Centers,LAME,0,0,0,0,0,0,0
@@ -9093,7 +9093,7 @@
 9091,9091,21,https://home.nps.gov/maca/planyourvisit/eatingsleeping.htm,,MACA,0,0,0,0,0,0,0
 9092,9092,22,https://home.nps.gov/maca/planyourvisit/things2do.htm,,MACA,0,0,0,0,0,0,0
 9093,9093,23,https://home.nps.gov/maca/planyourvisit/backcountry-trails.htm,NPS.govPark HomePlan Your VisitThings To DoHikingBackcountry Trails,MACA,0,0,0,0,2,0,2
-9094,9094,24,https://home.nps.gov/maca/planyourvisit/maplespringscg.htm,NPS.govPark HomePlan Your VisitEating & SleepingCampingMaple Springs Campground,MACA,0,0,0,0,11,0,11
+9094,9094,24,https://home.nps.gov/maca/planyourvisit/maplespringscg.htm,NPS.govPark HomePlan Your VisitEating & SleepingCampingMaple Springs Campground,MACA,0,0,0,0,11,1,12
 9095,9095,25,https://home.nps.gov/maca/planyourvisit/horseback.htm,,MACA,0,0,0,0,5,0,5
 9096,9096,26,https://home.nps.gov/maca/planyourvisit/bicycling.htm,,MACA,0,0,0,0,0,0,0
 9097,9097,0,https://www.nps.gov/nama/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,MALL,0,0,0,2,0,0,2
@@ -9469,7 +9469,7 @@
 9467,9467,34,https://home.nps.gov/planyourvisit/trip-ideas.htm,,MISS,0,0,0,0,0,0,0
 9468,9468,35,https://home.nps.gov/miss/planyourvisit/mrvcabou.htm,,MISS,1,0,1,0,0,0,2
 9469,9469,36,https://home.nps.gov/miss/planyourvisit/uppestan.htm,,MISS,0,0,0,0,0,0,0
-9470,9470,37,https://home.nps.gov/miss/planyourvisit/bike-share-program.htm,,MISS,1,0,4,0,0,1,6
+9470,9470,37,https://home.nps.gov/miss/planyourvisit/bike-share-program.htm,,MISS,1,0,4,0,0,0,5
 9471,9471,38,https://home.nps.gov/miss/planyourvisit/missrivercomp.htm,,MISS,0,0,1,0,0,0,1
 9472,9472,0,https://home.nps.gov/mlkm/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,MLKM,1,0,0,2,0,0,3
 9473,9473,1,https://home.nps.gov/mlkm/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,MLKM,1,0,0,2,0,0,3
@@ -10386,7 +10386,7 @@
 10384,10384,9,https://www.nps.gov/noca/planyourvisit/fees.htm,,NOCA,0,1,0,0,0,0,1
 10385,10385,10,https://www.nps.gov/noca/planyourvisit/conditions.htm,,NOCA,0,0,0,0,0,0,0
 10386,10386,11,https://www.nps.gov/noca/planyourvisit/trail-conditions.htm,,NOCA,0,0,0,0,0,0,0
-10387,10387,12,https://www.nps.gov/noca/planyourvisit/lake-and-river-conditions.htm,,NOCA,0,0,0,0,3,0,3
+10387,10387,12,https://www.nps.gov/noca/planyourvisit/lake-and-river-conditions.htm,,NOCA,0,0,0,0,3,1,4
 10388,10388,13,https://www.nps.gov/noca/planyourvisit/road-conditions.htm,,NOCA,0,2,0,0,0,0,2
 10389,10389,14,https://www.nps.gov/noca/planyourvisit/planning-a-climb.htm,,NOCA,0,0,0,0,0,0,0
 10390,10390,15,https://www.nps.gov/noca/planyourvisit/fire-closures.htm,NPS.govPlan Your VisitBasic InformationCurrent ConditionsFire Closures,NOCA,0,0,0,2,0,0,2
@@ -10965,12 +10965,12 @@
 10963,10963,26,https://home.nps.gov/planyourvisit/trip-ideas.htm,,PETR,0,0,0,0,0,0,0
 10964,10964,27,https://home.nps.gov/petr/planyourvisit/maps.htm,,PETR,0,0,0,0,0,0,0
 10965,10965,28,https://home.nps.gov/petr/planyourvisit/images/petr_map.jpg,page doesn't exist,PETR,0,0,0,0,0,0,0
-10966,10966,0,https://home.nps.gov/pevi/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,0,9
-10967,10967,1,https://home.nps.gov/pevi/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,0,9
-10968,10968,2,https://home.nps.gov/pevi/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,0,9
-10969,10969,3,https://home.nps.gov/pevi/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,0,9
-10970,10970,4,https://home.nps.gov/pevi/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,0,9
-10971,10971,5,https://home.nps.gov/pevi/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,0,9
+10966,10966,0,https://home.nps.gov/pevi/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,1,10
+10967,10967,1,https://home.nps.gov/pevi/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,1,10
+10968,10968,2,https://home.nps.gov/pevi/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,1,10
+10969,10969,3,https://home.nps.gov/pevi/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,1,10
+10970,10970,4,https://home.nps.gov/pevi/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,1,10
+10971,10971,5,https://home.nps.gov/pevi/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,PEVI,1,0,1,0,7,1,10
 10972,10972,6,https://home.nps.gov/pevi/planyourvisit/index.htm,,PEVI,0,0,0,0,1,0,1
 10973,10973,7,https://home.nps.gov/pevi/planyourvisit/eclipse.htm,NPS.govPark HomePlan Your Visit2024 Total Solar Eclipse,PEVI,0,0,0,0,1,0,1
 10974,10974,8,https://home.nps.gov/pevi/planyourvisit/basicinfo.htm,,PEVI,0,0,0,0,0,0,0
@@ -10979,7 +10979,7 @@
 10977,10977,11,https://home.nps.gov/pevi/planyourvisit/conditions.htm,,PEVI,0,0,0,0,0,0,0
 10978,10978,12,https://home.nps.gov/pevi/planyourvisit/weather.htm,NPS.govPark HomePlan Your VisitBasic InformationWeather,PEVI,0,0,0,0,3,0,3
 10979,10979,13,https://home.nps.gov/pevi/planyourvisit/pets.htm,,PEVI,0,0,0,0,0,0,0
-10980,10980,14,https://home.nps.gov/pevi/planyourvisit/directions.htm,,PEVI,1,0,1,0,7,0,9
+10980,10980,14,https://home.nps.gov/pevi/planyourvisit/directions.htm,,PEVI,1,0,1,0,7,1,10
 10981,10981,15,https://home.nps.gov/pevi/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,PEVI,0,0,0,0,0,0,0
 10982,10982,16,https://home.nps.gov/pevi/planyourvisit/placestogo.htm,,PEVI,0,0,0,0,0,0,0
 10983,10983,17,https://home.nps.gov/pevi/planyourvisit/visit-the-memorial.htm,,PEVI,0,0,0,0,0,0,0
@@ -11741,7 +11741,7 @@
 11739,11739,9,https://www.nps.gov/noca/planyourvisit/fees.htm,,ROLA,0,1,0,0,0,0,1
 11740,11740,10,https://www.nps.gov/noca/planyourvisit/conditions.htm,,ROLA,0,0,0,0,0,0,0
 11741,11741,11,https://www.nps.gov/noca/planyourvisit/trail-conditions.htm,,ROLA,0,0,0,0,0,0,0
-11742,11742,12,https://www.nps.gov/noca/planyourvisit/lake-and-river-conditions.htm,,ROLA,0,0,0,0,3,0,3
+11742,11742,12,https://www.nps.gov/noca/planyourvisit/lake-and-river-conditions.htm,,ROLA,0,0,0,0,3,1,4
 11743,11743,13,https://www.nps.gov/noca/planyourvisit/road-conditions.htm,,ROLA,0,2,0,0,0,0,2
 11744,11744,14,https://www.nps.gov/noca/planyourvisit/planning-a-climb.htm,,ROLA,0,0,0,0,0,0,0
 11745,11745,15,https://www.nps.gov/noca/planyourvisit/fire-closures.htm,NPS.govPlan Your VisitBasic InformationCurrent ConditionsFire Closures,ROLA,0,0,0,2,0,0,2
@@ -12652,21 +12652,21 @@
 12650,12650,5,https://home.nps.gov/slbe/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,SLBE,3,0,0,0,0,0,3
 12651,12651,6,https://home.nps.gov/slbe/planyourvisit/index.htm,,SLBE,0,0,0,0,0,0,0
 12652,12652,7,https://home.nps.gov/slbe/planyourvisit/basicinfo.htm,,SLBE,0,0,0,0,0,0,0
-12653,12653,8,https://home.nps.gov/slbe/planyourvisit/park-brochure.htm,,SLBE,0,0,1,0,1,0,2
+12653,12653,8,https://home.nps.gov/slbe/planyourvisit/park-brochure.htm,,SLBE,0,0,1,0,1,1,3
 12654,12654,9,https://home.nps.gov/slbe/planyourvisit/hours.htm,,SLBE,0,0,0,0,0,0,0
 12655,12655,10,https://home.nps.gov/slbe/planyourvisit/fees.htm,NPS.govPark HomePlan Your VisitBasic InformationFees & Passes,SLBE,1,0,1,0,0,0,2
 12656,12656,11,https://home.nps.gov/slbe/planyourvisit/feeseducationwaiver.htm,,SLBE,0,0,0,0,0,0,0
 12657,12657,12,https://home.nps.gov/slbe/planyourvisit/conditions.htm,,SLBE,0,0,0,0,0,0,0
 12658,12658,13,https://home.nps.gov/slbe/planyourvisit/permitsandreservations.htm,,SLBE,0,0,0,0,0,0,0
 12659,12659,14,https://home.nps.gov/slbe/planyourvisit/campingfees.htm,,SLBE,0,0,0,0,0,0,0
-12660,12660,15,https://home.nps.gov/slbe/planyourvisit/nmihunting.htm,,SLBE,0,0,3,0,3,0,6
+12660,12660,15,https://home.nps.gov/slbe/planyourvisit/nmihunting.htm,,SLBE,0,0,3,0,3,2,8
 12661,12661,16,https://home.nps.gov/slbe/planyourvisit/weather.htm,,SLBE,0,0,0,0,0,0,0
 12662,12662,17,https://home.nps.gov/slbe/planyourvisit/pets.htm,,SLBE,0,0,0,0,0,0,0
 12663,12663,18,https://home.nps.gov/slbe/planyourvisit/firewood.htm,,SLBE,0,0,0,0,0,0,0
 12664,12664,19,https://home.nps.gov/slbe/planyourvisit/goodsandservices.htm,,SLBE,0,0,0,0,0,0,0
 12665,12665,20,https://home.nps.gov/slbe/planyourvisit/directions.htm,,SLBE,3,0,0,0,0,0,3
 12666,12666,21,https://home.nps.gov/slbe/planyourvisit/maps.htm,,SLBE,0,0,0,0,0,0,0
-12667,12667,22,https://home.nps.gov/slbe/planyourvisit/gettingaround.htm,,SLBE,0,0,3,0,5,0,8
+12667,12667,22,https://home.nps.gov/slbe/planyourvisit/gettingaround.htm,,SLBE,0,0,3,0,5,2,10
 12668,12668,23,https://home.nps.gov/slbe/planyourvisit/eatingsleeping.htm,,SLBE,0,0,0,0,0,0,0
 12669,12669,24,https://home.nps.gov/slbe/planyourvisit/campgrounds.htm,,SLBE,0,0,0,0,0,0,0
 12670,12670,25,https://home.nps.gov/slbe/planyourvisit/platterivercamp.htm,,SLBE,0,0,0,0,0,0,0
@@ -12680,7 +12680,7 @@
 12678,12678,33,https://home.nps.gov/slbe/planyourvisit/glen-haven-historic-village.htm,,SLBE,0,0,0,0,0,0,0
 12679,12679,34,https://home.nps.gov/slbe/planyourvisit/inlandlakes.htm,,SLBE,0,0,0,0,0,0,0
 12680,12680,35,https://home.nps.gov/slbe/planyourvisit/lighthouses.htm,,SLBE,0,0,0,0,1,0,1
-12681,12681,36,https://home.nps.gov/slbe/planyourvisit/the-manitou-islands.htm,,SLBE,0,0,1,0,1,0,2
+12681,12681,36,https://home.nps.gov/slbe/planyourvisit/the-manitou-islands.htm,,SLBE,0,0,1,0,1,1,3
 12682,12682,37,https://home.nps.gov/slbe/planyourvisit/portoneida.htm,,SLBE,0,0,0,0,0,0,0
 12683,12683,38,https://home.nps.gov/slbe/planyourvisit/otherfarmscabins.htm,,SLBE,0,0,0,0,0,0,0
 12684,12684,39,https://home.nps.gov/slbe/planyourvisit/psscenicdrive.htm,,SLBE,0,0,0,0,0,0,0
@@ -12695,7 +12695,7 @@
 12693,12693,48,https://home.nps.gov/slbe/planyourvisit/trails.htm,,SLBE,0,0,0,0,0,0,0
 12694,12694,49,https://home.nps.gov/slbe/planyourvisit/hunting.htm,,SLBE,0,0,0,0,0,0,0
 12695,12695,50,https://home.nps.gov/slbe/planyourvisit/kayak.htm,,SLBE,0,0,0,0,0,0,0
-12696,12696,51,https://home.nps.gov/slbe/planyourvisit/scubadiving.htm,,SLBE,0,0,1,0,3,0,4
+12696,12696,51,https://home.nps.gov/slbe/planyourvisit/scubadiving.htm,,SLBE,0,0,1,0,3,2,6
 12697,12697,52,https://home.nps.gov/slbe/planyourvisit/ski.htm,,SLBE,0,0,0,0,0,0,0
 12698,12698,53,https://home.nps.gov/slbe/planyourvisit/swimming.htm,,SLBE,0,0,0,0,0,0,0
 12699,12699,54,https://home.nps.gov/slbe/planyourvisit/tubing.htm,,SLBE,0,1,0,0,0,0,1
@@ -12766,13 +12766,13 @@
 12764,12764,25,https://www.nps.gov/planyourvisit/event-search.htm,,STEA,0,0,0,0,0,0,0
 12765,12765,26,https://www.nps.gov/planyourvisit/passes.htm,,STEA,0,0,0,0,0,0,0
 12766,12766,27,https://www.nps.gov/planyourvisit/trip-ideas.htm,,STEA,0,0,0,0,0,0,0
-12767,12767,0,https://www.nps.gov/stli/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,0,11
-12768,12768,1,https://www.nps.gov/stli/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,0,11
-12769,12769,2,https://www.nps.gov/stli/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,0,11
-12770,12770,3,https://www.nps.gov/stli/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,0,11
-12771,12771,4,https://www.nps.gov/stli/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,0,11
-12772,12772,5,https://www.nps.gov/stli/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,0,11
-12773,12773,6,https://www.nps.gov/stli/planyourvisit/index.htm,,STLI,0,0,0,0,5,0,5
+12767,12767,0,https://www.nps.gov/stli/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,1,12
+12768,12768,1,https://www.nps.gov/stli/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,1,12
+12769,12769,2,https://www.nps.gov/stli/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,1,12
+12770,12770,3,https://www.nps.gov/stli/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,1,12
+12771,12771,4,https://www.nps.gov/stli/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,1,12
+12772,12772,5,https://www.nps.gov/stli/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,STLI,0,0,0,5,6,1,12
+12773,12773,6,https://www.nps.gov/stli/planyourvisit/index.htm,,STLI,0,0,0,0,5,2,7
 12774,12774,7,https://www.nps.gov/stli/planyourvisit/basicinfo.htm,NPS.govPark HomePlan Your VisitBasic Information,STLI,0,1,0,2,5,0,8
 12775,12775,8,https://www.nps.gov/stli/planyourvisit/fees.htm,NPS.govPark HomePlan Your VisitBasic InformationFees & Passes,STLI,0,0,0,2,5,0,7
 12776,12776,9,https://www.nps.gov/stli/planyourvisit/conditions.htm,NPS.govPark HomePlan Your VisitBasic InformationCurrent Conditions,STLI,0,0,4,2,0,0,6
@@ -12780,7 +12780,7 @@
 12778,12778,11,https://www.nps.gov/stli/planyourvisit/permitsandreservations.htm,,STLI,0,0,0,0,0,0,0
 12779,12779,12,https://www.nps.gov/stli/planyourvisit/weather.htm,,STLI,0,0,0,0,0,0,0
 12780,12780,13,https://www.nps.gov/stli/planyourvisit/frequently-asked-questions-statue-of-liberty.htm,,STLI,0,0,0,0,4,0,4
-12781,12781,14,https://www.nps.gov/stli/planyourvisit/directions.htm,,STLI,0,0,0,3,6,0,9
+12781,12781,14,https://www.nps.gov/stli/planyourvisit/directions.htm,,STLI,0,0,0,3,6,1,10
 12782,12782,15,https://www.nps.gov/stli/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,STLI,0,0,1,2,0,0,3
 12783,12783,16,https://www.nps.gov/stli/planyourvisit/publictransportation.htm,,STLI,2,0,1,6,5,0,14
 12784,12784,17,https://www.nps.gov/stli/planyourvisit/things2do.htm,,STLI,0,0,0,0,2,0,2
@@ -13603,21 +13603,21 @@
 13601,13601,13,https://home.nps.gov/vick/planyourvisit/calendar.htm,,VICK,0,0,0,0,0,0,0
 13602,13602,14,https://home.nps.gov/vick/planyourvisit/regional-map.htm,,VICK,0,0,0,0,0,0,0
 13603,13603,15,https://home.nps.gov/vick/planyourvisit/vicksburg-city-area-map.htm,,VICK,0,0,0,0,0,0,0
-13604,13604,0,https://www.nps.gov/vicr/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,0,1
-13605,13605,1,https://www.nps.gov/vicr/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,0,1
-13606,13606,2,https://www.nps.gov/vicr/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,0,1
-13607,13607,3,https://www.nps.gov/vicr/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,0,1
-13608,13608,4,https://www.nps.gov/vicr/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,0,1
-13609,13609,5,https://www.nps.gov/vicr/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,0,1
+13604,13604,0,https://www.nps.gov/vicr/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,1,2
+13605,13605,1,https://www.nps.gov/vicr/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,1,2
+13606,13606,2,https://www.nps.gov/vicr/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,1,2
+13607,13607,3,https://www.nps.gov/vicr/planyourvisit/directions.htm#ParkFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,1,2
+13608,13608,4,https://www.nps.gov/vicr/planyourvisit/directions.htm#GlobalFooter,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,1,2
+13609,13609,5,https://www.nps.gov/vicr/planyourvisit/directions.htm#GlobalFooterSearch,NPS.govPark HomePlan Your VisitDirections & Transportation,VICR,0,0,0,0,1,1,2
 13610,13610,6,https://www.nps.gov/vicr/planyourvisit/index.htm,,VICR,0,0,0,0,1,0,1
 13611,13611,7,https://www.nps.gov/vicr/planyourvisit/basicinfo.htm,,VICR,0,0,0,0,0,0,0
 13612,13612,8,https://www.nps.gov/vicr/planyourvisit/vicr-fishing-info.htm,,VICR,0,0,0,0,0,0,0
 13613,13613,9,https://www.nps.gov/vicr/planyourvisit/fees.htm,,VICR,0,0,0,0,0,0,0
 13614,13614,10,https://www.nps.gov/vicr/planyourvisit/conditions.htm,,VICR,0,0,0,0,0,0,0
 13615,13615,11,https://www.nps.gov/vicr/planyourvisit/permitsandreservations.htm,,VICR,0,0,0,0,0,0,0
-13616,13616,12,https://www.nps.gov/vicr/planyourvisit/directions.htm,,VICR,0,0,0,0,1,0,1
+13616,13616,12,https://www.nps.gov/vicr/planyourvisit/directions.htm,,VICR,0,0,0,0,1,1,2
 13617,13617,13,https://www.nps.gov/vicr/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,VICR,0,0,0,0,0,0,0
-13618,13618,14,https://www.nps.gov/vicr/planyourvisit/trafficandtraveltips.htm,,VICR,0,0,0,0,9,0,9
+13618,13618,14,https://www.nps.gov/vicr/planyourvisit/trafficandtraveltips.htm,,VICR,0,0,0,0,9,2,11
 13619,13619,15,https://www.nps.gov/vicr/planyourvisit/hours.htm,,VICR,0,0,0,0,1,0,1
 13620,13620,16,https://www.nps.gov/vicr/planyourvisit/things2do.htm,,VICR,0,0,0,0,0,0,0
 13621,13621,17,https://www.nps.gov/vicr/planyourvisit/calendar.htm,,VICR,0,0,0,0,0,0,0
@@ -13645,7 +13645,7 @@
 13643,13643,12,https://home.nps.gov/viis/planyourvisit/maps.htm,NPS.govPark HomePlan Your VisitDirections & TransportationMaps,VIIS,0,0,0,2,0,0,2
 13644,13644,13,https://home.nps.gov/viis/planyourvisit/calendar.htm,,VIIS,0,0,0,0,0,0,0
 13645,13645,14,https://home.nps.gov/viis/planyourvisit/fees.htm,,VIIS,0,0,0,0,0,0,0
-13646,13646,15,https://home.nps.gov/viis/planyourvisit/gettingaround.htm,,VIIS,2,0,0,1,9,0,12
+13646,13646,15,https://home.nps.gov/viis/planyourvisit/gettingaround.htm,,VIIS,2,0,0,1,9,2,14
 13647,13647,0,https://home.nps.gov/vive/planyourvisit/directions.htm#GlobalNav-toggle,NPS.govPark HomePlan Your VisitDirections & Transportation,VIVE,0,0,0,2,0,0,2
 13648,13648,1,https://home.nps.gov/vive/planyourvisit/directions.htm#LocalNav-desktop-nav,NPS.govPark HomePlan Your VisitDirections & Transportation,VIVE,0,0,0,2,0,0,2
 13649,13649,2,https://home.nps.gov/vive/planyourvisit/directions.htm#main,NPS.govPark HomePlan Your VisitDirections & Transportation,VIVE,0,0,0,2,0,0,2
