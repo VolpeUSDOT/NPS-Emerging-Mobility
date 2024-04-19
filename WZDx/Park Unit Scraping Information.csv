@@ -15,9 +15,9 @@ Noatak,Noatak National Preserve,National Preserve,AK,AKR,NOAT,1
 Sitka,Sitka National Historical Park,National Historical Park,AK,AKR,SITK,1
 Wrangell - St Elias,Wrangell-St. Elias National Park,National Park & Preserve,AK,AKR,WRST,2
 Yukon - Charley Rivers,Yukon-Charley Rivers National Preserve,National Preserve,AK,AKR,YUCH,1
-Manhattan Project National Historical Park,Manhattan Project National Historical Park,Manhattan Project National Historical Park,NM,IMR,MAPR,
-Valles Caldera National Preserve,Valles Caldera National Preserve,Valles Caldera National Preserve,NM,IMR,VALL,
-Waco Mammoth National Monument,Waco Mammoth National Monument,Waco Mammoth National Monument,TX,IMR,WACO,
+Manhattan Project,Manhattan Project National Historical Park,National Historical Park,NM,IMR,MAPR,1
+Valles Caldera,Valles Caldera National Preserve,National Preserve,NM,IMR,VALL,1
+Waco Mammoth,Waco Mammoth National Monument,National Monument,TX,IMR,WACO,1
 Alibates Flint Quarries,Alibates Flint Quarries National Monument,National Monument,TX,IMR,ALFL,1
 Amistad,Amistad National Recreation Area,National Recreation Area,TX,IMR,AMIS,1
 Arches,Arches National Park,National Park,UT,IMR,ARCH,1
@@ -99,11 +99,11 @@ Wupatki,Wupatki National Monument,National Monument,AZ,IMR,WUPA,1
 Yellowstone,Yellowstone National Park,National Park,"ID,MT,WY",IMR,YELL,1
 Yucca House,Yucca House,National Monument,CO,IMR,YUHO,1
 Zion,Zion National Park,National Park,UT,IMR,ZION,1
-Ice Age National Scenic Trail,Ice Age National Scenic Trail,Ice Age National Scenic Trail,WI,MWR,IATR,
-Lewis and Clark National Historic Trail,Lewis and Clark National Historic Trail,Lewis and Clark National Historic Trail,NE,MWR,LECL,
-Lower Saint Croix National Scenic Riverway,Lower Saint Croix National Scenic Riverway,Lower Saint Croix National Scenic Riverway,WI,MWR,LOSA,
-Pullman National Monument,Pullman National Monument,Pullman National Monument,IL,MWR,PULL,
-Ronald Reagan Boyhood Home National Historic Site,Ronald Reagan Boyhood Home National Historic Site,Ronald Reagan Boyhood Home National Historic Site,IL,MWR,RRBH,
+Ice Age,Ice Age National Scenic Trail,National Scenic Trail,WI,MWR,IATR,1
+Lewis and Clark,Lewis and Clark National Historic Trail,National Historic Trail,NE,MWR,LECL,1
+Lower Saint Croix,Lower Saint Croix National Scenic Riverway,National Scenic Riverway,WI,MWR,LOSA,1
+Pullman,Pullman National Monument,National Monument,IL,MWR,PULL,1
+Ronald Reagan Boyhood Home,Ronald Reagan Boyhood Home National Historic Site,National Historic Site,IL,MWR,RRBH,1
 Agate Fossil Beds,Agate Fossil Beds National Monument,National Monument,NE,MWR,AGFO,1
 Apostle Islands,Apostle Islands National Lakeshore,National Lakeshore,WI,MWR,APIS,1
 Arkansas Post,Arkansas Post National Memorial,National Memorial,AR,MWR,ARPO,1
@@ -160,21 +160,21 @@ Wind Cave,Wind Cave National Park,National Park,SD,MWR,WICA,1
 President William Jefferson Clinton Birthplace Home,President William Jefferson Clinton Birthplace Home National Historic Site,National Historic Site,AR,MWR,WICL,1
 Wilson's Creek,Wilson's Creek National Battlefield,National Battlefield,MO,MWR,WICR,1
 William Howard Taft,William Howard Taft National Historic Site,National Historic Site,OH,MWR,WIHO,1
-Belmont-Paul Women's Equality National Monument,Belmont-Paul Women's Equality National Monument,Belmont-Paul Women's Equality National Monument,DC,NCR,BEPA,
-Thomas Jefferson Memorial,Thomas Jefferson Memorial,Thomas Jefferson Memorial,DC,NCR,JEFM,
-Mary McLeod Bethune Council House National Historic Site,Mary McLeod Bethune Council House National Historic Site,Mary McLeod Bethune Council House National Historic Site,DC,NCR,MABE,
-National Mall,National Mall,National Mall,DC,NCR,MALL,
-National Capital Parks,National Capital Parks,National Capital Parks,DC,NCR,NACA,
-Washington Monument,Washington Monument,Washington Monument,DC,NCR,WAMO,
-World War II Memorial,World War II Memorial,World War II Memorial,DC,NCR,WWII,
-World War I Memorial,World War I Memorial,World War I Memorial,DC,NCR,WWIM,
+Belmont-Paul Women's Equality,Belmont-Paul Women's Equality National Monument,National Monument,DC,NCR,BEPA,1
+Thomas Jefferson Memorial,Thomas Jefferson Memorial,Memorial,DC,NCR,JEFM,1
+Mary McLeod Bethune Council House,Mary McLeod Bethune Council House National Historic Site,National Historic Site,DC,NCR,MABE,1
+National Mall,National Mall,National Mall,DC,NCR,MALL,1
+National Capital Parks,National Capital Parks,National Capital Parks,DC,NCR,NACA,1
+Washington Monument,Washington Monument,Monument,DC,NCR,WAMO,1
+World War II Memorial,World War II Memorial,Memorial,DC,NCR,WWII,1
+World War I Memorial,World War I Memorial,Memorial,DC,NCR,WWIM,1
 Antietam,Antietam National Battlefield,National Battlefield,MD,NCR,ANTI,1
 "Arlington House, The Robert E. Lee Memorial","Arlington House, The Robert E. Lee Memorial",National Memorial,VA,NCR,ARHO,1
 Catoctin Mountain,Catoctin Mountain Park,Park,MD,NCR,CATO,1
 Carter G. Woodson Home,Carter G. Woodson Home National Historic Site,National Historic Site,DC,NCR,CAWO,1
 Chesapeake & Ohio Canal,Chesapeake and Ohio Canal National Historical Park,National Historical Park,"DC,MD,WV",NCR,CHOH,1
 Clara Barton,Clara Barton National Historic Site,National Historic Site,MD,NCR,CLBA,1
-Constitution Gardens,Constitution Gardens,,DC,NCR,COGA,1
+Constitution Gardens,Constitution Gardens,Park,DC,NCR,COGA,1
 Ford's Theatre,Ford's Theatre National Historic Site,National Historic Site,DC,NCR,FOTH,1
 Fort Washington,Fort Washington Park,Park,MD,NCR,FOWA,1
 Franklin Delano Roosevelt,Franklin Delano Roosevelt Memorial,Memorial,DC,NCR,FRDE,1
@@ -190,8 +190,8 @@ Mary McLeod Bethune Council House,Mary McLeod Bethune Council House National His
 Manassas,Manassas National Battlefield Park,National Battlefield Park,VA,NCR,MANA,1
 "Martin Luther King, Jr.","Martin Luther King, Jr., Memorial",Memorial,DC,NCR,MLKM,1
 Monocacy,Monocacy National Battlefield,National Battlefield,MD,NCR,MONO,1
-National Mall & Memorial Parks,National Mall & Memorial Parks,,DC,NCR,NACC,1
-National Mall,National Mall,,DC,NCR,NAMA,1
+National Mall & Memorial Parks,National Mall & Memorial Parks,Memorial,DC,NCR,NACC,1
+National Mall,National Mall,Memorial,DC,NCR,NAMA,1
 National World War II,National World War II,Memorial,DC,NCR,NWWM,1
 Pennsylvania Avenue,Pennsylvania Avenue National Historic Site,National Historic Site,DC,NCR,PAAV,1
 Piscataway,Piscataway Park,Park,MD,NCR,PISC,1
@@ -202,10 +202,10 @@ Theodore Roosevelt Island,Theodore Roosevelt Island,Park,VA,NCR,THIS,1
 Thomas Jefferson,Thomas Jefferson Memorial,Memorial,DC,NCR,THJE,1
 Vietnam Veterans,Vietnam Veterans Memorial,Memorial,DC,NCR,VIVE,1
 Washington,Washington,Monument,DC,NCR,WASH,1
-President's Park (White House),White House,,DC,NCR,WHHO,1
+President's Park (White House),White House,Park,DC,NCR,WHHO,1
 Wolf Trap National Park for the Performing Arts,Wolf Trap National Park for the Performing Arts,,VA,NCR,WOTR,1
-Katahdin Woods And Waters National Monument,Katahdin Woods and Waters National Monument,Katahdin Woods And Waters National Monument,ME,NER,KAWW,
-Stonewall National Monument,Stonewall National Monument,Stonewall National Monument,NY,NER,STON,
+Katahdin Woods And Waters,Katahdin Woods and Waters National Monument,National Monument,ME,NER,KAWW,1
+Stonewall,Stonewall National Monument,National Monument,NY,NER,STON,1
 Acadia,Acadia National Park,National Park,ME,NER,ACAD,1
 Adams,Adams National Historical Park,National Historical Park,MA,NER,ADAM,1
 African Burial Ground,African Burial Ground National Monument,National Monument,NY,NER,AFBG,1
@@ -245,7 +245,7 @@ General Grant,General Grant National Memorial,National Memorial,NY,NER,GEGR,1
 Gettysburg,Gettysburg National Military Park,National Military Park,PA,NER,GETT,1
 George Washington Birthplace,George Washington Birthplace National Monument,National Monument,VA,NER,GEWA,1
 Governors Island,Governors Island National Monument,National Monument,NY,NER,GOIS,1
-Great Egg Harbor River,Great Egg Harbor River,,NJ,NER,GREG,1
+Great Egg Harbor River,Great Egg Harbor River,River,NJ,NER,GREG,1
 Hamilton Grange,Hamilton Grange National Memorial,National Memorial,NY,NER,HAGR,1
 Hampton,Hampton National Historic Site,National Historic Site,MD,NER,HAMP,1
 Home Of Franklin D Roosevelt,Home of Franklin D. Roosevelt National Historic Site,National Historic Site,NY,NER,HOFR,1
@@ -286,15 +286,15 @@ Valley Forge,Valley Forge National Historical Park,National Historical Park,PA,N
 Vanderbilt Mansion,Vanderbilt Mansion National Historic Site,National Historic Site,NY,NER,VAMA,1
 Weir Farm,Weir Farm National Historical Park,National Historic Site,CT,NER,WEFA,1
 Women's Rights,Women's Rights National Historical Park,National Historical Park,NY,NER,WORI,1
-Ala Kahakai National Historic Trail,Ala Kahakai National Historic Trail,Ala Kahakai National Historic Trail,HI,PWR,ALKA,
-American Memorial Park,American Memorial Park,American Memorial Park,MP,PWR,AMME,
-Castle Mountains National Monument,Castle Mountains National Monument,Castle Mountains National Monument,CA,PWR,CAMO,
-Craters of the Moon National Preserve,Craters of the Moon National Preserve,Craters of the Moon National Preserve,ID,PWR,CRMP,
-Honouliuli National Monument,Honouliuli National Monument,Honouliuli National Monument,HI,PWR,HONO,
-Kings Canyon National Park,Kings Canyon National Park,Kings Canyon National Park,CA,PWR,KICA,
-Lake Mead National Recreation Area,Lake Mead National Recreation Area,Lake Mead National Recreation Area,NV,PWR,LAKE,
-Sequoia National Park,Sequoia National Park,Sequoia National Park,CA,PWR,SEQU,
-Tule Springs Fossil Beds National Monument,Tule Springs Fossil Beds National Monument,Tule Springs Fossil Beds National Monument,NV,PWR,TUSK,
+Ala Kahakai,Ala Kahakai National Historic Trail,National Historic Trail,HI,PWR,ALKA,1
+American Memorial Park,American Memorial Park,Memorial Park,MP,PWR,AMME,1
+Castle Mountains,Castle Mountains National Monument,National Monument,CA,PWR,CAMO,1
+Craters of the Moon,Craters of the Moon National Preserve,National Preserve,ID,PWR,CRMP,1
+Honouliuli,Honouliuli National Monument,National Monument,HI,PWR,HONO,1
+Kings Canyon,Kings Canyon National Park,National Park,CA,PWR,KICA,1
+Lake Mead,Lake Mead National Recreation Area,National Recreation Area,NV,PWR,LAKE,1
+Sequoia,Sequoia National Park,National Park,CA,PWR,SEQU,1
+Tule Springs Fossil Beds,Tule Springs Fossil Beds National Monument,National Monument,NV,PWR,TUSK,1
 Big Hole,Big Hole National Battlefield,National Battlefield,MT,PWR,BIHO,1
 Cabrillo,Cabrillo National Monument,National Monument,CA,PWR,CABR,1
 César E. Chávez,César E. Chávez,National Monument,CA,PWR,CECH,1
@@ -331,7 +331,7 @@ Mount Rainier,Mount Rainier National Park,National Park,WA,PWR,MORA,1
 Muir Woods,Muir Woods National Monument,National Monument,CA,PWR,MUWO,1
 Nez Perce,Nez Perce National Historical Park,National Historical Park,"ID,MT,OR,WA",PWR,NEPE,1
 North Cascades,North Cascades National Park,National Park,WA,PWR,NOCA,1
-National Park of American Samoa,National Park of American Samoa,,AS,PWR,NPSA,1
+American Samoa,National Park of American Samoa,National Park,AS,PWR,NPSA,1
 Olympic,Olympic National Park,National Park,WA,PWR,OLYM,1
 Oregon Caves,Oregon Caves National Monument and Preserve,National Monument,OR,PWR,ORCA,1
 Pinnacles,Pinnacles National Park,National Park,CA,PWR,PINN,1
@@ -351,9 +351,9 @@ War In The Pacific,War in the Pacific National Historical Park,National Historic
 Whiskeytown,Whiskeytown-Shasta-Trinity National Recreation Area,National Recreation Area,CA,PWR,WHIS,1
 Whitman Mission,Whitman Mission National Historic Site,National Historic Site,WA,PWR,WHMI,1
 Yosemite,Yosemite National Park,National Park,CA,PWR,YOSE,1
-Presidio,Presidio of San Francisco,,,PWR,PRSF,
-Obed Wild and Scenic River,Obed Wild and Scenic River,Obed Wild and Scenic River,TN,SER,OBRI,
-Selma to Montgomery National Historic Trail,Selma to Montgomery National Historic Trail,Selma to Montgomery National Historic Trail,AL,SER,SEMO,
+Presidio,Presidio of San Francisco,Presidio,,PWR,PRSF,1
+Obed Wild and Scenic River,Obed Wild and Scenic River,Wild & Scenic River,TN,SER,OBRI,1
+Selma to Montgomery,Selma to Montgomery National Historic Trail,National Historic Trail,AL,SER,SEMO,1
 Abraham Lincoln Birthplace,Abraham Lincoln Birthplace National Historical Park,National Historical Park,KY,SER,ABLI,1
 Andersonville,Andersonville National Historic Site,National Historic Site,GA,SER,ANDE,1
 Andrew Johnson,Andrew Johnson National Historic Site,National Historic Site,TN,SER,ANJO,1
@@ -420,13 +420,13 @@ Virgin Islands Coral Reef,Virgin Islands Coral Reef,National Monument,VI,SER,VIC
 Virgin Islands,Virgin Islands National Park,National Park,VI,SER,VIIS,1
 Wright Brothers,Wright Brothers National Memorial,National Memorial,NC,SER,WRBR,1
 Chesapeake Bay,Chesapeake Bay,Gateways and Watertrails Network,"DC, MD, NY, PA, VA, WV",NER,CBGN,1
-Lower Delaware,Lower Delaware,National Scenic River,"PA, NJ",NER,LODE,
-,,,,,AMCH,
-,,,,,YORK,
-,,,,,PINE,
-,,,,,ROCA,
-,,,,,PARA,
-,,,,,ALCA,
-,,,,,NATT,
-,,,,,JAME,
-,,,,,DEVA,
+Lower Delaware,Lower Delaware,National Scenic River,"PA, NJ",NER,LODE,1
+Amache,Amache National Historic Site,National Historic Site,CO,IMR,AMCH,1
+Yorktown,Yorktown Battlefield,Battlefield,VA,NER,YORK,1
+New Jersey Pinelands,New Jersey Pinelands National Reserve,National Reserve,NJ,NER,PINE,1
+Roosevelt Campobello,Roosevelt Campobello International Park,International Park,ME,NER,ROCA,1
+Grand Canyon-Parashant,Grand Canyon-Parashant National Monument,National Monument,AZ,IMR,PARA,1
+Alcatraz Island,Alcatraz Island,Island,CA,PWR,ALCA,1
+Natchez Trace,Natchez Trace National Scenic Trail,National Scenic Trail,"AL, MS, TN",SER,NATT,1
+Historic Jamestowne,Historic Jamestowne,National Historical Park,VA,NER,JAME,1
+Death Valley,Death Valley National Park,National Park,"CA, NV",PWR,DEVA,1
