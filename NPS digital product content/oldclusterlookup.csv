@@ -231,7 +231,7 @@ LYJO,Lyndon B. Johnson National Historical Park,IMR,7,Rural Low Visitation
 MABI,Marsh-Billings-Rockefeller National Historical Park,NER,7,Rural Low Visitation
 MACA,Mammoth Cave National Park,SER,1,Transit Parks
 MALU,"Martin Luther King, Jr., National Historical Park",SER,2,Urban Sites
-MAWA,Maggie L. Walker National Historic Site,NER,2,Urban Sites
+MALW,Maggie L. Walker National Historic Site,NER,2,Urban Sites
 MAMC,Mary McLeod Bethune Council House National Historic Site,NCR,4,Urban Low Visitation
 MANA,Manassas National Battlefield Park,NCR,5,Urban High Visitation
 MANZ,Manzanar National Historic Site,PWR,7,Rural Low Visitation
@@ -254,7 +254,7 @@ MORR,Morristown National Historical Park,NER,4,Urban Low Visitation
 MORU,Mount Rushmore National Memorial,MWR,8,Rural High Visitation
 MUWO,Muir Woods National Monument,PWR,1,Transit Parks
 NABR,Natural Bridges National Monument,IMR,7,Rural Low Visitation
-NACA,National Capital Park East,NCR,5,Urban High Visitation
+NACE,National Capital Park East,NCR,5,Urban High Visitation
 NAMA,National Mall,NCR,1,Transit Parks
 NATC,Natchez National Historical Park,SER,3,Low Visitation Sites
 NATR,Natchez Trace Parkway,SER,5,Urban High Visitation
@@ -292,7 +292,7 @@ PISC,Piscataway Park,NCR,2,Urban Sites
 PISP,Pipe Spring National Monument,IMR,7,Rural Low Visitation
 POCH,Port Chicago Naval Magazine National Memorial,PWR,6,High Seasonal Variation
 PORE,Point Reyes National Seashore,PWR,1,Transit Parks
-WHHO,President's Park,NCR,2,Urban Sites
+PRPA,President's Park,NCR,2,Urban Sites
 PRWI,Prince William Forest Park,NCR,4,Urban Low Visitation
 PUHE,Pu'ukohola Heiau National Historic Site,PWR,3,Low Visitation Sites
 PUHO,Pu'uhonua o Honaunau National Historical Park,PWR,8,Rural High Visitation
