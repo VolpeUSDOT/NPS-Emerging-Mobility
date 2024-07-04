@@ -1,11 +1,10 @@
 ,Label,Total_Parks,Access_Parks,Percent_Access
-0,High Seasonality,43,43,100.0
-1,"High Visitation, Rural",56,56,100.0
-2,"High Visitation, Urban",37,37,100.0
-3,Limited Access,29,29,100.0
-4,"Low Visitation, Rural",54,54,100.0
-5,"Low Visitation, Urban",57,57,100.0
-6,Rural Sites,22,22,100.0
-7,Transit Park,49,49,100.0
-8,Urban Sites,33,33,100.0
-9,Total,380,380,100.0
+0,High Seasonal Variation,42,42,100.0
+1,Low Visitation Sites,19,19,100.0
+2,Rural High Visitation,63,63,100.0
+3,Rural Low Visitation,72,72,100.0
+4,Transit Parks,49,49,100.0
+5,Urban High Visitation,34,34,100.0
+6,Urban Low Visitation,66,66,100.0
+7,Urban Sites,38,38,100.0
+8,Total,383,383,100.0

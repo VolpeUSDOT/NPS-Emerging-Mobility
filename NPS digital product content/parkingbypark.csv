@@ -1,0 +1,422 @@
+,park,parking lot,parking,pull off,pulloff,pull-off,total space,parking space,oversized space,garage,parking spot,parking tag,vehicle space,parking area,total,FinalCluster,Label
+0,ABLI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,Rural High Visitation
+1,ACAD,49,331,0,0,1,0,10,0,0,0,0,0,216,607,1.0,Transit Parks
+2,ADAM,0,103,0,0,0,0,0,0,39,0,0,0,0,142,1.0,Transit Parks
+3,AFBG,0,15,0,0,0,0,0,0,0,0,0,0,0,15,2.0,Urban Sites
+4,AGFO,10,29,0,0,0,0,6,0,0,0,0,0,10,55,7.0,Rural Low Visitation
+5,ALAG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,High Seasonal Variation
+6,ALFL,1,1,0,0,0,0,0,0,0,0,0,0,0,2,7.0,Rural Low Visitation
+7,ALKA,0,3,0,0,0,0,0,0,0,0,0,0,1,4,,
+8,ALPO,7,19,0,0,0,0,0,0,0,1,0,0,4,31,4.0,Urban Low Visitation
+9,AMIS,4,38,0,0,0,0,1,0,0,0,0,0,14,57,8.0,Rural High Visitation
+10,AMME,8,8,0,0,0,0,0,0,0,0,0,0,0,16,,
+11,ANDE,0,1,0,0,1,0,0,0,0,0,0,0,0,2,7.0,Rural Low Visitation
+12,ANIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,High Seasonal Variation
+13,ANJO,5,14,0,0,0,0,1,0,3,0,0,0,0,23,4.0,Urban Low Visitation
+14,ANTI,3,12,0,0,0,0,0,0,0,0,0,0,4,19,4.0,Urban Low Visitation
+15,APCO,14,29,1,0,0,0,0,0,0,0,0,0,8,52,7.0,Rural Low Visitation
+16,APIS,13,61,0,0,0,0,0,0,0,3,0,0,3,80,6.0,High Seasonal Variation
+17,APPA,0,7,0,0,0,0,0,0,0,0,0,0,7,14,,
+18,ARCH,63,113,0,0,0,3,0,3,0,2,0,3,1,188,8.0,Rural High Visitation
+19,ARHO,0,29,0,0,0,0,0,0,6,0,0,0,0,35,2.0,Urban Sites
+20,ARPO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+21,ASIS,46,78,1,0,0,0,0,0,0,0,1,0,11,137,8.0,Rural High Visitation
+22,AZRU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+23,BADL,3,7,0,0,1,0,1,0,0,0,0,0,0,12,8.0,Rural High Visitation
+24,BAND,10,24,0,0,0,0,2,0,0,0,0,0,6,42,1.0,Transit Parks
+25,BELA,1,3,0,0,0,0,0,0,0,0,0,0,0,4,6.0,High Seasonal Variation
+26,BEOL,5,14,0,0,0,0,3,0,0,0,0,0,1,23,7.0,Rural Low Visitation
+27,BEPA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,Urban Sites
+28,BIBE,7,29,1,0,2,0,0,0,0,1,0,0,8,48,8.0,Rural High Visitation
+29,BICA,3,18,0,0,0,0,0,0,1,0,0,0,11,33,8.0,Rural High Visitation
+30,BICY,3,18,0,0,1,0,0,0,0,0,0,0,2,24,6.0,High Seasonal Variation
+31,BIHO,6,9,0,0,0,0,0,0,0,0,0,0,1,16,7.0,Rural Low Visitation
+32,BISC,3,8,0,0,0,0,2,0,0,0,0,0,1,14,5.0,Urban High Visitation
+33,BISO,11,20,0,0,0,0,0,0,0,0,0,0,3,34,8.0,Rural High Visitation
+34,BITH,0,3,0,0,0,0,0,0,0,0,0,0,0,3,4.0,Urban Low Visitation
+35,BLCA,8,17,0,0,0,0,0,0,0,0,0,0,4,29,6.0,High Seasonal Variation
+36,BLRI,0,14,0,0,0,0,0,0,0,0,0,0,10,24,1.0,Transit Parks
+37,BLUE,0,7,0,0,0,0,0,0,0,0,0,0,7,14,7.0,Rural Low Visitation
+38,BOAF,21,82,0,0,0,0,0,0,1,0,0,0,0,104,2.0,Urban Sites
+39,BOHA,7,34,0,0,0,0,0,0,1,0,0,0,0,42,1.0,Transit Parks
+40,BOST,35,116,0,0,0,0,1,0,14,0,0,0,0,166,5.0,Urban High Visitation
+41,BOWA,1,7,0,0,0,0,0,0,0,0,0,0,4,12,4.0,Urban Low Visitation
+42,BRCA,105,189,3,0,0,11,7,11,0,0,0,11,6,343,1.0,Transit Parks
+43,BRCR,0,6,0,0,0,0,0,0,0,0,0,0,0,6,,
+44,BRVB,86,101,0,0,0,0,0,0,0,0,0,0,0,187,4.0,Urban Low Visitation
+45,BUFF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,Rural High Visitation
+46,BUIS,1,1,0,0,0,0,0,0,0,0,0,0,0,2,7.0,Rural Low Visitation
+47,CABR,9,26,0,0,0,0,2,0,0,2,0,0,5,44,5.0,Urban High Visitation
+48,CACH,2,3,0,0,0,0,1,0,0,0,0,0,0,6,8.0,Rural High Visitation
+49,CACL,0,10,0,0,0,0,0,0,1,0,0,0,0,11,2.0,Urban Sites
+50,CACO,5,36,0,0,1,0,0,0,0,0,0,0,9,51,1.0,Transit Parks
+51,CAGR,6,25,2,0,0,0,1,0,0,0,0,0,0,34,4.0,Urban Low Visitation
+52,CAHA,10,42,0,0,0,0,11,0,0,0,0,0,3,66,8.0,Rural High Visitation
+53,CAKR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,High Seasonal Variation
+54,CALO,36,108,0,0,0,0,0,0,0,0,0,0,22,166,1.0,Transit Parks
+55,CAMO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+56,CANA,3,89,2,0,0,0,2,0,0,2,0,0,79,177,5.0,Urban High Visitation
+57,CANY,7,27,0,0,0,0,0,0,0,0,0,0,11,45,8.0,Rural High Visitation
+58,CARE,10,37,0,0,0,0,3,0,0,1,0,0,8,59,8.0,Rural High Visitation
+59,CARI,23,23,0,0,0,0,0,0,0,0,0,0,0,46,7.0,Rural Low Visitation
+60,CARL,69,138,0,0,0,0,10,0,3,0,0,0,0,220,1.0,Transit Parks
+61,CASA,16,52,0,0,0,0,0,0,9,0,0,0,1,78,5.0,Urban High Visitation
+62,CATO,171,548,0,0,0,26,47,26,0,0,0,26,185,1029,4.0,Urban Low Visitation
+63,CAVE,12,18,0,0,0,0,0,0,0,0,0,0,0,30,8.0,Rural High Visitation
+64,CAVO,3,25,0,0,0,0,0,0,0,0,0,0,4,32,6.0,High Seasonal Variation
+65,CAWO,0,3,0,0,0,0,0,0,0,3,0,0,0,6,4.0,Urban Low Visitation
+66,CBGN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+67,CEBE,2,17,0,0,1,0,0,0,0,0,0,0,3,23,,
+68,CEBR,2,10,0,0,0,0,1,0,0,1,0,0,5,19,8.0,Rural High Visitation
+69,CECH,1,2,0,0,0,0,1,0,0,0,0,0,0,4,7.0,Rural Low Visitation
+70,CHAM,10,81,0,0,0,0,1,0,0,0,0,0,18,110,4.0,Urban Low Visitation
+71,CHAT,144,204,0,0,0,46,2,46,0,0,0,46,16,504,5.0,Urban High Visitation
+72,CHCH,36,103,0,0,0,0,7,0,0,0,0,0,7,153,5.0,Urban High Visitation
+73,CHCU,2,5,0,0,0,0,0,0,0,0,0,0,3,10,7.0,Rural Low Visitation
+74,CHIC,1,33,0,0,0,0,7,0,0,0,0,0,5,46,8.0,Rural High Visitation
+75,CHIR,37,51,0,0,0,0,0,0,0,0,0,0,6,94,7.0,Rural Low Visitation
+76,CHIS,96,192,0,0,0,0,0,0,1,24,0,0,0,313,1.0,Transit Parks
+77,CHOH,101,161,0,0,0,0,0,0,0,0,0,0,9,271,5.0,Urban High Visitation
+78,CHPI,31,59,0,0,0,0,0,0,0,0,0,0,0,90,7.0,Rural Low Visitation
+79,CHRI,12,14,0,0,0,0,0,0,0,0,0,0,0,26,4.0,Urban Low Visitation
+80,CHSC,47,100,0,0,0,0,10,0,0,0,0,0,0,157,4.0,Urban Low Visitation
+81,CHYO,8,8,0,0,0,0,0,0,0,0,0,0,0,16,3.0,Low Visitation Sites
+82,CIRO,1,12,0,0,0,0,0,0,0,0,0,0,6,19,7.0,Rural Low Visitation
+83,CLBA,114,114,0,0,0,0,0,0,0,0,0,0,0,228,2.0,Urban Sites
+84,COGA,0,29,0,0,0,0,0,0,0,0,0,0,0,29,,
+85,COLM,5,25,0,0,1,0,2,0,0,0,0,0,4,37,8.0,Rural High Visitation
+86,COLO,4,54,0,0,0,0,0,0,0,0,0,0,9,67,5.0,Urban High Visitation
+87,CONG,59,93,0,0,0,0,3,0,0,0,0,0,8,163,4.0,Urban Low Visitation
+88,CORO,2,11,0,0,0,0,0,0,0,0,0,0,6,19,4.0,Urban Low Visitation
+89,COWP,7,13,0,0,0,0,1,0,0,0,0,0,2,23,4.0,Urban Low Visitation
+90,CRLA,16,37,0,0,0,0,3,0,0,0,0,0,4,60,8.0,Rural High Visitation
+91,CRMO,2,38,0,0,0,0,0,0,0,0,0,0,22,62,8.0,Rural High Visitation
+92,CRMP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+93,CUGA,1,9,0,0,0,0,0,0,0,0,0,0,3,13,5.0,Urban High Visitation
+94,CUIS,22,54,0,0,0,7,7,7,0,0,0,0,0,97,1.0,Transit Parks
+95,CURE,8,15,0,0,0,0,1,0,0,0,0,0,2,26,8.0,Rural High Visitation
+96,CUVA,97,294,0,0,0,3,7,3,0,0,0,8,8,420,1.0,Transit Parks
+97,DAAV,43,69,0,0,0,0,0,0,0,0,0,0,1,113,2.0,Urban Sites
+98,DELA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+99,DENA,23,166,0,0,2,0,1,0,0,1,0,0,13,206,1.0,Transit Parks
+100,DEPO,9,34,0,0,0,0,0,0,0,0,0,0,6,49,1.0,Transit Parks
+101,DESO,5,5,0,0,0,0,0,0,0,0,0,0,0,10,3.0,Low Visitation Sites
+102,DETO,35,116,0,0,0,0,0,0,0,0,0,0,11,162,8.0,Rural High Visitation
+103,DEVA,16,68,0,0,0,0,11,0,0,0,0,0,17,112,8.0,Rural High Visitation
+104,DEWA,14,69,0,0,0,0,0,0,0,0,0,0,37,120,1.0,Transit Parks
+105,DINO,1,3,0,0,0,0,0,0,0,0,0,0,2,6,1.0,Transit Parks
+106,DRTO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,Transit Parks
+107,EBLA,0,2,0,0,0,0,0,0,0,0,0,0,0,2,,
+108,EDAL,0,43,0,0,0,0,0,0,0,0,0,0,0,43,2.0,Urban Sites
+109,EDIS,16,17,0,0,0,0,0,0,5,0,0,0,0,38,4.0,Urban Low Visitation
+110,EFMO,0,2,0,0,0,0,0,0,0,0,0,0,0,2,3.0,Low Visitation Sites
+111,EISE,0,26,0,0,0,0,0,0,0,0,0,0,0,26,1.0,Transit Parks
+112,ELMA,12,44,0,0,0,0,2,0,0,0,0,0,12,70,7.0,Rural Low Visitation
+113,ELMO,1,3,0,0,0,0,0,0,0,0,0,0,2,6,7.0,Rural Low Visitation
+114,ELRO,15,90,0,0,0,2,19,2,7,0,0,2,27,164,4.0,Urban Low Visitation
+115,EUON,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1.0,Transit Parks
+116,EVER,19,51,0,7,0,0,6,0,0,3,0,0,11,97,8.0,Rural High Visitation
+117,FEHA,0,14,0,0,0,0,0,0,7,0,0,0,0,21,2.0,Urban Sites
+118,FIIS,4,29,0,0,0,0,0,0,0,0,0,0,0,33,1.0,Transit Parks
+119,FILA,9,50,0,0,0,0,0,0,0,0,0,0,0,59,3.0,Low Visitation Sites
+120,FLFO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+121,FLNI,9,25,0,0,0,0,1,0,0,3,0,0,3,41,8.0,Rural High Visitation
+122,FOBO,3,4,0,0,0,0,0,0,0,0,0,0,0,7,7.0,Rural Low Visitation
+123,FOBU,11,17,0,0,0,0,2,0,0,0,0,0,3,33,7.0,Rural Low Visitation
+124,FOCA,7,13,0,0,0,0,1,0,0,0,0,0,0,21,4.0,Urban Low Visitation
+125,FODA,3,5,0,0,0,0,1,0,0,0,0,0,1,10,7.0,Rural Low Visitation
+126,FODO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+127,FOFR,1,3,0,0,0,0,1,0,0,0,0,0,0,5,4.0,Urban Low Visitation
+128,FOLA,4,7,0,0,0,0,0,0,0,0,0,0,3,14,7.0,Rural Low Visitation
+129,FOLS,18,27,0,0,0,0,0,0,0,0,0,0,2,47,7.0,Rural Low Visitation
+130,FOMA,8,16,0,0,0,0,0,0,0,0,0,0,2,26,1.0,Transit Parks
+131,FOMC,10,36,0,0,0,0,0,0,0,0,0,0,3,49,5.0,Urban High Visitation
+132,FOMR,0,19,0,0,0,0,1,0,0,0,0,0,7,27,,
+133,FONE,4,13,0,0,0,0,0,0,0,1,0,0,5,23,4.0,Urban Low Visitation
+134,FOPO,1,33,0,0,0,0,0,0,0,14,0,0,0,48,5.0,Urban High Visitation
+135,FOPU,0,5,0,0,0,0,0,0,0,0,0,0,0,5,4.0,Urban Low Visitation
+136,FORA,0,2,0,0,0,0,0,0,0,0,0,0,0,2,8.0,Rural High Visitation
+137,FOSC,3,7,0,0,0,0,0,0,0,0,0,0,1,11,7.0,Rural Low Visitation
+138,FOSM,28,42,0,0,0,0,1,0,0,0,0,0,3,74,3.0,Low Visitation Sites
+139,FOST,0,76,0,0,44,0,0,0,29,0,0,0,1,150,6.0,High Seasonal Variation
+140,FOSU,0,46,0,0,0,0,0,0,15,0,0,0,1,62,1.0,Transit Parks
+141,FOTH,2,101,0,0,0,0,4,0,16,0,0,0,0,123,2.0,Urban Sites
+142,FOUN,1,8,0,0,0,0,4,0,0,0,0,0,2,15,7.0,Rural Low Visitation
+143,FOUS,19,32,0,0,0,0,0,0,0,1,0,0,0,52,7.0,Rural Low Visitation
+144,FOVA,53,109,0,0,0,0,5,0,0,0,0,0,7,174,5.0,Urban High Visitation
+145,FOWA,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4.0,Urban Low Visitation
+146,FRDE,1,52,0,0,0,0,1,0,3,0,0,0,0,57,2.0,Urban Sites
+147,FRDO,38,38,0,0,0,0,0,0,0,0,0,0,0,76,2.0,Urban Sites
+148,FRHI,0,3,0,0,0,0,0,0,0,0,0,0,3,6,6.0,High Seasonal Variation
+149,FRLA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,Urban Sites
+150,FRSP,33,39,0,0,0,0,0,0,0,0,0,0,5,77,5.0,Urban High Visitation
+151,FRST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+152,GAAR,0,4,0,0,0,0,0,0,0,0,0,0,1,5,6.0,High Seasonal Variation
+153,GARI,6,24,0,0,0,0,0,0,0,0,0,0,4,34,6.0,High Seasonal Variation
+154,GATE,0,15,0,0,0,0,0,0,0,0,0,0,0,15,5.0,Urban High Visitation
+155,GEGR,0,6,0,0,0,0,0,0,1,0,0,0,0,7,6.0,High Seasonal Variation
+156,GERO,21,30,0,0,0,0,0,0,0,0,0,0,2,53,4.0,Urban Low Visitation
+157,GETT,8,28,0,0,0,0,0,0,1,0,0,0,0,37,5.0,Urban High Visitation
+158,GEWA,9,20,0,0,0,0,2,0,0,0,0,0,4,35,7.0,Rural Low Visitation
+159,GICL,9,11,0,0,0,0,0,0,0,1,0,0,0,21,7.0,Rural Low Visitation
+160,GLAC,45,93,2,0,0,0,0,0,0,1,0,0,19,160,1.0,Transit Parks
+161,GLBA,0,4,0,0,0,0,0,0,0,0,0,0,2,6,1.0,Transit Parks
+162,GLCA,10,50,0,0,0,0,0,0,0,0,0,0,17,77,1.0,Transit Parks
+163,GOGA,16,52,0,0,0,0,2,0,0,2,0,0,7,79,1.0,Transit Parks
+164,GOIS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,Transit Parks
+165,GOSP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+166,GRBA,13,49,0,0,0,0,0,0,0,0,0,0,19,81,8.0,Rural High Visitation
+167,GRCA,78,266,1,0,0,0,9,0,4,9,0,0,24,391,1.0,Transit Parks
+168,GREE,41,138,0,0,0,0,15,0,1,12,0,0,0,207,4.0,Urban Low Visitation
+169,GREG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+170,GRKO,1,1,0,0,0,0,0,0,0,0,0,0,0,2,3.0,Low Visitation Sites
+171,GRPO,28,37,0,0,0,0,0,0,0,0,0,0,3,68,6.0,High Seasonal Variation
+172,GRSA,45,103,0,0,0,0,3,0,0,0,0,0,34,185,6.0,High Seasonal Variation
+173,GRSM,6,333,0,1,0,0,19,0,0,8,163,0,32,562,8.0,Rural High Visitation
+174,GRTE,81,254,0,0,0,9,19,10,0,1,0,9,21,404,8.0,Rural High Visitation
+175,GUCO,36,55,0,0,0,2,0,2,0,0,0,2,3,100,5.0,Urban High Visitation
+176,GUIS,95,168,0,0,0,0,1,0,0,0,0,0,2,266,1.0,Transit Parks
+177,GUMO,20,113,0,0,0,7,4,7,0,1,0,7,9,168,8.0,Rural High Visitation
+178,GWCA,0,2,0,0,0,0,0,0,0,0,0,0,0,2,4.0,Urban Low Visitation
+179,GWMP,36,57,0,0,0,0,3,0,0,0,0,0,1,97,5.0,Urban High Visitation
+180,HAFE,57,191,0,0,0,8,1,8,0,0,0,8,27,300,1.0,Transit Parks
+181,HAFO,0,2,0,0,0,0,1,0,0,0,0,0,1,4,7.0,Rural Low Visitation
+182,HAGR,0,49,0,0,0,0,0,0,7,0,0,0,0,56,2.0,Urban Sites
+183,HALE,27,39,0,0,0,0,4,0,0,0,0,0,4,74,8.0,Rural High Visitation
+184,HAMP,29,66,0,0,0,3,2,3,0,1,1,3,1,109,4.0,Urban Low Visitation
+185,HATU,7,8,0,0,0,0,0,0,0,0,0,0,0,15,,
+186,HAVO,99,214,0,0,0,8,3,8,0,0,0,8,16,356,8.0,Rural High Visitation
+187,HEHO,29,94,0,0,0,0,15,0,0,0,0,0,8,146,4.0,Urban Low Visitation
+188,HOBE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+189,HOCU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,Urban Low Visitation
+190,HOFR,23,101,0,0,0,0,20,0,0,5,0,0,21,170,1.0,Transit Parks
+191,HOFU,38,57,0,0,0,0,0,0,0,1,0,0,2,98,4.0,Urban Low Visitation
+192,HOME,0,2,0,0,0,0,0,0,0,0,0,0,1,3,7.0,Rural Low Visitation
+193,HONO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+194,HOSP,6,56,0,0,0,0,0,0,6,0,0,0,9,77,5.0,Urban High Visitation
+195,HOVE,11,21,0,0,0,0,0,0,0,0,0,0,9,41,7.0,Rural Low Visitation
+196,HSTR,3,11,0,0,0,0,2,0,0,0,0,0,0,16,3.0,Low Visitation Sites
+197,HUTR,1,1,0,0,0,0,0,0,0,0,0,0,0,2,7.0,Rural Low Visitation
+198,IATR,0,8,0,0,0,0,0,0,0,0,0,0,0,8,,
+199,INDE,0,30,0,0,0,0,0,0,42,0,0,0,0,72,2.0,Urban Sites
+200,INDU,26,35,0,0,0,0,1,0,0,0,0,0,0,62,5.0,Urban High Visitation
+201,ISRO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,Transit Parks
+202,JAGA,1,4,0,0,0,0,1,0,0,0,0,0,0,6,3.0,Low Visitation Sites
+203,JAZZ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,Urban Sites
+204,JECA,16,22,2,0,0,0,3,0,0,0,0,0,0,43,6.0,High Seasonal Variation
+205,JEFF,9,83,0,0,0,0,1,0,6,0,0,0,0,99,5.0,Urban High Visitation
+206,JEFM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+207,JELA,27,44,0,0,0,0,2,0,0,2,0,0,3,78,4.0,Urban Low Visitation
+208,JICA,15,41,0,0,0,0,0,0,0,5,0,0,2,63,7.0,Rural Low Visitation
+209,JODA,1,1,0,0,0,0,0,0,0,0,0,0,0,2,8.0,Rural High Visitation
+210,JODR,79,352,0,0,0,9,19,10,0,1,0,9,21,500,8.0,Rural High Visitation
+211,JOFI,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2.0,Urban Sites
+212,JOFL,13,13,0,0,0,0,0,0,0,0,0,0,0,26,4.0,Urban Low Visitation
+213,JOMU,9,18,0,0,0,0,0,0,0,0,0,0,0,27,4.0,Urban Low Visitation
+214,JOTR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,Rural High Visitation
+215,KAHO,6,15,0,0,0,0,0,0,0,0,0,0,9,30,4.0,Urban Low Visitation
+216,KALA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+217,KATM,0,2,0,0,0,0,0,0,0,0,0,0,1,3,6.0,High Seasonal Variation
+218,KAWW,2,9,0,0,1,0,0,0,0,0,0,0,5,17,7.0,Rural Low Visitation
+219,KEFJ,18,34,0,0,0,0,0,0,0,0,0,0,3,55,6.0,High Seasonal Variation
+220,KEMO,34,64,0,0,1,0,11,0,0,2,0,0,3,115,1.0,Transit Parks
+221,KEWE,1,6,0,0,0,0,0,0,0,0,0,0,0,7,3.0,Low Visitation Sites
+222,KICA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,Rural High Visitation
+223,KIMO,5,6,0,0,0,0,1,0,0,0,0,0,0,12,4.0,Urban Low Visitation
+224,KLGO,0,58,0,0,0,0,0,0,0,0,0,0,9,67,6.0,High Seasonal Variation
+225,KNRI,7,14,0,0,0,0,0,0,0,0,0,0,0,21,7.0,Rural Low Visitation
+226,KOVA,0,1,0,0,0,0,0,0,0,0,0,0,0,1,6.0,High Seasonal Variation
+227,KOWA,7,46,0,0,0,0,0,0,1,0,0,0,0,54,2.0,Urban Sites
+228,LABE,6,21,0,0,0,0,0,0,0,1,0,0,14,42,7.0,Rural Low Visitation
+229,LACH,2,29,0,0,1,0,0,0,0,1,0,0,10,43,1.0,Transit Parks
+230,LACL,0,8,0,0,0,0,0,0,0,0,0,0,0,8,6.0,High Seasonal Variation
+231,LAKE,6,31,0,0,0,0,3,0,0,0,0,0,6,46,8.0,Rural High Visitation
+232,LAME,6,31,0,0,0,0,3,0,0,0,0,0,6,46,,
+233,LAMR,2,4,0,0,0,0,0,0,0,0,0,0,0,6,8.0,Rural High Visitation
+234,LARO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,High Seasonal Variation
+235,LAVO,12,91,0,0,0,0,3,0,0,0,0,0,62,168,6.0,High Seasonal Variation
+236,LECL,2,6,0,0,0,0,0,0,0,0,0,0,0,8,,
+237,LEWI,7,16,0,0,0,0,1,0,0,0,0,0,0,24,8.0,Rural High Visitation
+238,LIBI,1,4,0,0,0,0,0,0,0,0,0,0,1,6,6.0,High Seasonal Variation
+239,LIBO,3,4,0,0,0,0,0,0,0,0,0,0,1,8,6.0,High Seasonal Variation
+240,LIHO,69,105,0,0,0,0,1,0,1,0,0,0,0,176,4.0,Urban Low Visitation
+241,LINC,0,46,0,0,0,0,1,0,2,0,0,0,0,49,2.0,Urban Sites
+242,LIRI,41,47,0,0,0,0,0,0,0,0,0,0,3,91,5.0,Urban High Visitation
+243,LODE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+244,LONG,1,80,0,0,0,0,2,0,8,0,0,0,0,91,2.0,Urban Sites
+245,LOSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+246,LOWE,0,183,0,0,0,0,10,0,149,0,0,0,8,350,1.0,Transit Parks
+247,LYBA,29,38,0,0,0,0,0,0,0,0,0,0,0,67,4.0,Urban Low Visitation
+248,LYJO,21,28,1,0,0,0,0,0,0,0,0,0,0,50,7.0,Rural Low Visitation
+249,MABE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+250,MABI,29,52,0,0,0,0,0,0,0,0,0,0,1,82,7.0,Rural Low Visitation
+251,MACA,23,26,0,0,0,0,0,0,0,0,0,0,1,50,1.0,Transit Parks
+252,MALL,26,240,1,0,0,0,11,0,2,1,0,0,4,285,,
+253,MALU,26,34,0,0,0,0,0,0,0,0,0,0,0,60,2.0,Urban Sites
+254,MAMC,0,22,0,0,0,0,0,0,7,0,0,0,0,29,4.0,Urban Low Visitation
+255,MANA,51,112,0,0,0,18,0,18,0,0,0,17,15,231,5.0,Urban High Visitation
+256,MANZ,4,8,0,0,0,0,2,0,0,0,0,0,1,15,7.0,Rural Low Visitation
+257,MAPR,7,18,0,0,0,0,0,0,0,0,0,0,0,25,7.0,Rural Low Visitation
+258,MAVA,5,7,0,0,0,0,0,0,0,0,0,0,0,12,6.0,High Seasonal Variation
+259,MAWA,1,51,0,0,0,0,8,0,8,0,0,0,0,68,2.0,Urban Sites
+260,MEVE,1,2,0,0,1,0,0,0,0,0,0,0,1,5,8.0,Rural High Visitation
+261,MIIN,16,16,0,0,0,0,0,0,0,0,0,0,0,32,3.0,Low Visitation Sites
+262,MIMA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.0,Urban High Visitation
+263,MIMI,3,13,0,0,0,0,0,0,0,3,0,0,2,21,3.0,Low Visitation Sites
+264,MISS,8,59,0,0,0,0,0,0,1,0,0,0,0,68,6.0,High Seasonal Variation
+265,MLKM,7,55,0,0,0,0,1,0,2,0,0,0,0,65,2.0,Urban Sites
+266,MNRR,18,18,0,0,0,0,0,0,0,0,0,0,0,36,6.0,High Seasonal Variation
+267,MOCA,9,14,0,0,0,0,0,0,0,1,0,0,3,27,8.0,Rural High Visitation
+268,MOCR,1,1,0,0,0,0,0,0,0,0,0,0,0,2,6.0,High Seasonal Variation
+269,MOJA,91,104,0,0,0,0,1,0,0,0,0,0,4,200,8.0,Rural High Visitation
+270,MONO,1,11,0,0,0,0,0,0,0,0,0,0,6,18,4.0,Urban Low Visitation
+271,MORA,63,169,0,0,0,0,4,0,0,0,0,0,27,263,8.0,Rural High Visitation
+272,MORR,6,11,0,0,0,0,0,0,0,0,0,0,2,19,4.0,Urban Low Visitation
+273,MORU,1,105,0,0,0,0,1,0,11,1,0,0,4,123,8.0,Rural High Visitation
+274,MUWO,13,105,0,0,0,0,8,0,1,3,0,0,2,132,1.0,Transit Parks
+275,NABR,8,12,0,0,0,0,0,0,0,0,0,0,3,23,7.0,Rural Low Visitation
+276,NACA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.0,Urban High Visitation
+277,NACC,26,247,1,0,0,0,11,0,2,1,0,0,4,292,,
+278,NAMA,26,240,1,0,0,0,11,0,2,1,0,0,4,285,1.0,Transit Parks
+279,NATC,1,7,0,0,0,0,3,0,0,0,0,0,0,11,3.0,Low Visitation Sites
+280,NATR,5,64,2,3,2,0,0,0,0,0,0,0,4,80,5.0,Urban High Visitation
+281,NAVA,5,8,0,0,0,0,2,0,0,0,0,0,0,15,7.0,Rural Low Visitation
+282,NEBE,0,49,0,0,0,0,0,0,21,0,0,0,0,70,4.0,Urban Low Visitation
+283,NEPE,2,7,0,0,0,0,1,0,0,0,0,0,1,11,8.0,Rural High Visitation
+284,NERI,46,89,2,0,0,0,0,0,0,1,0,0,15,153,8.0,Rural High Visitation
+285,NICO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+286,NIOB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,High Seasonal Variation
+287,NISI,5,9,0,0,0,0,1,0,0,1,0,0,1,17,4.0,Urban Low Visitation
+288,NOAT,0,1,0,0,0,0,0,0,0,0,0,0,0,1,6.0,High Seasonal Variation
+289,NOCA,2,31,0,0,1,0,0,0,0,1,0,0,9,44,6.0,High Seasonal Variation
+290,NPSA,0,1,8,0,0,0,0,0,0,0,0,0,1,10,6.0,High Seasonal Variation
+291,NWWM,7,42,0,0,0,0,0,0,1,0,0,0,0,50,,
+292,OBED,5,7,0,0,0,0,0,0,0,0,0,0,1,13,7.0,Rural Low Visitation
+293,OBRI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+294,OCMU,1,13,0,0,0,0,0,0,0,0,0,0,3,17,4.0,Urban Low Visitation
+295,OLYM,6,16,0,0,0,0,0,0,0,0,0,0,7,29,8.0,Rural High Visitation
+296,ORCA,12,24,0,0,0,0,0,0,0,0,0,0,0,36,7.0,Rural Low Visitation
+297,ORPI,4,24,0,0,0,0,1,0,0,0,0,0,8,37,7.0,Rural Low Visitation
+298,OZAR,6,31,0,0,0,0,0,0,0,1,0,0,9,47,1.0,Transit Parks
+299,PAAL,4,9,0,0,0,0,1,0,0,0,0,0,1,15,6.0,High Seasonal Variation
+300,PAAV,0,32,0,0,0,0,0,0,2,0,0,0,0,34,2.0,Urban Sites
+301,PAGR,65,143,0,0,0,0,2,0,4,1,0,0,35,250,4.0,Urban Low Visitation
+302,PAIS,2,10,0,0,0,0,0,0,0,1,0,0,1,14,8.0,Rural High Visitation
+303,PECO,4,10,0,0,0,0,2,0,0,0,0,0,3,19,7.0,Rural Low Visitation
+304,PEFO,0,9,0,0,0,0,0,0,1,0,0,0,7,17,8.0,Rural High Visitation
+305,PERI,23,49,0,0,0,0,20,0,0,0,0,0,0,92,4.0,Urban Low Visitation
+306,PETE,13,19,0,6,0,0,0,0,0,0,0,0,0,38,4.0,Urban Low Visitation
+307,PETR,37,43,0,0,0,0,1,0,0,0,0,0,1,82,4.0,Urban Low Visitation
+308,PEVI,1,19,0,0,0,0,1,0,0,0,0,0,2,23,3.0,Low Visitation Sites
+309,PINN,5,12,1,0,0,0,0,0,0,0,0,0,5,23,1.0,Transit Parks
+310,PIPE,0,14,0,0,0,0,0,0,0,0,0,0,1,15,7.0,Rural Low Visitation
+311,PIRO,46,95,0,0,0,0,1,0,0,0,0,0,17,159,6.0,High Seasonal Variation
+312,PISC,14,15,0,0,0,0,0,0,0,0,0,0,0,29,2.0,Urban Sites
+313,PISP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+314,POCH,8,16,0,0,0,0,0,0,0,0,0,0,0,24,6.0,High Seasonal Variation
+315,POHE,2,8,0,0,0,0,0,0,0,0,0,0,3,13,,
+316,POPO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+317,PORE,613,912,1,0,0,17,82,17,10,26,0,16,26,1720,1.0,Transit Parks
+318,PRWI,4,8,0,0,0,0,0,0,0,0,0,0,0,12,4.0,Urban Low Visitation
+319,PUHE,4,5,0,0,0,0,0,0,0,0,0,0,0,9,3.0,Low Visitation Sites
+320,PUHO,1,1,0,0,0,0,0,0,0,0,0,0,0,2,8.0,Rural High Visitation
+321,PULL,30,32,0,0,0,0,0,0,0,1,0,0,0,63,,
+322,RABR,1,1,0,0,0,0,0,0,0,0,0,0,0,2,7.0,Rural Low Visitation
+323,REDW,4,50,0,0,0,0,0,0,0,0,0,0,3,57,8.0,Rural High Visitation
+324,RICH,2,16,0,0,0,0,0,0,0,0,0,0,1,19,4.0,Urban Low Visitation
+325,RIGR,0,6,0,0,0,0,0,0,0,0,0,0,0,6,7.0,Rural Low Visitation
+326,RIRA,0,4,0,0,0,0,0,0,0,0,0,0,3,7,3.0,Low Visitation Sites
+327,ROCR,3,41,0,0,0,0,4,0,1,0,0,0,13,62,5.0,Urban High Visitation
+328,ROLA,2,27,0,0,1,0,0,0,0,1,0,0,8,39,1.0,Transit Parks
+329,ROMO,1,22,0,0,0,0,0,0,0,0,0,0,20,43,1.0,Transit Parks
+330,RORI,21,59,0,0,0,0,1,0,0,0,0,0,0,81,2.0,Urban Sites
+331,ROWI,18,20,0,0,0,0,0,0,0,0,0,0,0,38,2.0,Urban Sites
+332,RRBH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+333,RUCA,2,7,0,0,0,0,2,0,0,0,0,0,2,13,7.0,Rural Low Visitation
+334,SAAN,4,16,0,0,0,0,0,0,0,0,0,0,0,20,5.0,Urban High Visitation
+335,SACN,4,6,0,0,0,0,0,0,0,0,0,0,1,11,6.0,High Seasonal Variation
+336,SACR,2,4,0,0,0,0,0,0,0,0,0,0,0,6,3.0,Low Visitation Sites
+337,SAFR,9,48,0,0,0,0,1,0,8,0,0,0,8,74,5.0,Urban High Visitation
+338,SAGA,51,93,0,0,0,0,0,0,2,0,0,0,11,157,4.0,Urban Low Visitation
+339,SAGU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.0,Urban High Visitation
+340,SAHI,13,23,0,0,0,0,0,0,0,0,0,0,0,36,4.0,Urban Low Visitation
+341,SAIR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,Urban Low Visitation
+342,SAJH,10,16,0,0,0,0,0,0,0,0,0,0,5,31,6.0,High Seasonal Variation
+343,SAJU,0,1,0,0,0,0,0,0,0,0,0,0,0,1,5.0,Urban High Visitation
+344,SAMA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,Urban Sites
+345,SAMO,53,111,0,0,0,0,2,0,0,1,0,0,8,175,5.0,Urban High Visitation
+346,SAND,3,15,0,0,0,0,3,0,0,0,0,0,1,22,7.0,Rural Low Visitation
+347,SAPA,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4.0,Urban Low Visitation
+348,SAPU,5,24,0,0,0,0,0,0,0,0,0,0,0,29,7.0,Rural Low Visitation
+349,SARA,59,150,0,0,0,0,0,0,0,0,0,0,1,210,6.0,High Seasonal Variation
+350,SARI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,High Seasonal Variation
+351,SCBL,6,11,0,0,0,0,2,0,0,0,0,0,1,20,1.0,Transit Parks
+352,SEKI,44,216,1,0,0,0,32,0,0,0,0,0,57,350,,
+353,SEMO,0,3,0,0,0,0,0,0,0,0,0,0,1,4,,
+354,SEQU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,Rural High Visitation
+355,SHEN,0,5,0,0,0,0,0,0,0,0,0,0,1,6,8.0,Rural High Visitation
+356,SHIL,1,3,1,0,0,0,0,0,0,0,0,0,1,6,8.0,Rural High Visitation
+357,SITK,2,2,0,0,0,0,0,0,0,0,0,0,0,4,8.0,Rural High Visitation
+358,SLBE,20,50,0,0,0,0,1,0,1,0,0,0,8,80,1.0,Transit Parks
+359,SPAR,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4.0,Urban Low Visitation
+360,STEA,4,10,0,0,0,0,0,0,1,0,0,0,4,19,4.0,Urban Low Visitation
+361,STLI,15,89,0,0,0,0,7,0,0,0,0,0,0,111,1.0,Transit Parks
+362,STON,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,Urban Sites
+363,STRI,3,25,0,0,1,0,0,0,0,1,0,0,2,32,4.0,Urban Low Visitation
+364,SUCR,3,6,0,0,0,0,0,0,0,0,0,0,3,12,7.0,Rural Low Visitation
+365,TAPR,27,89,0,0,0,0,0,0,0,0,0,0,29,145,7.0,Rural Low Visitation
+366,THIS,24,33,0,0,0,0,8,0,0,0,0,0,0,65,2.0,Urban Sites
+367,THJE,7,43,0,0,0,0,1,0,1,0,0,0,0,52,2.0,Urban Sites
+368,THKO,0,30,0,0,0,0,0,0,43,0,0,0,0,73,2.0,Urban Sites
+369,THRB,0,23,0,0,0,0,0,0,0,0,0,0,0,23,2.0,Urban Sites
+370,THRI,15,100,0,0,0,0,0,0,0,0,0,0,0,115,3.0,Low Visitation Sites
+371,THRO,0,5,0,0,0,0,0,0,0,0,0,0,5,10,8.0,Rural High Visitation
+372,THST,6,6,0,0,0,0,0,0,0,0,0,0,0,12,7.0,Rural Low Visitation
+373,TICA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,Urban Low Visitation
+374,TIMU,7,13,0,0,0,0,1,0,0,0,0,0,0,21,5.0,Urban High Visitation
+375,TONT,3,5,0,0,0,0,0,0,0,0,0,0,0,8,7.0,Rural Low Visitation
+376,TUAI,0,5,0,0,0,0,0,0,0,0,0,0,4,9,7.0,Rural Low Visitation
+377,TUIN,0,37,0,0,0,0,0,0,14,0,0,0,1,52,7.0,Rural Low Visitation
+378,TUMA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+379,TUPE,0,14,0,0,0,0,0,0,0,0,0,0,0,14,,
+380,TUSK,2,36,0,0,0,0,0,0,0,0,0,0,32,70,7.0,Rural Low Visitation
+381,TUZI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Rural Low Visitation
+382,ULSG,1,6,0,0,0,0,1,0,0,0,0,0,0,8,4.0,Urban Low Visitation
+383,UPDE,2,3,1,0,0,0,0,0,0,0,0,0,0,6,8.0,Rural High Visitation
+384,VAFO,228,388,0,0,0,9,9,9,0,16,0,9,7,675,5.0,Urban High Visitation
+385,VALL,7,27,1,0,0,0,0,0,0,0,0,0,11,46,7.0,Rural Low Visitation
+386,VALR,1,51,0,0,0,0,0,0,0,0,0,0,0,52,,
+387,VAMA,3,6,0,0,0,1,0,1,0,0,0,1,0,12,4.0,Urban Low Visitation
+388,VICK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,Rural High Visitation
+389,VICR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+390,VIIS,2,14,0,0,0,0,1,0,0,0,0,0,2,19,4.0,Urban Low Visitation
+391,VIVE,0,40,0,0,0,0,0,0,2,0,0,0,0,42,2.0,Urban Sites
+392,VOYA,8,14,0,0,0,0,0,0,0,0,0,0,4,26,8.0,Rural High Visitation
+393,WABA,1,2,0,0,0,0,0,0,0,0,0,0,0,3,3.0,Low Visitation Sites
+394,WACA,4,5,0,0,0,0,0,0,0,0,0,0,0,9,7.0,Rural Low Visitation
+395,WACO,1,1,0,0,0,0,0,0,0,0,0,0,0,2,4.0,Urban Low Visitation
+396,WAMO,21,93,0,0,0,0,8,0,1,0,0,0,0,123,2.0,Urban Sites
+397,WAPA,0,7,0,0,0,0,5,0,0,0,0,0,0,12,4.0,Urban Low Visitation
+398,WASH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+399,WEFA,48,85,1,0,0,0,1,0,0,0,0,0,8,143,7.0,Rural Low Visitation
+400,WHHO,0,24,0,0,0,0,0,0,6,0,0,0,0,30,2.0,Urban Sites
+401,WHHO,0,24,0,0,0,0,0,0,6,0,0,0,0,30,4.0,Urban Low Visitation
+402,WHIS,18,29,0,0,0,0,0,0,0,1,0,0,3,51,8.0,Rural High Visitation
+403,WHMI,6,26,0,0,0,0,2,0,0,0,0,0,14,48,4.0,Urban Low Visitation
+404,WHSA,0,2,0,0,0,0,0,0,0,0,0,0,2,4,8.0,Rural High Visitation
+405,WICA,1,11,0,0,0,0,0,0,0,0,0,0,1,13,8.0,Rural High Visitation
+406,WICL,0,26,0,0,0,0,0,0,0,0,0,0,1,27,4.0,Urban Low Visitation
+407,WICR,7,14,0,0,0,0,1,0,0,0,0,0,4,26,4.0,Urban Low Visitation
+408,WIHO,18,24,0,0,0,0,2,0,0,0,0,0,0,44,3.0,Low Visitation Sites
+409,WORI,0,31,0,0,0,0,0,0,0,0,0,0,0,31,4.0,Urban Low Visitation
+410,WOTR,2,10,0,0,0,0,0,0,0,0,0,0,0,12,1.0,Transit Parks
+411,WRBR,1,2,0,0,0,0,0,0,0,1,0,0,0,4,8.0,Rural High Visitation
+412,WRST,2,49,0,0,0,0,0,0,0,0,0,0,7,58,6.0,High Seasonal Variation
+413,WUPA,8,19,0,0,0,0,3,0,0,2,0,2,2,36,7.0,Rural Low Visitation
+414,WWII,7,42,0,0,0,0,0,0,1,0,0,0,0,50,2.0,Urban Sites
+415,WWIM,0,23,0,0,0,0,1,0,0,0,0,0,0,24,2.0,Urban Sites
+416,YELL,19,134,0,0,0,1,4,1,0,0,0,1,26,186,8.0,Rural High Visitation
+417,YOSE,7,61,0,0,0,0,3,0,1,1,0,0,4,77,1.0,Transit Parks
+418,YUCH,0,4,0,0,0,0,0,0,0,0,0,0,0,4,6.0,High Seasonal Variation
+419,YUHO,0,7,0,0,0,0,0,0,0,0,0,0,7,14,,
+420,ZION,2,46,0,0,0,0,0,0,1,0,0,0,32,81,1.0,Transit Parks
