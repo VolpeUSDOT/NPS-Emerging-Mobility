@@ -1,0 +1,9 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+NJ,NPS,,Liberty State Park Loop,,4,https://www.cityexperiences.com/new-york/city-cruises/statue/new-jersey-reserve/,,,2,1,1
+NY,NPS,,Battery Park Full Loop,,4,https://www.cityexperiences.com/new-york/city-cruises/statue/new-york-reserve/,,,1,1,1
+BPLI,NPS,,Battery Park - Liberty Island Loop,,4,,,,,,
+BPEI,NPS,,Battery Park - Ellis Island Loop,,4,,,,,,
+LIBP,NPS,,Liberty Island - Battery Park,,4,,,,,,
+EIBP,NPS,,Ellis Island - Battery Park,,4,,,,,,
+EILILSP,NPS,,Ellis Island - Liberty Island - Liberty State Park,,4,,,,,,
+EILSP,NPS,,Ellis Island - Liberty State Park,,4,,,,,,

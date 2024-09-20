@@ -1,0 +1,208 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+NJ,NJEarly,Liberty State Park Loop Early_T01,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T02,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T03,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T04,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T05,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T06,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T07,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T08,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T09,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T10,Liberty Island,1,,NJ,1,2
+NJ,NJEarly,Liberty State Park Loop Early_T11,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T01,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T02,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T03,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T04,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T05,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T06,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T07,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T08,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T09,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T10,Liberty Island,1,,NJ,1,2
+NJ,NJFall,Liberty State Park Loop Fall_T11,Liberty Island,1,,NJ,1,2
+NJ,NJWinter,Liberty State Park Loop Winter_T01,Liberty Island,1,,NJ,1,2
+NJ,NJWinter,Liberty State Park Loop Winter_T02,Liberty Island,1,,NJ,1,2
+NJ,NJWinter,Liberty State Park Loop Winter_T03,Liberty Island,1,,NJ,1,2
+NJ,NJWinter,Liberty State Park Loop Winter_T04,Liberty Island,1,,NJ,1,2
+NJ,NJWinter,Liberty State Park Loop Winter_T05,Liberty Island,1,,NJ,1,2
+NJ,NJWinter,Liberty State Park Loop Winter_T06,Liberty Island,1,,NJ,1,2
+NJ,NJWinter,Liberty State Park Loop Winter_T07,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T01,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T02,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T03,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T04,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T05,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T06,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T07,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T08,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T09,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T10,Liberty Island,1,,NJ,1,2
+NJ,NJHoliday,Liberty State Park Loop Holiday_T11,Liberty Island,1,,NJ,1,2
+EILILSP,NJEarly,Ellis Island - Liberty Island - Liberty State Park Early_T01,Liberty State Park,1,,EILILSP,1,2
+EILILSP,NJFall,Ellis Island - Liberty Island - Liberty State Park Fall_T01,Liberty State Park,1,,EILILSP,1,2
+EILILSP,NJHoliday,Ellis Island - Liberty Island - Liberty State Park Holiday_T01,Liberty State Park,1,,EILILSP,1,2
+EILSP,NJEarly,Ellis Island - Liberty State Park Early_T01,Liberty State Park,1,,EILSP,1,2
+EILSP,NJFall,Ellis Island - Liberty State Park Fall_T01,Liberty State Park,1,,EILSP,1,2
+EILSP,NJWinter,Ellis Island - Liberty State Park Winter_T01,Liberty State Park,1,,EILSP,1,2
+EILSP,NJHoliday,Ellis Island - Liberty State Park Holiday_T01,Liberty State Park,1,,EILSP,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T01,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T02,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T03,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T04,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T05,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T06,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T07,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T08,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T09,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T10,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T11,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T12,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T13,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T14,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T15,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T16,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T17,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekday,Battery Park Loop Weekday Early_T18,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T01,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T02,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T03,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T04,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T05,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T06,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T07,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T08,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T09,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T10,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T11,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T12,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T13,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T14,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T15,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekday,Battery Park Loop Weekday Late_T16,Ellis Island,1,,NY,1,2
+BPLI,NYWinterWeekday,Battery Park - Liberty Island Loop Weekday Late_T01,Liberty Island,1,,BPLI,1,2
+BPLI,NYWinterWeekday,Battery Park - Liberty Island Loop Weekday Late_T02,Liberty Island,1,,BPLI,1,2
+BPLI,NYWinterWeekday,Battery Park - Liberty Island Loop Weekday Late_T03,Liberty Island,1,,BPLI,1,2
+BPEI,NYWinterWeekday,Battery Park - Ellis Island Loop Weekday Late_T01,Liberty Island,1,,BPEI,1,2
+BPEI,NYWinterWeekday,Battery Park - Ellis Island Loop Weekday Late_T02,Liberty Island,1,,BPEI,1,2
+EIBP,NYEarlyWeekday,Ellis Island - Battery Park Weekday Early_T01,,1,,EIBP,1,2
+EIBP,NYEarlyWeekday,Ellis Island - Battery Park Weekday Early_T02,,1,,EIBP,1,2
+EIBP,NYEarlyWeekday,Ellis Island - Battery Park Weekday Early_T03,,1,,EIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekday Early_T01,,1,,LIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekday Early_T02,,1,,LIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekday Early_T03,,1,,LIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekday Early_T04,,1,,LIBP,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T01,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T02,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T03,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T04,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T05,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T06,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T07,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T08,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T09,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T10,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T11,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T12,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T13,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T14,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T15,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T16,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T17,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T18,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T19,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T20,Ellis Island,1,,NY,1,2
+NY,NYEarlyWeekend,Battery Park Loop Weekend Early_T21,Ellis Island,1,,NY,1,2
+EIBP,NYEarlyWeekday,Ellis Island - Battery Park Weekend Early_T01,,1,,EIBP,1,2
+EIBP,NYEarlyWeekday,Ellis Island - Battery Park Weekend Early_T02,,1,,EIBP,1,2
+EIBP,NYEarlyWeekday,Ellis Island - Battery Park Weekend Early_T03,,1,,EIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekend Early_T01,,1,,LIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekend Early_T02,,1,,LIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekend Early_T03,,1,,LIBP,1,2
+LIBP,NYEarlyWeekday,Liberty Island - Battery Park Weekend Early_T04,,1,,LIBP,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T01,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T02,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T03,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T04,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T05,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T06,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T07,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T08,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T09,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T10,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T11,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T12,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T13,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T14,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T15,Ellis Island,1,,NY,1,2
+NY,NYFallWeekend,Battery Park Loop Weekend Fall_T16,Ellis Island,1,,NY,1,2
+BPLI,NYFallWeekend,Battery Park - Liberty Island Loop Weekend Fall_T01,Liberty Island,1,,BPLI,1,2
+BPLI,NYFallWeekend,Battery Park - Liberty Island Loop Weekend Fall_T02,Liberty Island,1,,BPLI,1,2
+BPLI,NYFallWeekend,Battery Park - Liberty Island Loop Weekend Fall_T03,Liberty Island,1,,BPLI,1,2
+BPEI,NYFallWeekend,Battery Park - Ellis Island Loop Weekend Fall_T01,Liberty Island,1,,BPEI,1,2
+BPEI,NYFallWeekend,Battery Park - Ellis Island Loop Weekend Fall_T02,Liberty Island,1,,BPEI,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T01,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T02,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T03,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T04,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T05,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T06,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T07,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T08,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T09,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T10,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T11,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T12,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T13,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T14,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T15,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T16,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T17,Ellis Island,1,,NY,1,2
+NY,NYWinterWeekend,Battery Park Loop Weekend Winter_T18,Ellis Island,1,,NY,1,2
+BPLI,NYWinterWeekend,Battery Park - Liberty Island Loop Weekend Winter_T01,Liberty Island,1,,BPLI,1,2
+BPLI,NYWinterWeekend,Battery Park - Liberty Island Loop Weekend Winter_T02,Liberty Island,1,,BPLI,1,2
+BPLI,NYWinterWeekend,Battery Park - Liberty Island Loop Weekend Winter_T03,Liberty Island,1,,BPLI,1,2
+BPLI,NYWinterWeekend,Battery Park - Liberty Island Loop Weekend Winter_T04,Liberty Island,1,,BPLI,1,2
+BPEI,NYWinterWeekend,Battery Park - Ellis Island Loop Weekend Winter_T01,Liberty Island,1,,BPEI,1,2
+BPEI,NYWinterWeekend,Battery Park - Ellis Island Loop Weekend Winter_T02,Liberty Island,1,,BPEI,1,2
+BPEI,NYWinterWeekend,Battery Park - Ellis Island Loop Weekend Winter_T03,Liberty Island,1,,BPEI,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T01,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T02,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T03,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T04,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T05,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T06,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T07,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T08,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T09,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T10,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T11,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T12,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T13,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T14,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T15,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T16,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T17,Ellis Island,1,,NY,1,2
+NY,NYHolidayWeekend,Battery Park Loop Weekend Holiday_T18,Ellis Island,1,,NY,1,2
+BPLI,NYHolidayWeekend,Battery Park - Liberty Island Loop Weekend Holiday_T01,Liberty Island,1,,BPLI,1,2
+BPLI,NYHolidayWeekend,Battery Park - Liberty Island Loop Weekend Holiday_T02,Liberty Island,1,,BPLI,1,2
+BPLI,NYHolidayWeekend,Battery Park - Liberty Island Loop Weekend Holiday_T03,Liberty Island,1,,BPLI,1,2
+BPLI,NYHolidayWeekend,Battery Park - Liberty Island Loop Weekend Holiday_T04,Liberty Island,1,,BPLI,1,2
+BPEI,NYHolidayWeekend,Battery Park - Ellis Island Loop Weekend Holiday_T01,Liberty Island,1,,BPEI,1,2
+BPEI,NYHolidayWeekend,Battery Park - Ellis Island Loop Weekend Holiday_T02,Liberty Island,1,,BPEI,1,2
+BPEI,NYHolidayWeekend,Battery Park - Ellis Island Loop Weekend Holiday_T03,Liberty Island,1,,BPEI,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T01,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T02,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T03,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T04,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T05,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T06,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T07,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T08,Ellis Island,1,,NY,1,2
+NY,NYXmas,Battery Park Loop Xmas Eve_T09,Ellis Island,1,,NY,1,2
+BPLI,NYXmas,Battery Park - Liberty Island Loop Xmas Eve_T01,Liberty Island,1,,BPLI,1,2
+BPLI,NYXmas,Battery Park - Liberty Island Loop Xmas Eve_T02,Liberty Island,1,,BPLI,1,2
+BPLI,NYXmas,Battery Park - Liberty Island Loop Xmas Eve_T03,Liberty Island,1,,BPLI,1,2
+BPEI,NYXmas,Battery Park - Ellis Island Loop Xmas Eve_T01,Liberty Island,1,,BPEI,1,2
+BPEI,NYXmas,Battery Park - Ellis Island Loop Xmas Eve_T02,Liberty Island,1,,BPEI,1,2
+BPEI,NYXmas,Battery Park - Ellis Island Loop Xmas Eve_T03,Liberty Island,1,,BPEI,1,2

@@ -1,0 +1,12 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+NJEarly,1,1,1,1,1,1,1,20240913,20241014
+NJFall,1,1,1,1,1,1,1,20241015,20241201
+NJWinter,1,1,1,1,1,1,1,20241202,20241213
+NJHoliday,1,1,1,1,1,1,1,20241214,20250105
+NYEarlyWeekday,1,1,1,1,1,0,0,20240913,20241014
+NYWinterWeekday,1,1,1,1,1,0,0,20241015,20250105
+NYEarlyWeekend,0,0,0,0,0,1,1,20240913,20241018
+NYFallWeekend,0,0,0,0,0,1,1,20241019,20241122
+NYWinterWeekend,0,0,0,0,0,1,1,20241123,20241208
+NYHolidayWeekend,0,0,0,0,0,1,1,20241209,20250105
+NYXmas,0,1,0,0,0,0,0,20241223,20241225
