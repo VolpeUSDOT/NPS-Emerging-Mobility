@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+NPS STLI,https://www.nps.gov/subjects/developer/gtfs.htm,en,20240101,20241231,20240726,erica.cole@nps.gov,

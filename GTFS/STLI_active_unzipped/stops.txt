@@ -1,0 +1,7 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1_NJ,,Liberty State Park,,40.707675,-74.033775,,,,,,1
+2_NJ,,Ellis Island,,40.698939,-74.040506,,,,,,1
+3_NJ,,Liberty Island,,40.689834,-74.047706,,,,,,1
+1_NY,,Battery Park,,40.701617,-74.016198,,,,,,1
+3_NY,,Liberty Island,,40.689834,-74.047706,,,,,,1
+2_NY,,Ellis Island,,40.698939,-74.040506,,,,,,1

@@ -1,0 +1,17 @@
+﻿service_id,date,exception_type
+NJFall,20241128,2
+NJHoliday,20241224,2
+NJHoliday,20241225,2
+NYEarlyWeekday,20241014,2
+NYEarlyWeekend,20241014,1
+NYWinterWeekday,20241128,2
+NYWinterWeekday,20241129,2
+NYWinterWeekend,20241129,1
+NYWinterWeekday,20241225,2
+NYWinterWeekday,20250101,2
+NYHolidayWeekend,20250101,1
+NYWinterWeekend,20241207,2
+NYWinterWeekend,20241208,2
+NYWinterWeekday,20241207,1
+NYWinterWeekday,20241208,1
+NYWinterWeekday,20241224,2
