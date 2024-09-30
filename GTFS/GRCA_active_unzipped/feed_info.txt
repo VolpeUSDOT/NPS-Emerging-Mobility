@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-NPS GRCA,https://www.nps.gov/subjects/developer/gtfs.htm,en,20240907,20241231,20240929,erica.cole@nps.gov,
+NPS GRCA,https://www.nps.gov/subjects/developer/gtfs.htm,en,20240525,20241130,20240930,erica.cole@nps.gov,
