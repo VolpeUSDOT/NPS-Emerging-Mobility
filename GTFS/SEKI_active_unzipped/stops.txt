@@ -1,26 +1,6 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-1,,Crescent Meadow,,36.5544421582388,-118.74954019473,,,,,,0
-2,,Moro Rock,,36.54711359349,-118.765637578665,,,,,,0
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
 3,,Giant Forest Museum,,36.5643366527619,-118.773197752009,,,,,,1
 4,,Sherman Tree Trailhead,,36.5808701421273,-118.752439615484,,,,,,1
 5,,Sherman Tree Parking Lot,,36.5850258735811,-118.750368047949,,,,,,0
-6,,Wolverton,,36.5960400814413,-118.736082277667,,,,,,0
 7,,Lodgepole Market and Visitor Center,,36.6036052049373,-118.731662247012,,,,,,1
-8,,Lodgepole Campground,,36.6048269766022,-118.72426725657,,,,,,1
 9,,Wuksachi Lodge and Restaurant,,36.6099349253795,-118.752759932353,,,,,,1
-10,,Auto Log,,36.5546379941627,-118.769651929402,,,,,,0
-11,,Tunnel Log,,36.552490090975,-118.761542404452,,,,,,0
-12,,Foothills Visitor Center,,36.4911771844685,-118.825791023778,,,,,,0
-13,,Dorst Campground,,36.6356272767888,-118.809809128894,,,,,,1
-14,,Historical Museum,,36.4483130117993,-118.900285671324,,,,,,0
-15,,Comfort Inn & Suites,,36.4261770562832,-118.914967487382,,,,,,0
-16,,The Barn,,36.3266421159414,-119.135238152054,,,,,,0
-17,,Village RV Park,,36.3695808197815,-119.032396159795,,,,,,0
-18,,Visalia Transit Center,,36.3307514370418,-119.288362287207,,,,,,0
-19,,Comfort Suites / Convention Center,,36.3291841159708,-119.290192802095,,,,,,0
-20,,Marriott,,36.3285797702816,-119.292302668614,,,,,,0
-21,,Lamp Lighter Inn,,36.3275873776296,-119.327233245074,,,,,,0
-22,,Hampton Inn,,36.326627942079,-119.344191902525,,,,,,0
-23,,La Quinta Inn & Suites,,36.3259873159554,-119.351620929357,,,,,,0
-24,,Fairfield Inn,,36.3289215480672,-119.348199976056,,,,,,0
-25,,Wyndham Hotel,,36.3253302046766,-119.391215761121,,,,,,0
