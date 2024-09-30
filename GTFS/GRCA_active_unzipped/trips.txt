@@ -1,0 +1,695 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+village,fall,village_fall_T01,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T02,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T03,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T04,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T05,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T06,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T07,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T08,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T09,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T10,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T11,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T12,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T13,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T14,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T15,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T16,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T17,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T18,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T19,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T20,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T21,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T22,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T23,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T24,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T25,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T26,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T27,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T28,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T29,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T30,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T31,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T32,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T33,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T34,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T35,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T36,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T37,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T38,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T39,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T40,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T41,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T42,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T43,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T44,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T45,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T46,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T47,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T48,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T49,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T50,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T51,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T52,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T53,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T54,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T55,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T56,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T57,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T58,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T59,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T60,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T61,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T62,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T63,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T64,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T65,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T66,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T67,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T68,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T69,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T70,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T71,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T72,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T73,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T74,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T75,Grand Canyon Visitor Center,1,,village,1,1
+village,fall,village_fall_T76,Grand Canyon Visitor Center,1,,village,1,1
+hikers,september,hikers_september_T01,South Kaibab Trailhead,1,,hikers,1,1
+hikers,september,hikers_september_T02,South Kaibab Trailhead,1,,hikers,1,1
+hikers,september,hikers_september_T03,South Kaibab Trailhead,1,,hikers,1,1
+hikers,october,hikers_october_T01,South Kaibab Trailhead,1,,hikers,1,1
+hikers,october,hikers_october_T02,South Kaibab Trailhead,1,,hikers,1,1
+hikers,november,hikers_november_T01,South Kaibab Trailhead,1,,hikers,1,1
+hikers,november,hikers_november_T02,South Kaibab Trailhead,1,,hikers,1,1
+hikers,december,hikers_december_T01,South Kaibab Trailhead,1,,hikers,1,1
+hikers,december,hikers_december_T02,South Kaibab Trailhead,1,,hikers,1,1
+kaibab,late september,kaibab_late september_T01,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T02,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T03,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T04,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T05,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T06,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T07,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T08,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T09,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T10,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T11,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T12,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T13,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T14,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T15,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T16,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T17,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T18,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T19,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T20,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T21,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T22,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T23,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T24,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T25,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T26,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T27,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T28,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T29,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T30,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T31,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T32,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T33,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T34,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T35,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T36,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T37,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T38,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T39,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T40,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T41,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T42,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T43,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T44,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T45,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T46,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T47,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T48,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T49,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late september,kaibab_late september_T50,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T01,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T02,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T03,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T04,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T05,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T06,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T07,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T08,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T09,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T10,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T11,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T12,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T13,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T14,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T15,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T16,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T17,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T18,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T19,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T20,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T21,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T22,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T23,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T24,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T25,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T26,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T27,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T28,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T29,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T30,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T31,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T32,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T33,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T34,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T35,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T36,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T37,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T38,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T39,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T40,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T41,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T42,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T43,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T44,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T45,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T46,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T47,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T48,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early october,kaibab_early october_T49,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T01,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T02,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T03,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T04,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T05,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T06,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T07,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T08,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T09,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T10,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T11,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T12,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T13,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T14,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T15,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T16,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T17,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T18,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T19,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T20,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T21,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T22,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T23,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T24,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T25,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T26,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T27,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T28,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T29,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T30,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T31,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T32,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T33,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T34,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T35,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T36,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T37,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T38,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T39,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T40,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T41,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T42,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T43,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T44,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T45,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T46,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T47,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,mid october,kaibab_mid october_T48,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T01,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T02,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T03,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T04,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T05,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T06,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T07,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T08,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T09,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T10,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T11,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T12,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T13,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T14,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T15,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T16,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T17,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T18,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T19,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T20,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T21,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T22,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T23,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T24,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T25,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T26,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T27,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T28,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T29,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T30,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T31,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T32,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T33,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T34,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T35,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T36,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T37,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T38,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T39,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T40,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T41,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T42,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T43,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T44,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T45,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T46,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,late october,kaibab_late october_T47,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T01,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T02,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T03,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T04,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T05,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T06,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T07,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T08,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T09,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T10,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T11,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T12,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T13,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T14,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T15,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T16,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T17,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T18,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T19,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T20,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T21,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T22,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T23,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T24,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T25,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T26,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T27,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T28,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T29,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T30,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T31,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T32,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T33,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T34,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T35,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T36,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T37,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T38,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T39,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T40,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T41,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T42,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T43,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T44,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T45,Grand Canyon Visitor Center,1,,kaibab,1,1
+kaibab,early november,kaibab_november_T46,Grand Canyon Visitor Center,1,,kaibab,1,1
+hermit,late september,hermit_late september_T01,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T02,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T03,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T04,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T05,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T06,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T07,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T08,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T09,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T10,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T11,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T12,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T13,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T14,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T15,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T16,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T17,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T18,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T19,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T20,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T21,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T22,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T23,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T24,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T25,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T26,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T27,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T28,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T29,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T30,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T31,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T32,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T33,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T34,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T35,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T36,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T37,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T38,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T39,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T40,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T41,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T42,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T43,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T44,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T45,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T46,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T47,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T48,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T49,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T50,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T51,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T52,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T53,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T54,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T55,Village Route Transfer,1,,hermit,0,0
+hermit,late september,hermit_late september_T56,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T01,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T02,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T03,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T04,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T05,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T06,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T07,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T08,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T09,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T10,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T11,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T12,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T13,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T14,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T15,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T16,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T17,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T18,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T19,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T20,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T21,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T22,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T23,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T24,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T25,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T26,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T27,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T28,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T29,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T30,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T31,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T32,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T33,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T34,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T35,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T36,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T37,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T38,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T39,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T40,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T41,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T42,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T43,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T44,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T45,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T46,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T47,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T48,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T49,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T50,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T51,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T52,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T53,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T54,Village Route Transfer,1,,hermit,0,0
+hermit,early october,hermit_early october_T55,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T01,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T02,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T03,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T04,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T05,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T06,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T07,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T08,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T09,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T10,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T11,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T12,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T13,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T14,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T15,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T16,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T17,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T18,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T19,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T20,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T21,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T22,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T23,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T24,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T25,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T26,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T27,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T28,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T29,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T30,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T31,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T32,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T33,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T34,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T35,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T36,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T37,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T38,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T39,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T40,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T41,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T42,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T43,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T44,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T45,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T46,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T47,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T48,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T49,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T50,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T51,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T52,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T53,Village Route Transfer,1,,hermit,0,0
+hermit,mid october,hermit_mid october_T54,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T01,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T02,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T03,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T04,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T05,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T06,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T07,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T08,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T09,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T10,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T11,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T12,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T13,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T14,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T15,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T16,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T17,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T18,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T19,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T20,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T21,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T22,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T23,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T24,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T25,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T26,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T27,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T28,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T29,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T30,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T31,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T32,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T33,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T34,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T35,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T36,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T37,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T38,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T39,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T40,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T41,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T42,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T43,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T44,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T45,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T46,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T47,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T48,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T49,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T50,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T51,Village Route Transfer,1,,hermit,0,0
+hermit,late october,hermit_late october_T52,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T01,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T02,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T03,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T04,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T05,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T06,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T07,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T08,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T09,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T10,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T11,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T12,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T13,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T14,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T15,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T16,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T17,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T18,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T19,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T20,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T21,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T22,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T23,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T24,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T25,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T26,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T27,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T28,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T29,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T30,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T31,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T32,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T33,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T34,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T35,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T36,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T37,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T38,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T39,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T40,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T41,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T42,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T43,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T44,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T45,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T46,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T47,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T48,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T49,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T50,Village Route Transfer,1,,hermit,0,0
+hermit,early november,hermit_early november_T51,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T01,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T02,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T03,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T04,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T05,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T06,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T07,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T08,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T09,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T10,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T11,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T12,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T13,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T14,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T15,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T16,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T17,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T18,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T19,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T20,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T21,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T22,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T23,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T24,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T25,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T26,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T27,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T28,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T29,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T30,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T31,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T32,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T33,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T34,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T35,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T36,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T37,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T38,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T39,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T40,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T41,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T42,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T43,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T44,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T45,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T46,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T47,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T48,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T49,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T50,Village Route Transfer,1,,hermit,0,0
+hermit,mid november,hermit_mid november_T51,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T01,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T02,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T03,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T04,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T05,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T06,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T07,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T08,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T09,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T10,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T11,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T12,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T13,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T14,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T15,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T16,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T17,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T18,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T19,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T20,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T21,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T22,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T23,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T24,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T25,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T26,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T27,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T28,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T29,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T30,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T31,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T32,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T33,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T34,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T35,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T36,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T37,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T38,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T39,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T40,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T41,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T42,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T43,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T44,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T45,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T46,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T47,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T48,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T49,Village Route Transfer,1,,hermit,0,0
+hermit,late november,hermit_late november_T50,Village Route Transfer,1,,hermit,0,0

@@ -1,0 +1,109 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+winterfullob,winterfull,WinterFullOutbound_T01,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T02,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T03,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T04,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T05,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T06,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T07,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T08,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T09,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T10,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T11,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T12,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T13,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T14,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T15,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T16,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T17,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T18,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T19,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T20,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T21,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T22,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T23,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T24,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T25,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T26,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullob,winterfull,WinterFullOutbound_T27,Wuksachi Lodge and Restaurant,0,,winterfullob,0,0
+winterfullib,winterfull,WinterFullInbound_T01,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T02,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T03,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T04,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T05,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T06,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T07,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T08,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T09,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T10,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T11,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T12,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T13,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T14,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T15,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T16,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T17,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T18,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T19,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T20,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T21,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T22,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T23,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T24,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T25,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T26,Giant Forest Museum,1,,winterfullib,0,0
+winterfullib,winterfull,WinterFullInbound_T27,Giant Forest Museum,1,,winterfullib,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T01,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T02,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T03,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T04,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T05,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T06,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T07,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T08,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T09,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T10,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T11,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T12,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T13,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T14,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T15,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T16,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T17,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T18,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T19,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T20,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T21,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T22,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T23,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T24,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T25,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T26,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialob,winterpartial,WinterPartialOutbound_T27,Sherman Tree Parking Lot,0,,winterpartialob,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T01,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T02,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T03,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T04,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T05,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T06,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T07,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T08,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T09,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T10,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T11,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T12,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T13,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T14,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T15,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T16,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T17,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T18,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T19,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T20,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T21,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T22,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T23,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T24,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T25,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T26,Giant Forest Museum,1,,winterpartialib,0,0
+winterpartialib,winterpartial,WinterPartialInbound_T27,Giant Forest Museum,1,,winterpartialib,0,0

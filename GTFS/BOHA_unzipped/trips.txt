@@ -1,0 +1,7 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+CS,spring,CS-1_Spring Outbound_T01,Cathleen Stone Island,0,,CSOB,,2
+CS,spring,CS-1_Spring Inbound_T01,South Boston (EDIC),1,,CSIB,,2
+CS,summer,CS-2_Summer Outbound_T01,Cathleen Stone Island,0,,CSOB,,2
+CS,summer,CS-2_Summer Inbound_T01,South Boston (EDIC),1,,CSIB,,2
+CS,fall,CS Fall Outbound_T01,Cathleen Stone Island,0,,CSOB,,2
+CS,fall,CS Fall Inbound_T01,South Boston (EDIC),1,,CSIB,,2

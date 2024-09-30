@@ -1,0 +1,4 @@
+﻿service_id,date,exception_type
+summer,20240619,1
+summer,20240704,1
+summer,20240904,1

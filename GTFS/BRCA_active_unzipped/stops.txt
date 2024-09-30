@@ -1,0 +1,16 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,,Shuttle Station,,37.670997,-112.156861,,,,,,1
+2,,Old Bryce Town,,37.673715,-112.156378,,,,,,1
+3,,Best Western / Grand,,37.674533,-112.153742,,,,,,1
+4,,Best Western / Ruby's Inn,,37.673215,-112.156765,,,,,,1
+5,,Ruby's - South,,37.66793,-112.158166,,,,,,1
+6,,Visitor's Center - South,,37.63995,-112.169456,,,,,,1
+7,,Sunset - South,,37.62224,-112.172146,,,,,,1
+8,,Bryce Point,,37.604164,-112.157014,,,,,,1
+9,,Inspiration Point,,37.615451,-112.170561,,,,,,1
+10,,Sunset - North,,37.621638,-112.172381,,,,,,1
+11,,Sunset Point,,37.623386,-112.167209,,,,,,1
+12,,Bryce Lodge,,37.627458,-112.167778,,,,,,1
+13,,Sunrise Point,,37.63083,-112.164397,,,,,,1
+14,,Visitor's Center - North,,37.639443,-112.169607,,,,,,1
+15,,Ruby's - North,,37.667414,-112.157994,,,,,,1

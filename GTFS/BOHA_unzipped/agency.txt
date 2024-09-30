@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+NPS,National Park Service,https://thompsonisland.org/visit/publicaccess,America/New_York,en,617-328-3900,https://thompsonisland.org/visit/publicaccess,info@thompsonisland.org
