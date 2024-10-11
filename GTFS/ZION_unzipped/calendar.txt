@@ -1,0 +1,5 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+spring,1,1,1,1,1,1,1,20240303,20240518
+summer,1,1,1,1,1,1,1,20240519,20240915
+fall,1,1,1,1,1,1,1,20240916,20241102
+winter,1,1,1,1,1,1,1,20241103,20241201

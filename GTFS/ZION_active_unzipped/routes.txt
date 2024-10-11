@@ -1,0 +1,3 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+town,ZION,,Springdale Town Route,,3,https://www.nps.gov/zion/planyourvisit/zion-canyon-shuttle-system.htm,BF5700,FFFFFF,,0,0
+canyon,ZION,,Zion Canyon Scenic Drive,,3,https://www.nps.gov/zion/planyourvisit/zion-canyon-shuttle-system.htm,436E2E,FFFFFF,,1,1

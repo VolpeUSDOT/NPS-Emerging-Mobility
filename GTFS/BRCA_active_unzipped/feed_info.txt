@@ -1,2 +1,2 @@
-﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-National Park Service,https://www.nps.gov/subjects/developer/gtfs.htm,en,20240405,20241020,20240429,erica_cole@nps.gov,
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+NPS BRCA,https://www.nps.gov/subjects/developer/gtfs.htm,en,20240923,20501230,20241011,erica.cole@nps.gov,

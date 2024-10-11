@@ -1,2 +1,2 @@
-﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-BA_Fall,1,1,1,1,1,1,1,20240923,20241020
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+59,1,1,1,1,1,1,1,20240923,20501230

@@ -1,16 +1,17 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-1,,Shuttle Station,,37.670997,-112.156861,,,,,,1
-2,,Old Bryce Town,,37.673715,-112.156378,,,,,,1
-3,,Best Western / Grand,,37.674533,-112.153742,,,,,,1
-4,,Best Western / Ruby's Inn,,37.673215,-112.156765,,,,,,1
-5,,Ruby's - South,,37.66793,-112.158166,,,,,,1
-6,,Visitor's Center - South,,37.63995,-112.169456,,,,,,1
-7,,Sunset - South,,37.62224,-112.172146,,,,,,1
-8,,Bryce Point,,37.604164,-112.157014,,,,,,1
-9,,Inspiration Point,,37.615451,-112.170561,,,,,,1
-10,,Sunset - North,,37.621638,-112.172381,,,,,,1
-11,,Sunset Point,,37.623386,-112.167209,,,,,,1
-12,,Bryce Lodge,,37.627458,-112.167778,,,,,,1
-13,,Sunrise Point,,37.63083,-112.164397,,,,,,1
-14,,Visitor's Center - North,,37.639443,-112.169607,,,,,,1
-15,,Ruby's - North,,37.667414,-112.157994,,,,,,1
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station
+1,,Shuttle Station,,37.6711107488,-112.1569204723,,0,
+12,,Old Bryce Town,,37.6735670000,-112.1564570000,,0,
+13,,Bryce Canyon Grand Hotel,,37.6744840000,-112.1540100000,,0,
+14,,Ruby's Inn,,37.6734430000,-112.1567000000,,0,
+15,,Ruby's Campground (SB),,37.6678080000,-112.1581950000,,0,
+2,,Bryce Canyon Visitor Center (SB),,37.6399720000,-112.1694200000,,0,
+3,,Sunset Campground (SB),,37.6221990000,-112.1721340000,,0,
+4,,Bryce Point,,37.6041300000,-112.1569710000,,0,
+5,,Inspiration Point,,37.6154430000,-112.1705970000,,0,
+6,,Sunset Campground (NB),,37.6216980000,-112.1723410000,,0,
+7,,Sunset Point,,37.6234240000,-112.1672490000,,0,
+8,,Bryce Lodge,,37.6273240000,-112.1676270000,,0,
+9,,Sunrise Point,,37.6308530000,-112.1644410000,,0,
+10,,Bryce Canyon Visitor Center (NB),,37.6393910000,-112.1697100000,,0,
+11,,Ruby's Campground (NB),,37.6676880000,-112.1579900000,,0,
+25,,Shuttle Station Arrival,,37.6702449687,-112.1573586271,,0,
