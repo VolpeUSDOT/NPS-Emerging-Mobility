@@ -1,2 +1,2 @@
 ﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Zion Canyon Transportation System,https://www.nps.gov/subjects/developer/gtfs.htm,en,20240101,20241231,2,erica.cole@nps.gov,
+Zion Canyon Transportation System,https://www.nps.gov/zion/index.htm,en,20240101,20241231,2,,

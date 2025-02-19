@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-NPS ZION,https://www.nps.gov/subjects/developer/gtfs.htm,en,20240916,20241201,20241004,erica.cole@nps.gov,
+NPS ZION,https://www.nps.gov/subjects/developer/gtfs.htm,en,20241103,20241230,20241112,erica.cole@nps.gov,

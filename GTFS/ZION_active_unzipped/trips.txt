@@ -1,370 +1,4 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-canyon,fall,Fall Canyon Route OB_T01,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T02,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T03,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T04,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T05,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T06,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T07,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T08,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T09,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T10,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T11,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T12,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T13,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T14,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T15,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T16,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T17,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T18,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T19,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T20,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T21,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T22,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T23,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T24,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T25,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T26,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T27,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T28,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T29,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T30,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T31,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T32,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T33,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T34,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T35,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T36,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T37,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T38,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T39,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T40,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T41,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T42,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T43,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T44,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T45,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T46,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T47,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T48,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T49,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T50,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T51,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T52,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T53,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T54,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T55,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T56,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T57,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T58,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T59,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T60,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T61,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T62,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T63,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T64,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T65,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T66,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T67,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T68,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T69,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T70,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T71,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T72,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T73,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T74,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T75,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T76,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T77,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T78,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T79,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T80,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T81,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T82,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T83,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T84,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T85,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T86,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T87,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T88,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T89,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T90,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T91,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T92,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T93,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T94,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T95,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T96,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T97,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T98,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T99,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T100,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T101,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T102,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T103,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T104,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T105,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T106,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T107,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T108,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T109,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T110,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T111,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T112,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T113,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T114,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T115,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T116,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T117,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T118,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T119,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T120,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T121,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T122,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T123,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T124,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T125,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T126,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T127,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T128,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T129,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T130,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T131,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T132,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T133,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T134,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T135,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T136,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T137,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T138,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route OB_T139,Temple of Sinawava,0,,canyonob,1,1
-canyon,fall,Fall Canyon Route IB_T01,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T02,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T03,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T04,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T05,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T06,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T07,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T08,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T09,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T10,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T11,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T12,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T13,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T14,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T15,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T16,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T17,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T18,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T19,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T20,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T21,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T22,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T23,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T24,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T25,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T26,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T27,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T28,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T29,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T30,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T31,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T32,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T33,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T34,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T35,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T36,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T37,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T38,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T39,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T40,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T41,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T42,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T43,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T44,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T45,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T46,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T47,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T48,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T49,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T50,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T51,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T52,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T53,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T54,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T55,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T56,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T57,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T58,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T59,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T60,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T61,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T62,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T63,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T64,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T65,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T66,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T67,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T68,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T69,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T70,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T71,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T72,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T73,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T74,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T75,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T76,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T77,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T78,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T79,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T80,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T81,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T82,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T83,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T84,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T85,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T86,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T87,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T88,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T89,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T90,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T91,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T92,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T93,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T94,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T95,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T96,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T97,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T98,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T99,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T100,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T101,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T102,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T103,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T104,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T105,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T106,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T107,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T108,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T109,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T110,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T111,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T112,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T113,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T114,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T115,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T116,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T117,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T118,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T119,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T120,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T121,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T122,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T123,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T124,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T125,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T126,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T127,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T128,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T129,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T130,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T131,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T132,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T133,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T134,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T135,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T136,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T137,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T138,Zion Canyon Visitor Center,1,,canyonib,1,1
-canyon,fall,Fall Canyon Route IB_T139,Zion Canyon Visitor Center,1,,canyonib,1,1
-town,fall,Fall Town Route OB_T01,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T02,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T03,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T04,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T05,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T06,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T07,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T08,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T09,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T10,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T11,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T12,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T13,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T14,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T15,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T16,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T17,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T18,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T19,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T20,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T21,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T22,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T23,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T24,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T25,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T26,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T27,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T28,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T29,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T30,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T31,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T32,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T33,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T34,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T35,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T36,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T37,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T38,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T39,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T40,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T41,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T42,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T43,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route OB_T44,Zion Canyon Village,0,,townob,1,1
-town,fall,Fall Town Route IB_T01,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T02,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T03,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T04,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T05,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T06,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T07,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T08,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T09,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T10,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T11,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T12,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T13,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T14,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T15,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T16,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T17,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T18,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T19,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T20,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T21,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T22,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T23,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T24,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T25,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T26,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T27,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T28,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T29,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T30,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T31,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T32,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T33,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T34,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T35,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T36,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T37,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T38,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T39,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T40,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T41,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T42,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T43,Hotel De Novo,1,,townib,1,1
-town,fall,Fall Town Route IB_T44,Hotel De Novo,1,,townib,1,1
 canyon,winter,Winter Canyon Route OB_T01,Temple of Sinawava,0,,canyonob,1,1
 canyon,winter,Winter Canyon Route OB_T02,Temple of Sinawava,0,,canyonob,1,1
 canyon,winter,Winter Canyon Route OB_T03,Temple of Sinawava,0,,canyonob,1,1
@@ -474,24 +108,6 @@ canyon,winter,Winter Canyon Route OB_T106,Temple of Sinawava,0,,canyonob,1,1
 canyon,winter,Winter Canyon Route OB_T107,Temple of Sinawava,0,,canyonob,1,1
 canyon,winter,Winter Canyon Route OB_T108,Temple of Sinawava,0,,canyonob,1,1
 canyon,winter,Winter Canyon Route OB_T109,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T110,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T111,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T112,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T113,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T114,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T115,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T116,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T117,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T118,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T119,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T120,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T121,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T122,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T123,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T124,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T125,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T126,Temple of Sinawava,0,,canyonob,1,1
-canyon,winter,Winter Canyon Route OB_T127,Temple of Sinawava,0,,canyonob,1,1
 canyon,winter,Winter Canyon Route IB_T01,Zion Canyon Visitor Center,1,,canyonib,1,1
 canyon,winter,Winter Canyon Route IB_T02,Zion Canyon Visitor Center,1,,canyonib,1,1
 canyon,winter,Winter Canyon Route IB_T03,Zion Canyon Visitor Center,1,,canyonib,1,1
@@ -699,3 +315,297 @@ town,winter,Winter Town Route IB_T37,Hotel De Novo,1,,townib,1,1
 town,winter,Winter Town Route IB_T38,Hotel De Novo,1,,townib,1,1
 town,winter,Winter Town Route IB_T39,Hotel De Novo,1,,townib,1,1
 town,winter,Winter Town Route IB_T40,Hotel De Novo,1,,townib,1,1
+canyon,holiday,Holiday Canyon Route OB_T01,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T02,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T03,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T04,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T05,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T06,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T07,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T08,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T09,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T10,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T11,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T12,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T13,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T14,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T15,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T16,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T17,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T18,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T19,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T20,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T21,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T22,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T23,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T24,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T25,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T26,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T27,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T28,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T29,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T30,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T31,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T32,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T33,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T34,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T35,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T36,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T37,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T38,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T39,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T40,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T41,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T42,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T43,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T44,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T45,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T46,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T47,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T48,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T49,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T50,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T51,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T52,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T53,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T54,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T55,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T56,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T57,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T58,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T59,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T60,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T61,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T62,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T63,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T64,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T65,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T66,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T67,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T68,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T69,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T70,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T71,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T72,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T73,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T74,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T75,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T76,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T77,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T78,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T79,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T80,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T81,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T82,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T83,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T84,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T85,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T86,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T87,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T88,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T89,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T90,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T91,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T92,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T93,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T94,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T95,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T96,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route OB_T97,Temple of Sinawava,0,,canyonob,1,1
+canyon,holiday,Holiday Canyon Route IB_T01,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T02,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T03,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T04,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T05,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T06,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T07,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T08,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T09,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T10,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T11,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T12,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T13,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T14,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T15,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T16,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T17,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T18,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T19,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T20,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T21,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T22,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T23,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T24,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T25,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T26,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T27,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T28,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T29,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T30,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T31,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T32,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T33,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T34,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T35,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T36,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T37,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T38,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T39,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T40,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T41,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T42,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T43,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T44,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T45,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T46,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T47,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T48,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T49,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T50,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T51,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T52,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T53,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T54,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T55,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T56,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T57,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T58,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T59,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T60,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T61,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T62,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T63,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T64,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T65,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T66,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T67,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T68,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T69,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T70,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T71,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T72,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T73,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T74,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T75,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T76,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T77,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T78,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T79,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T80,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T81,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T82,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T83,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T84,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T85,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T86,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T87,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T88,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T89,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T90,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T91,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T92,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T93,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T94,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T95,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T96,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T97,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T98,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T99,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T100,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T101,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T102,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T103,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T104,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T105,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T106,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T107,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T108,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T109,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T110,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T111,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T112,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T113,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T114,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T115,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T116,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T117,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T118,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T119,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T120,Zion Canyon Visitor Center,1,,canyonib,1,1
+canyon,holiday,Holiday Canyon Route IB_T121,Zion Canyon Visitor Center,1,,canyonib,1,1
+town,holiday,Holiday Town Route OB_T01,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T02,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T03,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T04,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T05,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T06,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T07,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T08,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T09,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T10,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T11,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T12,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T13,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T14,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T15,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T16,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T17,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T18,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T19,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T20,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T21,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T22,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T23,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T24,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T25,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T26,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T27,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T28,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T29,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T30,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T31,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T32,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T33,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T34,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T35,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T36,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T37,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route OB_T38,Zion Canyon Village,0,,townob,1,1
+town,holiday,Holiday Town Route IB_T01,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T02,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T03,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T04,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T05,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T06,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T07,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T08,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T09,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T10,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T11,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T12,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T13,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T14,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T15,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T16,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T17,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T18,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T19,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T20,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T21,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T22,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T23,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T24,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T25,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T26,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T27,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T28,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T29,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T30,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T31,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T32,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T33,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T34,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T35,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T36,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T37,Hotel De Novo,1,,townib,1,1
+town,holiday,Holiday Town Route IB_T38,Hotel De Novo,1,,townib,1,1

@@ -1,0 +1,95 @@
+﻿shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.790789,-79.92477,1,0
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.790795,-79.924647,2,0.012
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.790785,-79.924424,3,0.032
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.790756,-79.924231,4,0.051
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.790713,-79.924107,5,0.063
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.790655,-79.924017,6,0.074
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.789188,-79.922952,7,0.265
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.780565,-79.919637,8,1.273
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.78015,-79.919465,9,1.321
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.778508,-79.918543,10,1.523
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.778129,-79.918242,11,1.574
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.768278,-79.907396,12,3.067
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.767484,-79.906516,13,3.187
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.767177,-79.906054,14,3.243
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.762495,-79.896559,15,4.272
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.758336,-79.888084,16,5.189
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.756892,-79.885176,17,5.505
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.753743,-79.877269,18,6.323
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.753536,-79.876228,19,6.423
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.75351,-79.875582,20,6.484
+Fort Sumter Visitor Center-Fort Sumter Outbound,32.753487,-79.875398,21,6.501
+Patriot's Point-Fort Sumter Outbound,32.790556,-79.906265,1,0
+Patriot's Point-Fort Sumter Outbound,32.790567,-79.907034,2,0.072
+Patriot's Point-Fort Sumter Outbound,32.790671,-79.907345,3,0.103
+Patriot's Point-Fort Sumter Outbound,32.790846,-79.90763,4,0.136
+Patriot's Point-Fort Sumter Outbound,32.791,-79.907753,5,0.157
+Patriot's Point-Fort Sumter Outbound,32.79136,-79.907839,6,0.198
+Patriot's Point-Fort Sumter Outbound,32.791685,-79.907919,7,0.235
+Patriot's Point-Fort Sumter Outbound,32.791893,-79.90808,8,0.262
+Patriot's Point-Fort Sumter Outbound,32.792037,-79.908279,9,0.287
+Patriot's Point-Fort Sumter Outbound,32.792127,-79.908563,10,0.315
+Patriot's Point-Fort Sumter Outbound,32.792127,-79.909845,11,0.435
+Patriot's Point-Fort Sumter Outbound,32.792077,-79.910038,12,0.454
+Patriot's Point-Fort Sumter Outbound,32.791915,-79.910242,13,0.48
+Patriot's Point-Fort Sumter Outbound,32.790882,-79.91161,14,0.652
+Patriot's Point-Fort Sumter Outbound,32.790707,-79.91175,15,0.675
+Patriot's Point-Fort Sumter Outbound,32.790156,-79.911755,16,0.737
+Patriot's Point-Fort Sumter Outbound,32.785989,-79.91175,17,1.2
+Patriot's Point-Fort Sumter Outbound,32.785227,-79.911734,18,1.285
+Patriot's Point-Fort Sumter Outbound,32.784961,-79.911691,19,1.315
+Patriot's Point-Fort Sumter Outbound,32.780248,-79.908901,20,1.9
+Patriot's Point-Fort Sumter Outbound,32.779815,-79.908536,21,1.959
+Patriot's Point-Fort Sumter Outbound,32.76964,-79.895769,22,3.604
+Patriot's Point-Fort Sumter Outbound,32.758164,-79.881328,23,5.461
+Patriot's Point-Fort Sumter Outbound,32.754365,-79.876564,24,6.075
+Patriot's Point-Fort Sumter Outbound,32.753509,-79.875483,25,6.214
+Patriot's Point-Fort Sumter Outbound,32.753487,-79.875398,26,6.223
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.753487,-79.875398,1,0
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.75351,-79.875582,2,0.017
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.753536,-79.876228,3,0.078
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.753743,-79.877269,4,0.178
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.756892,-79.885176,5,0.996
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.758336,-79.888084,6,1.312
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.762495,-79.896559,7,2.229
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.767177,-79.906054,8,3.259
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.767484,-79.906516,9,3.314
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.768278,-79.907396,10,3.434
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.778129,-79.918242,11,4.927
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.778508,-79.918543,12,4.978
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.78015,-79.919465,13,5.18
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.780565,-79.919637,14,5.228
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.789188,-79.922952,15,6.236
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.790655,-79.924017,16,6.427
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.790713,-79.924107,17,6.438
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.790756,-79.924231,18,6.45
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.790785,-79.924424,19,6.469
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.790795,-79.924647,20,6.49
+Fort Sumter Visitor Center-Fort Sumter Inbound,32.790789,-79.92477,21,6.501
+Patriot's Point-Fort Sumter Inbound,32.753487,-79.875398,1,0
+Patriot's Point-Fort Sumter Inbound,32.753509,-79.875483,2,0.008
+Patriot's Point-Fort Sumter Inbound,32.754365,-79.876564,3,0.147
+Patriot's Point-Fort Sumter Inbound,32.758164,-79.881328,4,0.761
+Patriot's Point-Fort Sumter Inbound,32.76964,-79.895769,5,2.619
+Patriot's Point-Fort Sumter Inbound,32.779815,-79.908536,6,4.264
+Patriot's Point-Fort Sumter Inbound,32.780248,-79.908901,7,4.323
+Patriot's Point-Fort Sumter Inbound,32.784961,-79.911691,8,4.908
+Patriot's Point-Fort Sumter Inbound,32.785227,-79.911734,9,4.938
+Patriot's Point-Fort Sumter Inbound,32.785989,-79.91175,10,5.023
+Patriot's Point-Fort Sumter Inbound,32.790156,-79.911755,11,5.486
+Patriot's Point-Fort Sumter Inbound,32.790707,-79.91175,12,5.547
+Patriot's Point-Fort Sumter Inbound,32.790882,-79.91161,13,5.571
+Patriot's Point-Fort Sumter Inbound,32.791915,-79.910242,14,5.743
+Patriot's Point-Fort Sumter Inbound,32.792077,-79.910038,15,5.769
+Patriot's Point-Fort Sumter Inbound,32.792127,-79.909845,16,5.788
+Patriot's Point-Fort Sumter Inbound,32.792127,-79.908563,17,5.907
+Patriot's Point-Fort Sumter Inbound,32.792037,-79.908279,18,5.936
+Patriot's Point-Fort Sumter Inbound,32.791893,-79.90808,19,5.96
+Patriot's Point-Fort Sumter Inbound,32.791685,-79.907919,20,5.988
+Patriot's Point-Fort Sumter Inbound,32.79136,-79.907839,21,6.025
+Patriot's Point-Fort Sumter Inbound,32.791,-79.907753,22,6.066
+Patriot's Point-Fort Sumter Inbound,32.790846,-79.90763,23,6.086
+Patriot's Point-Fort Sumter Inbound,32.790671,-79.907345,24,6.119
+Patriot's Point-Fort Sumter Inbound,32.790567,-79.907034,25,6.151
+Patriot's Point-Fort Sumter Inbound,32.790556,-79.906265,26,6.223

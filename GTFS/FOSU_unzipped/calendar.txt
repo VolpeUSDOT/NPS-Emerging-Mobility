@@ -1,0 +1,13 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+Fort Sumter Visitor Center-Fort Sumter Winter,1,1,1,1,1,1,1,20250102,20250228
+Patriot's Point-Fort Sumter Winter,1,1,1,1,1,1,1,20250102,20250228
+Fort Sumter Visitor Center-Fort Sumter Regular,1,1,1,1,1,1,1,20250301,20251130
+Patriot's Point-Fort Sumter Regular,1,1,1,1,1,1,1,20250301,20251130
+Fort Sumter Visitor Center-Fort Sumter December,1,1,1,1,1,1,1,20251201,20251224
+Patriot's Point-Fort Sumter December,1,1,1,1,1,1,1,20251201,20251224
+Fort Sumter Visitor Center-Fort Sumter Late December,1,1,1,1,1,1,1,20251226,20251231
+Patriot's Point-Fort Sumter Late December,1,1,1,1,1,1,1,20251226,20251231
+Fort Sumter Visitor Center-Fort Sumter December 24,1,1,1,1,1,1,1,20241201,20241224
+Patriot's Point-Fort Sumter December 24,1,1,1,1,1,1,1,20241201,20241224
+Fort Sumter Visitor Center-Fort Sumter Late December 24,1,1,1,1,1,1,1,20241226,20241231
+Patriot's Point-Fort Sumter Late December 24,1,1,1,1,1,1,1,20241226,20241231

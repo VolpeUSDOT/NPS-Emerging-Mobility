@@ -1,3 +1,3 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
 1,,Harpers Ferry National Historical Park Visitor Center,,39.316415,-77.757155,,,,,,1
 2,,Lower Town,,39.3220649,-77.7322754,,,,,,1

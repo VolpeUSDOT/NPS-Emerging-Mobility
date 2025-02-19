@@ -1,2 +1,2 @@
 ﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-HAFE,National Park Service,https://www.nps.gov/hafe/planyourvisit/gettingaround.htm,America/New_York,en,304-535-6029,,
+NPS,National Park Service,https://www.nps.gov/hafe/planyourvisit/gettingaround.htm,America/New_York,en,304-535-6029,,

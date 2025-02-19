@@ -1,6 +1,6 @@
 ﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-village,GRCA,,Village (Blue),,3,https://www.nps.gov/grca/planyourvisit/village-blue-route.htm,334AFF,FFFFFF,,,
-kaibab,GRCA,,Kaibab Rim (Orange),,3,https://www.nps.gov/grca/planyourvisit/kaibab-orange-route.htm,FF9833,FFFFFF,,,
-hermit,GRCA,,Hermit Road (Red),,3,https://www.nps.gov/grca/planyourvisit/hermit-red-route.htm,DD0303,FFFFFF,,,
-tusayan,GRCA,,Tusayan (Purple),,3,https://www.nps.gov/grca/planyourvisit/tusayan-route-purple.htm,8F03DD,FFFFFF,,,
-hikers,GRCA,,Hikers' Express,,3,https://www.nps.gov/grca/planyourvisit/hiker-express-shuttle.htm,9FE2BF,000000,,,
+village,NPS,,Village (Blue),,3,https://www.nps.gov/grca/planyourvisit/village-blue-route.htm,334AFF,FFFFFF,,,
+kaibab,NPS,,Kaibab Rim (Orange),,3,https://www.nps.gov/grca/planyourvisit/kaibab-orange-route.htm,FF9833,FFFFFF,,,
+hermit,NPS,,Hermit Road (Red),,3,https://www.nps.gov/grca/planyourvisit/hermit-red-route.htm,DD0303,FFFFFF,,,
+tusayan,NPS,,Tusayan (Purple),,3,https://www.nps.gov/grca/planyourvisit/tusayan-route-purple.htm,8F03DD,FFFFFF,,,
+hikers,NPS,,Hikers' Express,,3,https://www.nps.gov/grca/planyourvisit/hiker-express-shuttle.htm,9FE2BF,000000,,,

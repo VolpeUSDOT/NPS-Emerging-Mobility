@@ -1,0 +1,4 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,,Patriot's Point,,32.79055,-79.90626,,,,,,1
+2,,Fort Sumter Visitor Center,,32.79078,-79.92477,,,,,,1
+3,,Fort Sumter,,32.75348,-79.87539,,,,,,1

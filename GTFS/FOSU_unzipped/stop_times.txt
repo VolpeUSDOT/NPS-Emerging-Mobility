@@ -1,0 +1,97 @@
+﻿trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,shape_dist_traveled,timepoint
+Fort Sumter Visitor Center-Fort Sumter Winter (Outbound)_T01,11:00:00,11:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Winter (Outbound)_T01,11:35:00,11:35:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Winter (Outbound)_T02,14:00:00,14:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Winter (Outbound)_T02,14:35:00,14:35:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Winter (Inbound)_T01,12:35:00,12:35:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Winter (Inbound)_T01,13:10:00,13:10:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Winter (Inbound)_T02,15:35:00,15:35:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Winter (Inbound)_T02,16:10:00,16:10:00,2,2,,,,,,6.501,1
+Patriot's Point-Fort Sumter Winter (Outbound)_T01,12:30:00,12:30:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter Winter (Outbound)_T01,13:05:00,13:05:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Winter (Inbound)_T01,14:05:00,14:05:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter Winter (Inbound)_T01,14:40:00,14:40:00,1,2,,,,,,6.223,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T01,09:30:00,09:30:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T01,10:05:00,10:05:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T02,12:00:00,12:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T02,12:35:00,12:35:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T03,14:45:00,14:45:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T03,15:20:00,15:20:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T01,11:05:00,11:05:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T01,11:40:00,11:40:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T02,13:35:00,13:35:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T02,14:10:00,14:10:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T03,16:20:00,16:20:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T03,16:55:00,16:55:00,2,2,,,,,,6.501,1
+Patriot's Point-Fort Sumter Regular (Outbound)_T01,10:45:00,10:45:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter Regular (Outbound)_T01,11:20:00,11:20:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Regular (Outbound)_T02,13:30:00,13:30:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter Regular (Outbound)_T02,14:05:00,14:05:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Regular (Inbound)_T01,12:20:00,12:20:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter Regular (Inbound)_T01,12:55:00,12:55:00,1,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Regular (Inbound)_T02,15:05:00,15:05:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter Regular (Inbound)_T02,15:40:00,15:40:00,1,2,,,,,,6.223,1
+Fort Sumter Visitor Center-Fort Sumter December (Outbound)_T01,11:00:00,11:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December (Outbound)_T01,11:35:00,11:35:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter December (Outbound)_T02,14:00:00,14:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December (Outbound)_T02,14:35:00,14:35:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter December (Inbound)_T01,12:35:00,12:35:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December (Inbound)_T01,13:10:00,13:10:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter December (Inbound)_T02,15:35:00,15:35:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December (Inbound)_T02,16:10:00,16:10:00,2,2,,,,,,6.501,1
+Patriot's Point-Fort Sumter December (Outbound)_T01,12:30:00,12:30:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter December (Outbound)_T01,13:05:00,13:05:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter December (Inbound)_T01,14:05:00,14:05:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter December (Inbound)_T01,14:40:00,14:40:00,1,2,,,,,,6.223,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T01,09:30:00,09:30:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T01,10:05:00,10:05:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T02,12:00:00,12:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T02,12:35:00,12:35:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T03,14:45:00,14:45:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T03,15:20:00,15:20:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T01,11:05:00,11:05:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T01,11:40:00,11:40:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T02,13:35:00,13:35:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T02,14:10:00,14:10:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T03,16:20:00,16:20:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T03,16:55:00,16:55:00,2,2,,,,,,6.501,1
+Patriot's Point-Fort Sumter Late December (Outbound)_T01,10:45:00,10:45:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter Late December (Outbound)_T01,11:20:00,11:20:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Late December (Outbound)_T02,13:30:00,13:30:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter Late December (Outbound)_T02,14:05:00,14:05:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Late December (Inbound)_T01,12:20:00,12:20:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter Late December (Inbound)_T01,12:55:00,12:55:00,1,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Late December (Inbound)_T02,15:05:00,15:05:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter Late December (Inbound)_T02,15:40:00,15:40:00,1,2,,,,,,6.223,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Outbound)_T01,11:00:00,11:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Outbound)_T01,11:30:00,11:30:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Outbound)_T02,14:00:00,14:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Outbound)_T02,14:30:00,14:30:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Inbound)_T01,12:30:00,12:30:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Inbound)_T01,13:00:00,13:00:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Inbound)_T02,15:30:00,15:30:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter December 24 (Inbound)_T02,16:00:00,16:00:00,2,2,,,,,,6.501,1
+Patriot's Point-Fort Sumter December 24 (Outbound)_T01,12:30:00,12:30:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter December 24 (Outbound)_T01,13:00:00,13:00:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter December 24 (Inbound)_T01,14:00:00,14:00:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter December 24 (Inbound)_T01,14:30:00,14:30:00,1,2,,,,,,6.223,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Outbound)_T01,09:00:00,09:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Outbound)_T01,09:30:00,09:30:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Outbound)_T02,12:00:00,12:00:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Outbound)_T02,12:30:00,12:30:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Outbound)_T03,14:30:00,14:30:00,2,1,Fort Sumter,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Outbound)_T03,15:00:00,15:00:00,3,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Inbound)_T01,10:45:00,10:45:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Inbound)_T01,11:15:00,11:15:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Inbound)_T02,13:30:00,13:30:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Inbound)_T02,14:30:00,14:30:00,2,2,,,,,,6.501,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Inbound)_T03,16:00:00,16:00:00,3,1,Fort Sumter Visitor Center,,,,,0,1
+Fort Sumter Visitor Center-Fort Sumter Late December 24 (Inbound)_T03,16:30:00,16:30:00,2,2,,,,,,6.501,1
+Patriot's Point-Fort Sumter Late December 24 (Outbound)_T01,10:30:00,10:30:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter Late December 24 (Outbound)_T01,11:00:00,11:00:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Late December 24 (Outbound)_T02,13:15:00,13:15:00,1,1,Fort Sumter,,,,,0,1
+Patriot's Point-Fort Sumter Late December 24 (Outbound)_T02,13:45:00,13:45:00,3,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Late December 24 (Inbound)_T01,12:00:00,12:00:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter Late December 24 (Inbound)_T01,12:30:00,12:30:00,1,2,,,,,,6.223,1
+Patriot's Point-Fort Sumter Late December 24 (Inbound)_T02,14:45:00,14:45:00,3,1,Patriot's Point,,,,,0,1
+Patriot's Point-Fort Sumter Late December 24 (Inbound)_T02,15:15:00,15:15:00,1,2,,,,,,6.223,1

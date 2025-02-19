@@ -1,7 +1,2 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-summer,1,1,1,1,1,1,1,20240525,20240906
-summerhikers,1,1,1,1,1,1,1,20240525,20240831
-fall,1,1,1,1,1,1,1,20240907,20241130
-september,1,1,1,1,1,1,1,20240907,20240930
-early september,1,1,1,1,1,1,1,20240907,20240909
-mid september,1,1,1,1,1,1,1,20240910,20240919
+winter,1,1,1,1,1,1,1,20241201,20250228

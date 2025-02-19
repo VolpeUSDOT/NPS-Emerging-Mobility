@@ -1,2 +1,2 @@
 ﻿fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
-free,0,USD,0,,GRCA,
+free,0,USD,0,,NPS,

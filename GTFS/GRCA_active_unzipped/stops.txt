@@ -18,20 +18,3 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 17,,Pipe Creek Vista,,36.04817,-112.09452,,,,,,1
 18,,Mather Point,,36.0617343,-112.1091289,,,,,,1
 19,,Yavapai Point Geology Museum,,36.06543,-112.11744,,,,,,1
-20,,Village Route Transfer,,36.05719,-112.14467,,,,,,1
-21,,Trailview Overlook,,36.06189,-112.14713,,,,,,1
-22,,Maricopa Point,,36.07045,-112.14842,,,,,,1
-23,,Powell Point Westbound,,36.07248,-112.15256,,,,,,1
-24,,Hopi Point,,36.07327,-112.15594,,,,,,1
-25,,Mohave Point Westbound,,36.07153,-112.16592,,,,,,1
-26,,The Abyss,,36.05806,-112.16906,,,,,,1
-27,,Monument Creek Vista,,36.06051,-112.18255,,,,,,1
-28,,Pima Point Westbound,,36.0714085,-112.20012,,,,,,1
-29,,Hermits Rest,,36.06252,-112.2103,,,,,,1
-30,,Pima Point Eastbound,,36.0714074,-112.2001214,,,,,,1
-31,,Mohave Point Eastbound,,36.07153,-112.16592,,,,,,1
-32,,Powell Point Eastbound,,36.0724052,-112.1525761,,,,,,1
-33,,IMAX Theatre / R.P.'s Stage,,35.97433,-112.12621,,,,,,1
-34,,Best Western Grand Canyon Squire Inn,,35.969776,-112.128307,,,,,,1
-35,,The Grand Hotel,,35.97036,-112.12766,,,,,,1
-36,,Big E Steakhouse and Saloon,,35.973069,-112.126375,,,,,,1

@@ -1,2 +1,2 @@
 ﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-ZION,National Park Service,https://www.nps.gov/zion/index.htm,America/Denver,en,435-772-3256,,zion_park_information@nps.gov
+NPS,National Park Service,https://www.nps.gov/zion/index.htm,America/Denver,en,435-772-3256,,zion_park_information@nps.gov

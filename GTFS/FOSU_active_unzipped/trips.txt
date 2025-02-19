@@ -1,0 +1,33 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Winter,Fort Sumter Visitor Center-Fort Sumter Winter (Outbound)_T01,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Winter,Fort Sumter Visitor Center-Fort Sumter Winter (Outbound)_T02,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Winter,Fort Sumter Visitor Center-Fort Sumter Winter (Inbound)_T01,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Winter,Fort Sumter Visitor Center-Fort Sumter Winter (Inbound)_T02,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Winter,Patriot's Point-Fort Sumter Winter (Outbound)_T01,Fort Sumter,0,,Patriot's Point-Fort Sumter Outbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Winter,Patriot's Point-Fort Sumter Winter (Inbound)_T01,Patriot's Point,1,,Patriot's Point-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Regular,Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T01,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Regular,Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T02,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Regular,Fort Sumter Visitor Center-Fort Sumter Regular (Outbound)_T03,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Regular,Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T01,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Regular,Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T02,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Regular,Fort Sumter Visitor Center-Fort Sumter Regular (Inbound)_T03,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Winter,Patriot's Point-Fort Sumter Regular (Outbound)_T01,Fort Sumter,0,,Patriot's Point-Fort Sumter Outbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Winter,Patriot's Point-Fort Sumter Regular (Outbound)_T02,Fort Sumter,0,,Patriot's Point-Fort Sumter Outbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Winter,Patriot's Point-Fort Sumter Regular (Inbound)_T01,Patriot's Point,1,,Patriot's Point-Fort Sumter Inbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Winter,Patriot's Point-Fort Sumter Regular (Inbound)_T02,Patriot's Point,1,,Patriot's Point-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter December,Fort Sumter Visitor Center-Fort Sumter December (Outbound)_T01,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter December,Fort Sumter Visitor Center-Fort Sumter December (Outbound)_T02,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter December,Fort Sumter Visitor Center-Fort Sumter December (Inbound)_T01,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter December,Fort Sumter Visitor Center-Fort Sumter December (Inbound)_T02,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter December,Patriot's Point-Fort Sumter December (Outbound)_T01,Fort Sumter,0,,Patriot's Point-Fort Sumter Outbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter December,Patriot's Point-Fort Sumter December (Inbound)_T01,Patriot's Point,1,,Patriot's Point-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Late December,Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T01,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Late December,Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T02,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Late December,Fort Sumter Visitor Center-Fort Sumter Late December (Outbound)_T03,Fort Sumter,0,,Fort Sumter Visitor Center-Fort Sumter Outbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Late December,Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T01,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Late December,Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T02,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Fort Sumter Visitor Center-Fort Sumter,Fort Sumter Visitor Center-Fort Sumter Late December,Fort Sumter Visitor Center-Fort Sumter Late December (Inbound)_T03,Fort Sumter Visitor Center,1,,Fort Sumter Visitor Center-Fort Sumter Inbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Late December,Patriot's Point-Fort Sumter Late December (Outbound)_T01,Fort Sumter,0,,Patriot's Point-Fort Sumter Outbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Late December,Patriot's Point-Fort Sumter Late December (Outbound)_T02,Fort Sumter,0,,Patriot's Point-Fort Sumter Outbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Late December,Patriot's Point-Fort Sumter Late December (Inbound)_T01,Patriot's Point,1,,Patriot's Point-Fort Sumter Inbound,1,2
+Patriot's Point-Fort Sumter,Patriot's Point-Fort Sumter Late December,Patriot's Point-Fort Sumter Late December (Inbound)_T02,Patriot's Point,1,,Patriot's Point-Fort Sumter Inbound,1,2
