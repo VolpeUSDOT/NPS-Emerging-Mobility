@@ -2,7 +2,8 @@ body {
     background-color: #fff;
     color: #000;
     margin: 0;
-    padding: 0
+    padding: 0;
+    height: 40vh; /* 70% of viewport, height responsive*/
 }
 
 body h1,body h2,body h3,body p {
@@ -70,50 +71,6 @@ header img {
     display: none!important
 }
 
-.alerts {
-    list-style: none;
-    padding: 40px
-}
-
-.alerts .caution,.alerts .information {
-    color: #2e4a22
-}
-
-.alerts .closure {
-    color: #9a542b
-}
-
-.alerts .danger {
-    color: #b30000
-}
-
-.alerts img {
-    clear: right;
-    display: block;
-    float: left;
-    height: 100%;
-    padding-left: 20px;
-    padding-right: 40px;
-    width: 60px
-}
-
-.alerts .text {
-    display: block;
-    font-family: Arial,sans-serif;
-    font-size: 50px;
-    font-weight: 700;
-    margin: 0;
-    overflow: hidden
-}
-
-.alerts .text .details {
-    display: block;
-    font-size: 24px;
-    font-weight: 400;
-    margin: 0 0 60px;
-    overflow: hidden
-}
-
 .split {
     color: #000
 }
@@ -135,6 +92,10 @@ header img {
     font-size: 40px;
     margin: 0;
     padding-top: 10px;
+}
+
+.split .half h3 {
+    font-size: 30px;
 }
 
 .split .half .time {
