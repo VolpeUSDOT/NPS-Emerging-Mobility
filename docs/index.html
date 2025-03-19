@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="css/styles.css" >
     <title>Bryce Canyon National Park :: Shuttle Arrivals</title>
     <meta name="thisSlide" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d42bbb0711.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -27,21 +28,33 @@
 <div class = "split">
   <div class = "half">
       <h2>Into the Park</h2>
-      <h3 id="inbound1"><span class="time">No upcoming departures</span>
-      <h3 id="inbound2"><span class="time"> </span> 
-      <h3 id="inbound3"><span class="time"> </span>
+      <h3 id="inbound1"><span class="time">No upcoming departures</span><!-- <i id="inbound1icon" class="fa-solid fa-van-shuttle"></i> -->
+      <h3 id="inbound2"><span class="time"> </span> <!--<i id="inbound2icon" class="fa-solid fa-van-shuttle"></i>-->
+      <h3 id="inbound3"><span class="time"> </span> <!--<i id="inbound3icon" class="fa-solid fa-van-shuttle"></i>-->
   </div>
   
   <div class = "half">
       <h2>Into Bryce Canyon City</h2>
-      <h3 id="outbound1"><span class="time">No upcoming departures</span> 
-      <h3 id="outbound2"><span class="time"> </span>
-      <h3 id="outbound3"><span class="time"> </span> 
+      <h3 id="outbound1"><span class="time">No upcoming departures</span> <!--<i id="outbound1icon" class="fa-solid fa-van-shuttle"></i>-->
+      <h3 id="outbound2"><span class="time"> </span> <!--<i id="outbound2icon" class="fa-solid fa-van-shuttle"></i>-->
+      <h3 id="outbound3"><span class="time"> </span> <!--<i id="outbound3icon" class="fa-solid fa-van-shuttle"></i>-->
   </div>
 </div>
 
 <div class="content">
   <img src="images/2020-New-Shuttle-Map.webp" alt="Shuttle Route Map">
+</div>
+
+<div>
+    <!-- I might want to move this, or create more space below image -->
+    <p class="update_time" id="currtime"> </p>
+</div>
+
+<div id='container'>
+  <div class='scroll'>
+      <h1>  .     Plan Accordingly: Last Shuttle begins route from Shuttle Station at 5:45 PM     ..   </h1>
+      <h1>  .     Plan Accordingly: Last Shuttle begins route from Shuttle Station at 5:45 PM     ..   </h1>
+  </div>
 </div>
 
 <script src= "api_call_for_website.js"></script>

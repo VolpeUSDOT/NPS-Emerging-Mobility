@@ -31,10 +31,16 @@ async function fetchGTFSdata(direction) {
 
     // pull out the departure times only
     const predictedDepartures = [];
+    const vehicleOccStatus = [];
     for(const pred of mbta.data) {
       const text = pred.attributes.departure_time;
       // save predicted departure time, drop the date
       predictedDepartures.push(text.substring(11, 19));
+      // get also occupancy status using vehicle id
+      const currVehicID = pred.relationships.vehicle.data.id;
+      const liveOccStatusResponse = await fetch("https://api-v3.mbta.com/vehicles/" + currVehicID + "?fields%5Bvehicle%5D=occupancy_status&include=stop");
+      const liveOccStatus = await liveOccStatusResponse.json();
+      vehicleOccStatus.push(liveOccStatus.data.attributes.occupancy_status);
     }
     //console.log(predictedDepartures);
 
@@ -48,7 +54,7 @@ async function fetchGTFSdata(direction) {
     const predictedWaits = []
     for(let i = 0; i < predictedDepartures.length; i++) {
       var departure = predictedDepartures[i];
-      var waittime = 60*(departure.substring(0,2)-hours) + (departure.substring(3,5)-minutes) + (1/60)*(departure.substring(6,8)-seconds)
+      var waittime = 60*(departure.substring(0,2)-hours) + (departure.substring(3,5)-minutes) + (1/60)*(departure.substring(6,8)-seconds);
       // always round departure time down (if bus arrives in 1 min 50 seconds, say 1 minute)
       predictedWaits.push(Math.floor(waittime));
 
@@ -58,13 +64,47 @@ async function fetchGTFSdata(direction) {
       }
 
       // get corresponding element
-      var elName = direction + String(i + 1)
-      var timeDisplay = document.getElementById(elName)
+      var elName = direction + String(i + 1);
+      var timeDisplay = document.getElementById(elName);
+      // update crowding icon
+      // var crowdingElName = elName + "icon";
+      console.log(vehicleOccStatus[i])
+      // var crowdingDisplay = document.getElementById(crowdingElName);
+      var crowdEmojis = "";
+      switch (true) {
+        case vehicleOccStatus[i] == 'MANY_SEATS_AVAILABLE':
+            // crowdingDisplay.className = "fa-solid fa-user";
+            crowdEmojis = "👤";
+            break;
+        case vehicleOccStatus[i] == 'FEW_SEATS_AVAILABLE':
+            // crowdingDisplay.className = "fa-solid fa-user-group";
+            crowdEmojis = "👥";
+            break;
+        case vehicleOccStatus[i] == 'NO_DATA_AVAILABLE':
+            crowdEmojis = "";
+            // crowdingDisplay.className = "";
+            break;
+        case vehicleOccStatus[i] == 'STANDING_ROOM_ONLY' || vehicleOccStatus[i] == 'CRUSHED_STANDING_ROOM_ONLY' :
+          crowdEmojis = "👥👤";
+            // crowdingDisplay.className = "fa-solid fa-people-group";
+            break;
+        case vehicleOccStatus[i] == 'FULL' || vehicleOccStatus[i] == 'NOT_ACCEPTING_PASSENGERS':
+          crowdEmojis = "👥👥";
+            // crowdingDisplay.className = "fa-solid fa-people-group";
+            break;
+      }
       // update detail in the actual webpage
-      let upcomingText = formatAMPM(predictedDepartures[i]) + " - " + String(predictedWaits[i]) + " minutes";
-      timeDisplay.textContent = String(upcomingText)
+      let upcomingText = formatAMPM(predictedDepartures[i]) + " - " + String(predictedWaits[i]) + " minutes " + crowdEmojis;
+      timeDisplay.textContent = String(upcomingText);
     }
-    console.log(predictedWaits)
+
+    //update last updated in the webpage
+    var currtimeDisplay = document.getElementById("currtime"); 
+    let dateTimeNow = new Date();
+    let updatedText = "Last Updated " + formatAMPM(String(dateTimeNow.getHours()) + ":" + String(dateTimeNow.getMinutes()));
+    currtimeDisplay.textContent = String(updatedText);
+
+    console.log(dateTimeNow)
 
   }
 
@@ -78,5 +118,5 @@ var updatePage = setInterval((function() {
   fetchGTFSdata("outbound");
   fetchGTFSdata("inbound");
 }
-), 1500);
+), 3000); //refresh every 30 seconds
 

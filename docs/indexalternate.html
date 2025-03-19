@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles.css" >
+    <title>Bryce Canyon National Park :: Shuttle Arrivals</title>
+    <meta name="thisSlide" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<header>
+    <h1>Shuttle Departures</h1>
+    <div class="nps-branding">
+        <p class="park-name">Bryce Canyon National Park<br>Utah</p>
+        <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
+        <img src="images/nps-logo.svg" alt="National Park Service">
+    </div>
+</header>
+
+  
+<div class = "split">
+  <div class = "half">
+      <h2>Into the Park</h2>
+      <h3 id="inbound1"><span class="time">No upcoming departures</span>
+      <h3 id="inbound2"><span class="time"> </span> 
+      <h3 id="inbound3"><span class="time"> </span>
+      <!-- this image auto deletes once the surrounding spans are updated, not sure how to keep it around -->
+      <span class = "icon"><img src="images/bus-black.svg" alt="Bus"></span>
+      <h2>Into Bryce Canyon City</h2>
+      <h3 id="outbound1"><span class="time">No upcoming departures</span> 
+      <h3 id="outbound2"><span class="time"> </span>
+      <h3 id="outbound3"><span class="time"> </span> 
+  </div>
+  
+  <div class = "half">
+    <div class="map">
+      <img src="images/2020-New-Shuttle-Map_placeholderRotated.png" alt="Shuttle Route Map">
+    </div>
+  </div>
+
+</div>
+
+<!-- this keeps coming in top left though i want it bottom left. made a bunch of things position relative in trying to figure it out -->
+<p class="update_time" id="currtime">fetching real time data...</p>
+
+<div id='container'>
+  <div class='scroll'>
+      <h1>  .     Plan Accordingly: Last Shuttle begins route from Shuttle Station at 5:45 PM     ..   </h1>
+      <h1>  .     Plan Accordingly: Last Shuttle begins route from Shuttle Station at 5:45 PM     ..   </h1>
+  </div>
+</div>
+
+<script src= "api_call_for_website.js"></script>
+
+</body>
+</html>
