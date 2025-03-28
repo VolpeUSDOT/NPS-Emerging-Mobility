@@ -73,25 +73,38 @@ header img {
 
 .split {
     color: #000;
-    padding: 30px 10px;
+    padding: 10px 10px;
     position: relative;
 }
 
-.split .half {
+.split .halfish {
     float: left;
     position: relative;
     /* height: 250px; */
     margin: 0;
     padding: 10px 0;
     text-align: center;
-    width: 50%
+    width: 45%
+}
+
+.split .sliver {
+    float: left;
+    position: relative;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+    width: 10%
+}
+
+.split .sliver img{
+  width: 80%;
 }
 
 .split .half .map img {
     display: block;
     margin: auto;
     width: 80%;
-    height: 700px;
+    height: 300px;
     padding: 30px;
 }
 
@@ -138,7 +151,7 @@ header img {
 .content img {
     display: block;
     margin: auto;
-    width: 80%;
+    width: 70%;
 }
 
 .content h1 {
@@ -152,7 +165,8 @@ header img {
 }
 
 html {
-    min-height: 100vh;
+    min-height: 80vh;
+    max-height: 100vh;
     padding-bottom: 50px
 }
 

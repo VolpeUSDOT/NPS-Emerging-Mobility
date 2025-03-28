@@ -110,7 +110,7 @@ async function fetchGTFSdata(direction) {
 
     //update last updated in the webpage
     var currtimeDisplay = document.getElementById("currtime");
-    let updatedText = "Last Updated " + formatAMPM(hours + ":" + minutes);
+    let updatedText = "Last Updated " + formatAMPM(String(hours).padStart(2, '0') + ":" + String(minutes).padStart(2, '0'));
     currtimeDisplay.textContent = String(updatedText);
 
   }
