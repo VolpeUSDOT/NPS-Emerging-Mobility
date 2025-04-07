@@ -125,6 +125,11 @@ async function fetchGTFSdata(direction) {
       // construct departure time
       var strTime = depatureTimeHours + ':' + String(departureTimeMinutes).padStart(2, '0') + ' ' + ampm;
       predictedDepartures.push(strTime);
+      
+      // if wait time comes out as negative, force it to zero
+      if(waittimeMinutes < 0) {
+        waittimeMinutes = 0;
+      }
 
       // get corresponding element
       var elName = direction + String(i + 1);
@@ -133,7 +138,9 @@ async function fetchGTFSdata(direction) {
       var crowdingElName = elName + "icon";
       // var crowdingDisplay = document.getElementById(crowdingElName);
       let crowdEmojis = "";
-      if(vehicleOccStatus.length < i) {
+      console.log(vehicleOccStatus.length)
+      if(i < vehicleOccStatus.length) {
+        console.log(vehicleOccStatus[i])
         switch (true) {
           case vehicleOccStatus[i] < 0.4:
               // crowdingDisplay.className = "fa-solid fa-user";
