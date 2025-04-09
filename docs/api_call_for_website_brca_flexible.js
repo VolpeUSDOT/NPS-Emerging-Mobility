@@ -24,9 +24,12 @@ function chosenSite() {
   } else if(dropDown.value == "7"){
      outboundStopId = "10";
   } else {
-    /* if no outbound, then don't show outbound */
+    /* if no outbound, then don't show outbound or directional labels*/
     var outboundTimetable = document.getElementById("outboundTimes");
     outboundTimetable.style.display = "none";  // <-- Set it to none
+    var inboundLabel = document.getElementById("inboundLabel");
+    inboundLabel.style.display = "none";  // <-- Set it to none
+    
   }
   
   /* set api to the right stop */

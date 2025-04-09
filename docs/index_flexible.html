@@ -23,18 +23,18 @@
   <h2>View upcoming shuttle departures from </h2>
   <select id="chooseStop" onchange="chosenSite()" >
     <option value= "99" selected="selected"> Select Shuttle Stop </option>
-    <option value = "1">Stop 1: Shuttle Station</option>
-    <option value = "2">Stop 2: Old Bryce Town</option>
-    <option value = "3">Stop 3: Best Western+ Grand</option>
-    <option value = "4">Stop 4: Best Western+ Ruby's Inn</option>
-    <option value = "5">Stop 5/15: Ruby's</option>
-    <option value = "6">Stop 6/14: Visitor Center</option>
-    <option value = "7">Stop 7/10: Sunset</option>
-    <option value = "8">Stop 8: Bryce Point</option>
-    <option value = "9">Stop 9: Inspiration Point</option>
-    <option value = "11">Stop 11: Sunset Point</option>
-    <option value = "12">Stop 12: Bryce Lodge</option>
-    <option value = "13">Stop 13: Sunrise Point</option>
+    <option value = "1">Shuttle Station</option>
+    <option value = "2">Old Bryce Town</option>
+    <option value = "3">Best Western+ Grand</option>
+    <option value = "4">Best Western+ Ruby's Inn</option>
+    <option value = "5">Ruby's</option>
+    <option value = "6">Visitor Center</option>
+    <option value = "7">Sunset</option>
+    <option value = "8">Bryce Point</option>
+    <option value = "9">Inspiration Point</option>
+    <option value = "11">Sunset Point</option>
+    <option value = "12">Bryce Lodge</option>
+    <option value = "13">Sunrise Point</option>
   </select>
 </div>
 
@@ -46,7 +46,7 @@
 
 <div class = "split">
   <div class = "halfish" id = "inboundTimes">
-      <h2>Into the Park</h2>
+      <h2 id="inboundLabel">Into the Park</h2>
       <h3 id="inbound1"><span class="time">No upcoming departures</span><!-- <i id="inbound1icon" class="fa-solid fa-van-shuttle"></i> -->
       <h3 id="inbound2"><span class="time"> </span> <!--<i id="inbound2icon" class="fa-solid fa-van-shuttle"></i>-->
       <h3 id="inbound3"><span class="time"> </span> <!--<i id="inbound3icon" class="fa-solid fa-van-shuttle"></i>-->
@@ -55,7 +55,7 @@
   <div class = "sliver"><img src="images/bus-black.svg" alt="Bus"></div>
   
   <div class = "halfish" id = "outboundTimes">
-      <h2>Into Bryce Canyon City</h2>
+      <h2 id="outboundLabel">Into Bryce Canyon City</h2>
       <h3 id="outbound1"><span class="time">No upcoming departures</span> <!--<i id="outbound1icon" class="fa-solid fa-van-shuttle"></i>-->
       <h3 id="outbound2"><span class="time"> </span> <!--<i id="outbound2icon" class="fa-solid fa-van-shuttle"></i>-->
       <h3 id="outbound3"><span class="time"> </span> <!--<i id="outbound3icon" class="fa-solid fa-van-shuttle"></i>-->
@@ -66,7 +66,7 @@
   <img src="images/2020-New-Shuttle-Map.webp" alt="Shuttle Route Map">
 </div>
 
-<div>
+<div class="content">
     <!-- I might want to move this, or create more space below image -->
     <span class="update_time" id="currtime"> </span>
 </div>
