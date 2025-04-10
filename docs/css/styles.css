@@ -97,11 +97,27 @@ header img {
     font-size: 3vmin;
 }
 
+.split .halfishBig {
+    float: left;
+    position: relative;
+    /* height: 250px; */
+    margin: 0;
+    text-align: center;
+    width: 55%;
+}
+
+.split .halfishBig img {
+    display: block;
+    margin: auto;
+    min-width: 55%;
+    max-width: 90%;
+}
+
 .split .sliver {
     float: left;
     position: relative;
     margin: 0;
-    padding: 80px 0;
+    padding: 30px 0;
     text-align: center;
     width: 10%
 }
@@ -132,7 +148,9 @@ header img {
 .content img {
     display: block;
     margin: auto;
-    width: 60%;
+    min-width: 40%;
+    max-width: 60%;
+    max-height: 40%;
 }
 
 .content h1 {

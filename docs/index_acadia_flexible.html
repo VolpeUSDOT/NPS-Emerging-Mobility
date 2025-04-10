@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles.css" >
+    <title>Acadia National Park :: Shuttle Arrivals</title>
+    <meta name="thisSlide" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d42bbb0711.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>Shuttle Departures</h1>
+    <div class="nps-branding">
+        <p class="park-name">Acadia National Park<br>Maine</p>
+        <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
+        <img src="images/nps-logo.svg" alt="National Park Service">
+    </div>
+</header>
+
+<div class="dropdown" id="welcome">
+  <h2>View upcoming shuttle departures from </h2>
+  <select id="chooseStop" onchange="chosenSite()" >
+    <option value= "99" selected="selected"> Select Shuttle Stop </option>
+    <option value = "1">Acadia Gateway Center</option>
+    <option value = "2">Jordan Pond House</option>
+    <option value = "3">Hulls Cove Visitor Center</option>
+  </select>
+</div>
+
+<!-- hide timetable until stop selected --> 
+<div id="timetables" style="display:none">
+  <div class="content">
+    <span><h1 id="titleLine"> </h1></span>
+  </div>
+  
+  <div class = "split">
+    <div class = "halfish" id = "inboundTimes">
+        <h2 id="inboundLabel"></h2>
+        <img src="images/bus-black.svg" alt="Bus">
+        <h3 id="inbound1"><span class="time">No upcoming departures</span><!-- <i id="inbound1icon" class="fa-solid fa-van-shuttle"></i> -->
+        <h3 id="inbound2"><span class="time"> </span> <!--<i id="inbound2icon" class="fa-solid fa-van-shuttle"></i>-->
+        <h3 id="inbound3"><span class="time"> </span> <!--<i id="inbound3icon" class="fa-solid fa-van-shuttle"></i>-->
+    </div>
+    
+    <div class = "halfishBig" id = "outboundTimes">
+        <img id="route_map" src="images/map_acadia_gateway_bus1.jpg" alt="Shuttle Route Map">
+    </div>
+  </div>
+  
+  <div class="content">
+      <!-- I might want to move this, or create more space below image -->
+      <span class="update_time" id="currtime"> </span>
+  </div>
+  
+  <div class = "container">
+    <div class='marquee'>
+      <span><h1> PLAN ACCORDINGLY: Last Shuttle begins route from [ORIGIN STATION] at XX:XX PM  .  .  .  .  . 
+                 PLAN ACCORDINGLY: Last Shuttle begins route from [ORIGIN STATION] at XX:XX PM </h1></span>
+    </div>
+  </div>
+</div>
+
+<script src= "api_call_for_website_acadia_flexible.js"></script>
+
+</body>
+</html>
