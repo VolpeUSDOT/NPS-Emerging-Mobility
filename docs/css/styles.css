@@ -109,8 +109,7 @@ header img {
 .split .halfishBig img {
     display: block;
     margin: auto;
-    min-width: 55%;
-    max-width: 90%;
+    min-width: 44%;
 }
 
 .split .sliver {
