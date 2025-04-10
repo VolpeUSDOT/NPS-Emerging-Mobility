@@ -121,9 +121,13 @@ async function fetchGTFSdata(direction) {
         depatureTimeHours = hours + 1;
         departureTimeMinutes = departureTimeMinutes - 60;
       }
-      // determine ampm
+      
+      // determine ampm, set time to 12-hour format
       var ampm = depatureTimeHours >= 12 ? 'pm' : 'am';
       depatureTimeHours = depatureTimeHours % 12;
+      if(depatureTimeHours == 0) { // the hour '0' should be '12'
+        depatureTimeHours = 12;
+      }
       
       // construct departure time
       var strTime = depatureTimeHours + ':' + String(departureTimeMinutes).padStart(2, '0') + ' ' + ampm;
