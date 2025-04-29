@@ -147,8 +147,7 @@ header img {
 .content img {
     display: block;
     margin: auto;
-    min-width: 40%;
-    max-width: 60%;
+    min-width: 60%;
     max-height: 40%;
 }
 
@@ -174,6 +173,32 @@ header img {
 .content ul li {
   padding: 8px 0px;
 }
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer img {
+    display: block;
+    margin: auto;
+    min-width: 60%;
+    max-height: 40%;
+}
+
+.footer .update_time {
+  font-size: 3vmin;
+}
+
+.footer block {
+  width: 18px;
+  height: 72px;
+  padding: 8px;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
 
 body{
    width: 100%;

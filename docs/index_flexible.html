@@ -52,7 +52,10 @@
       <h3 id="inbound3"><span class="time"> </span> <!--<i id="inbound3icon" class="fa-solid fa-van-shuttle"></i>-->
   </div>
   
+  
+  <!-- Commenting out my unnecessary cute little bus
   <div class = "sliver"><img src="images/bus-black.svg" alt="Bus"></div>
+  --->
   
   <div class = "halfish" id = "outboundTimes">
       <h2 id="outboundLabel">Into Bryce Canyon City</h2>
@@ -62,16 +65,10 @@
   </div>
 </div>
 
+<!-- Commenting out entire marquee now that we're doing slides, and the last updated timestamp
 <div class="content">
-  <img src="images/2020-New-Shuttle-Map.webp" alt="Shuttle Route Map">
-</div>
-
-<div class="content">
-    <!-- I might want to move this, or create more space below image -->
     <span class="update_time" id="currtime"> </span>
 </div>
-
-<!-- Commenting out entire marquee now that we're doing slides
 
 <div class = "container">
   <div class='marquee'>
@@ -90,16 +87,16 @@
     <span><h1> Bryce Canyon Shuttle Information</h1></span>
     <ul>
       <li>Shuttle Passes can be purchased at the Shuttle Station or Ruby's Inn Adventure Center</li>
-      <li>Oversize vehicle restrictions are in place in the park. Park your RV and ride the shuttle to take in the sites!</li>
-      <li>In 2025, Bryce Point access is shuttle-only during Shared Use Path construction.</li>
-      <li>Plan Accordingly: Last Shuttle begins route from Shuttle Station at 5:45 PM</li>
+      <li><strong>Oversize vehicle restrictions</strong> are in place in the park. Park your RV and ride the shuttle to take in the sites!</li>
+      <li>In 2025, <strong>Bryce Point access is shuttle-only</strong> during Shared Use Path construction.</li>
+      <li><strong>Plan Accordingly:</strong> Last Shuttle begins route from Shuttle Station at <strong>5:45 PM</strong></li>
     </ul>
   </div>
-  
-  <div class="content">
-    <img src="images/2020-New-Shuttle-Map.webp" alt="Shuttle Route Map">
-  </div>
+</div>
 
+<div class="footer" id="constantInfo" style="display:none; position: fixed; bottom:2%;">
+    <img src="images/2020-New-Shuttle-Map.webp" alt="Shuttle Route Map">
+    <block class="update_time" id = "countdownBox"> 30 </block>
 </div>
 
 <script src= "api_call_for_website_brca_flexible.js"></script>

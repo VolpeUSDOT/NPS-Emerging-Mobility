@@ -23,7 +23,6 @@ async function toggleSlides() {
   slide_notices.style.display = timetables_display_style; 
   slide_timetables.style.display = notices_display_style; 
  
-
 }
 
 /* When the user selects stop, go there */
@@ -60,7 +59,8 @@ function chosenSite() {
   preContent.style.display = "none";  // <-- Set it to none
   var slide_timetables = document.getElementById("timetables");
   slide_timetables.style.display = "block";  // <-- Set it to block
-  
+  var mapPlusCountdown = document.getElementById("constantInfo");
+  mapPlusCountdown.style.display = "block";  // <-- Set it to block
 }
 
 // switch military time to string am pm time
@@ -196,11 +196,27 @@ async function fetchGTFSdata(direction) {
   }
 }
 
+var secondsCountdown = setInterval(function() {
+
+  // Find the distance between now and the count down date
+  var countdownElement = document.getElementById("countdownBox");
+    
+  // get current seconds displayed
+  var secondsLeft = Number(countdownElement.innerHTML);
+    
+  // Output the result in element
+  countdownElement.innerHTML = secondsLeft - 1;
+    
+}, 1000);
+
 // get wait times for next three arrivals at both stations
 var updatePage = setInterval((function() {
   fetchGTFSdata("outbound");
   fetchGTFSdata("inbound");
   toggleSlides();
+  
+  // kick off another 30 second count down
+  document.getElementById("countdownBox").innerHTML = 30
 }
-), 15000); //refresh every 15 seconds
+), 30000); //refresh every 30 seconds
 
