@@ -5,7 +5,7 @@ body {
     padding: 0;
 }
 
-body h1,body h2,body h3,body p {
+body h1,body h2,body h3,body p, body ul, body li {
     font-family: Arial,sans-serif
 }
 
@@ -160,6 +160,19 @@ header img {
     overflow: hidden;
     text-align: center;
     /*text-transform: uppercase*/
+}
+
+.content ul {
+    display: block;
+    font-size: 4vmin;
+    margin: 20px 50px 20px 50px;
+    overflow: hidden;
+    text-align: left;
+    /*text-transform: uppercase*/
+}
+
+.content ul li {
+  padding: 8px 0px;
 }
 
 body{

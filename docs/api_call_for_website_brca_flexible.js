@@ -11,6 +11,21 @@ var stopName = "";
 var urloutb = baseAPIurl + outboundStopId + "&version=2";
 var urlinb = baseAPIurl + outboundStopId + "&version=2";
 
+/* when displaying times, cycle between time and announcements every 15 seconds */
+async function toggleSlides() {
+  
+  var slide_timetables = document.getElementById("timetables");
+  var slide_notices = document.getElementById("notices");
+  timetables_display_style = slide_timetables.style.display;
+  notices_display_style = slide_notices.style.display;
+  
+  //swap which is on display
+  slide_notices.style.display = timetables_display_style; 
+  slide_timetables.style.display = notices_display_style; 
+ 
+
+}
+
 /* When the user selects stop, go there */
 function chosenSite() {
   
@@ -43,8 +58,8 @@ function chosenSite() {
   /* get dropdown to disappear, timetable to appear */
   var preContent = document.getElementById("welcome");
   preContent.style.display = "none";  // <-- Set it to none
-  var postContent = document.getElementById("timetables");
-  postContent.style.display = "block";  // <-- Set it to block
+  var slide_timetables = document.getElementById("timetables");
+  slide_timetables.style.display = "block";  // <-- Set it to block
   
 }
 
@@ -185,6 +200,7 @@ async function fetchGTFSdata(direction) {
 var updatePage = setInterval((function() {
   fetchGTFSdata("outbound");
   fetchGTFSdata("inbound");
+  toggleSlides();
 }
-), 3000); //refresh every 30 seconds
+), 15000); //refresh every 15 seconds
 
