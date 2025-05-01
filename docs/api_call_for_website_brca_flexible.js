@@ -58,6 +58,8 @@ function chosenSite() {
   var preContent = document.getElementById("welcome");
   preContent.style.display = "none";  // <-- Set it to none
   var slide_timetables = document.getElementById("timetables");
+  slide_timetables.style.display = "none";  // <-- Set it to block
+  var slide_timetables = document.getElementById("notices");
   slide_timetables.style.display = "block";  // <-- Set it to block
   var mapPlusCountdown = document.getElementById("constantInfo");
   mapPlusCountdown.style.display = "block";  // <-- Set it to block
@@ -160,35 +162,39 @@ async function fetchGTFSdata(direction) {
       var crowdingElName = elName + "icon";
       // var crowdingDisplay = document.getElementById(crowdingElName);
       let crowdEmojis = "";
-      console.log(vehicleOccStatus.length)
+      console.log(vehicleOccStatus.length);
+      var crowdingDot1 = document.getElementById(elName + "icon1");
+      var crowdingDot2 = document.getElementById(elName + "icon2");
+      var crowdingDot3 = document.getElementById(elName + "icon3");
+      console.log(crowdingDot1);
       if(i < vehicleOccStatus.length) {
         console.log(vehicleOccStatus[i])
         switch (true) {
           case vehicleOccStatus[i] < 0.4:
-              // crowdingDisplay.className = "fa-solid fa-user";
-              crowdEmojis = "👤";
+              crowdingDot1.setAttribute("fill", "green");
+              crowdingDot2.setAttribute("opacity", 0);
+              crowdingDot3.setAttribute("opacity", 0);
               break;
           case vehicleOccStatus[i] < 0.8:
-              // crowdingDisplay.className = "fa-solid fa-user-group";
-              crowdEmojis = "👥";
+              crowdingDot1.setAttribute("fill", "orange");
+              crowdingDot2.setAttribute("opacity", 1);
+              crowdingDot2.setAttribute("fill", "orange");
+              crowdingDot3.setAttribute("opacity", 0);
               break;
           case vehicleOccStatus[i] > 0.9:
-            crowdEmojis = "👥👥";
-              // crowdingDisplay.className = "fa-solid fa-people-group";
+              crowdingDot1.setAttribute("fill", "red");
+              crowdingDot2.setAttribute("opacity", 1);
+              crowdingDot2.setAttribute("fill", "red");
+              crowdingDot3.setAttribute("opacity", 1);
+              crowdingDot3.setAttribute("fill", "red");
               break;
         }
       }
       console.log(crowdEmojis);
       // update detail in the actual webpage
-      let upcomingText = strTime + " - " + String(waittimeMinutes) + " minutes " + crowdEmojis;
+      let upcomingText = strTime + " - " + String(waittimeMinutes) + " minutes ";// + crowdEmojis;
       timeDisplay.textContent = String(upcomingText);
     }
-
-    //update last updated in the webpage
-    var currtimeDisplay = document.getElementById("currtime");
-    let updatedText = "Last Updated " + formatAMPM(String(hours).padStart(2, '0') + ":" + String(minutes).padStart(2, '0'));
-    currtimeDisplay.textContent = String(updatedText);
-
   }
 
   catch(error){
@@ -200,10 +206,8 @@ var secondsCountdown = setInterval(function() {
 
   // Find the distance between now and the count down date
   var countdownElement = document.getElementById("countdownBox");
-    
   // get current seconds displayed
   var secondsLeft = Number(countdownElement.innerHTML);
-    
   // Output the result in element
   countdownElement.innerHTML = secondsLeft - 1;
     
@@ -215,8 +219,8 @@ var updatePage = setInterval((function() {
   fetchGTFSdata("inbound");
   toggleSlides();
   
-  // kick off another 30 second count down
-  document.getElementById("countdownBox").innerHTML = 30
+  // kick off another 25 second count down
+  document.getElementById("countdownBox").innerHTML = 25
 }
-), 30000); //refresh every 30 seconds
+), 25000); //refresh every 25 seconds
 

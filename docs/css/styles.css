@@ -93,6 +93,13 @@ header img {
     width: 45%
 }
 
+.split .halfish svg {
+    max-height: 1.5em;
+    display: inline-block;
+    position: relative;
+    vertical-align: bottom;
+}
+
 .split .halfish h3 {
     font-size: 3vmin;
 }
