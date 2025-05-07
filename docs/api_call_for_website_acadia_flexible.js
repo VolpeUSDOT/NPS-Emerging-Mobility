@@ -11,6 +11,20 @@ var stopName = "";
 var urloutb = baseAPIurl + outboundStopId + "&version=2";
 var urlinb = baseAPIurl + outboundStopId + "&version=2";
 
+/* when displaying times, cycle between time and announcements every 15 seconds */
+async function toggleSlides() {
+  
+  var slide_timetables = document.getElementById("timetables");
+  var slide_notices = document.getElementById("notices");
+  timetables_display_style = slide_timetables.style.display;
+  notices_display_style = slide_notices.style.display;
+  
+  //swap which is on display
+  slide_notices.style.display = timetables_display_style; 
+  slide_timetables.style.display = notices_display_style; 
+ 
+}
+
 /* When the user selects stop, go there */
 function chosenSite() {
   
@@ -36,13 +50,16 @@ function chosenSite() {
   /* toggle the appropriate map */
   var rtMap = document.getElementById("route_map")
   rtMap.src = "images/map_acadia_" + map_jpg_name + ".jpg"
- 
+  
   /* get dropdown to disappear, timetable to appear */
   var preContent = document.getElementById("welcome");
   preContent.style.display = "none";  // <-- Set it to none
-  var postContent = document.getElementById("timetables");
-  postContent.style.display = "block";  // <-- Set it to block
-  
+  var slide_timetables = document.getElementById("timetables");
+  slide_timetables.style.display = "none";  // <-- Set it to block
+  var slide_timetables = document.getElementById("notices");
+  slide_timetables.style.display = "block";  // <-- Set it to block
+  var mapPlusCountdown = document.getElementById("constantInfo");
+  mapPlusCountdown.style.display = "block";  // <-- Set it to block
 }
 
 // switch military time to string am pm time
@@ -130,47 +147,37 @@ async function fetchGTFSdata(direction) {
       var strTime = depatureTimeHours + ':' + String(departureTimeMinutes).padStart(2, '0') + ' ' + ampm;
       predictedDepartures.push(strTime);
       
-      // if wait time comes out as negative, force it to zero
-      if(waittimeMinutes < 0) {
-        waittimeMinutes = 0;
-      }
-
       // get corresponding element
       var elName = direction + String(i + 1);
       var timeDisplay = document.getElementById(elName);
       // update crowding icon
-      var crowdingElName = elName + "icon";
-      // var crowdingDisplay = document.getElementById(crowdingElName);
-      let crowdEmojis = "";
-      console.log(vehicleOccStatus.length)
+      console.log(vehicleOccStatus.length);
+      var crowdingDot1 = document.getElementById(elName + "icon");
+      console.log(crowdingDot1);
       if(i < vehicleOccStatus.length) {
         console.log(vehicleOccStatus[i])
         switch (true) {
           case vehicleOccStatus[i] < 0.4:
-              // crowdingDisplay.className = "fa-solid fa-user";
-              crowdEmojis = "👤";
+              crowdingDot1.setAttribute("src", "images/one_person_icon.png");
               break;
           case vehicleOccStatus[i] < 0.8:
-              // crowdingDisplay.className = "fa-solid fa-user-group";
-              crowdEmojis = "👥";
+              crowdingDot1.setAttribute("src", "images/two_person_icon.png");
               break;
           case vehicleOccStatus[i] > 0.9:
-            crowdEmojis = "👥👥";
-              // crowdingDisplay.className = "fa-solid fa-people-group";
+              crowdingDot1.setAttribute("src", "images/three_person_icon.png");
               break;
         }
       }
-      console.log(crowdEmojis);
       // update detail in the actual webpage
-      let upcomingText = strTime + " - " + String(waittimeMinutes) + " minutes " + crowdEmojis;
+      // if wait time comes out as less than 1, say "Arriving in <1 minute"
+      let upcomingText = ""
+      if(waittimeMinutes < 1) {
+        upcomingText = "Arriving in <1 minutes";
+      } else {
+        upcomingText = strTime + " - " + String(waittimeMinutes) + " minutes ";
+      }
       timeDisplay.textContent = String(upcomingText);
     }
-
-    //update last updated in the webpage
-    var currtimeDisplay = document.getElementById("currtime");
-    let updatedText = "Last Updated " + formatAMPM(String(hours).padStart(2, '0') + ":" + String(minutes).padStart(2, '0'));
-    currtimeDisplay.textContent = String(updatedText);
-
   }
 
   catch(error){
@@ -178,10 +185,24 @@ async function fetchGTFSdata(direction) {
   }
 }
 
+var secondsCountdown = setInterval(function() {
+
+  // Find the distance between now and the count down date
+  var countdownElement = document.getElementById("countdownBox");
+  // get current seconds displayed
+  var secondsLeft = Number(countdownElement.innerHTML);
+  // Output the result in element
+  countdownElement.innerHTML = secondsLeft - 1;
+    
+}, 1000);
+
 // get wait times for next three arrivals at both stations
 var updatePage = setInterval((function() {
   fetchGTFSdata("outbound");
   fetchGTFSdata("inbound");
+  toggleSlides();
+  
+  // kick off another 25 second count down
+  document.getElementById("countdownBox").innerHTML = 25
 }
-), 3000); //refresh every 30 seconds
-
+), 25000); //refresh every 25 seconds

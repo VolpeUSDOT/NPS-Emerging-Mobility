@@ -154,12 +154,8 @@ async function fetchGTFSdata(direction) {
       var elName = direction + String(i + 1);
       var timeDisplay = document.getElementById(elName);
       // update crowding icon
-      var crowdingElName = elName + "icon";
-      // var crowdingDisplay = document.getElementById(crowdingElName);
       console.log(vehicleOccStatus.length);
       var crowdingDot1 = document.getElementById(elName + "icon");
-      //var crowdingDot2 = document.getElementById(elName + "icon2");
-      //var crowdingDot3 = document.getElementById(elName + "icon3");
       console.log(crowdingDot1);
       if(i < vehicleOccStatus.length) {
         console.log(vehicleOccStatus[i])

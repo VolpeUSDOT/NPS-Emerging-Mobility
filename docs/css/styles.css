@@ -104,19 +104,19 @@ header img {
     font-size: 3vmin;
 }
 
-.split .halfishBig {
+.split .halfMap {
     float: left;
     position: relative;
     /* height: 250px; */
     margin: 0;
     text-align: center;
-    width: 55%;
+    width: 50%;
 }
 
-.split .halfishBig img {
+.split .halfMap img {
     display: block;
     margin: auto;
-    min-width: 44%;
+    width: 55%;
 }
 
 .split .half .icon img {
