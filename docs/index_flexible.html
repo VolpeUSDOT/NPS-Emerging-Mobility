@@ -45,37 +45,30 @@
 </div>
 
 <div class = "split">
-  <div class = "halfish" id = "inboundTimes">
-      <h2 id="inboundLabel">Into the Park</h2>
-      <p><h3><span class="time" id="inbound1">No upcoming departures</span> 
-      <svg viewBox="-25 -25 50 50"><circle id="inbound1icon1" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="inbound1icon2" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="inbound1icon3" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg> </p>
-      <p><h3><span class="time" id="inbound2"></span> 
-      <svg viewBox="-25 -25 50 50"><circle id="inbound2icon1" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="inbound2icon2" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="inbound2icon3" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg> </p>
-      <p><h3><span class="time" id="inbound3"></span> 
-      <svg viewBox="-25 -25 50 50"><circle id="inbound3icon1" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="inbound3icon2" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="inbound3icon3" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg> </p>
-      
-  </div>
+  <div class="half" id="inboundTimes">
+    <h2 id="inboundLabel">Into the Park</h2>
+    <p>
+        <h3><span class="time" id="inbound1">No upcoming departures</span>
+        <img src="images/one_person_icon.png" alt="Bus One Passenger" width="50" id="inbound1icon" />
+    </p>
+    <p>
+        <h3><span class="time" id="inbound2"></span>
+        <img src="images/one_person_icon.png" alt="Bus One Passenger" width="50" id="inbound2icon" />
+    </p>
+    <p>
+        <h3><span class="time" id="inbound3"></span>
+        <img src="images/one_person_icon.png" alt="Bus One Passenger" width="50" id="inbound3icon" />
+    </p>
+</div>
   
-  <div class = "halfish" id = "outboundTimes">
+  <div class = "half" id = "outboundTimes">
       <h2 id="outboundLabel">Into Bryce Canyon City</h2>
       <p><h3><span class="time" id="outbound1">No upcoming departures</span> 
-      <svg viewBox="-25 -25 50 50"><circle id="outbound1icon1" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="outbound1icon2" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="outbound1icon3" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg> </p>
+        <img src="images/one_person_icon.png" alt="Bus One Passenger" width="50" id="outbound1icon" /> </p>
       <p><h3><span class="time" id="outbound2"></span> 
-      <svg viewBox="-25 -25 50 50"><circle id="outbound2icon1" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="outbound2icon2" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="outbound2icon3" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg> </p>
+        <img src="images/one_person_icon.png" alt="Bus One Passenger" width="50" id="outbound2icon" /></p>
       <p><h3><span class="time" id="outbound3"></span> 
-      <svg viewBox="-25 -25 50 50"><circle id="outbound3icon1" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="outbound3icon2" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg>
-      <svg viewBox="-25 -25 50 50"><circle id="outbound3icon3" fill="green" fill-opacity="1" class="in-circle" r="20"></circle></svg> </p>
+        <img src="images/one_person_icon.png" alt="Bus One Passenger" width="50" id="outbound3icon" /></p>
   </div>
 </div>
 
@@ -109,7 +102,7 @@
 </div>
 
 <div class="footer" id="constantInfo" style="display:none; position: fixed; bottom:2%;">
-    <img src="images/2020-New-Shuttle-Map.webp" alt="Shuttle Route Map">
+    <img class="route_map" src="images/2020-New-Shuttle-Map.webp" alt="Shuttle Route Map">
     <block class="update_time" id = "countdownBox"> 25 </block>
 </div>
 

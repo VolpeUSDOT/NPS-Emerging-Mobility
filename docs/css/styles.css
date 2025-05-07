@@ -25,7 +25,6 @@ body .text {
 body img {
     display: block;
     margin: auto;
-    width: 5%;
 }
 
 header {
@@ -84,23 +83,24 @@ header img {
     position: relative;
 }
 
-.split .halfish {
+.split .half {
     float: left;
     position: relative;
     /* height: 250px; */
     margin: 0;
     text-align: center;
-    width: 45%
+    width: 50%
 }
 
-.split .halfish svg {
+.split .half img {
     max-height: 1.5em;
+    max-width: 1.7em;
     display: inline-block;
     position: relative;
     vertical-align: bottom;
 }
 
-.split .halfish h3 {
+.split .half h3 {
     font-size: 3vmin;
 }
 
@@ -117,19 +117,6 @@ header img {
     display: block;
     margin: auto;
     min-width: 44%;
-}
-
-.split .sliver {
-    float: left;
-    position: relative;
-    margin: 0;
-    padding: 30px 0;
-    text-align: center;
-    width: 10%
-}
-
-.split .sliver img{
-  width: 80%;
 }
 
 .split .half .icon img {
@@ -196,6 +183,10 @@ header img {
 
 .footer .update_time {
   font-size: 3vmin;
+}
+
+.footer img {
+  width: 5%;
 }
 
 .footer block {

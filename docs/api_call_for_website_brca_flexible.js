@@ -163,30 +163,21 @@ async function fetchGTFSdata(direction) {
       // var crowdingDisplay = document.getElementById(crowdingElName);
       let crowdEmojis = "";
       console.log(vehicleOccStatus.length);
-      var crowdingDot1 = document.getElementById(elName + "icon1");
-      var crowdingDot2 = document.getElementById(elName + "icon2");
-      var crowdingDot3 = document.getElementById(elName + "icon3");
+      var crowdingDot1 = document.getElementById(elName + "icon");
+      //var crowdingDot2 = document.getElementById(elName + "icon2");
+      //var crowdingDot3 = document.getElementById(elName + "icon3");
       console.log(crowdingDot1);
       if(i < vehicleOccStatus.length) {
         console.log(vehicleOccStatus[i])
         switch (true) {
           case vehicleOccStatus[i] < 0.4:
-              crowdingDot1.setAttribute("fill", "green");
-              crowdingDot2.setAttribute("opacity", 0);
-              crowdingDot3.setAttribute("opacity", 0);
+              crowdingDot1.setAttribute("src", "images/one_person_icon.png");
               break;
           case vehicleOccStatus[i] < 0.8:
-              crowdingDot1.setAttribute("fill", "orange");
-              crowdingDot2.setAttribute("opacity", 1);
-              crowdingDot2.setAttribute("fill", "orange");
-              crowdingDot3.setAttribute("opacity", 0);
+              crowdingDot1.setAttribute("src", "images/two_person_icon.png");
               break;
           case vehicleOccStatus[i] > 0.9:
-              crowdingDot1.setAttribute("fill", "red");
-              crowdingDot2.setAttribute("opacity", 1);
-              crowdingDot2.setAttribute("fill", "red");
-              crowdingDot3.setAttribute("opacity", 1);
-              crowdingDot3.setAttribute("fill", "red");
+              crowdingDot1.setAttribute("src", "images/three_person_icon.png");
               break;
         }
       }
