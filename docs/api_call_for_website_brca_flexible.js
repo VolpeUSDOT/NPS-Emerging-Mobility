@@ -150,18 +150,12 @@ async function fetchGTFSdata(direction) {
       var strTime = depatureTimeHours + ':' + String(departureTimeMinutes).padStart(2, '0') + ' ' + ampm;
       predictedDepartures.push(strTime);
       
-      // if wait time comes out as negative, force it to zero
-      if(waittimeMinutes < 0) {
-        waittimeMinutes = 0;
-      }
-
       // get corresponding element
       var elName = direction + String(i + 1);
       var timeDisplay = document.getElementById(elName);
       // update crowding icon
       var crowdingElName = elName + "icon";
       // var crowdingDisplay = document.getElementById(crowdingElName);
-      let crowdEmojis = "";
       console.log(vehicleOccStatus.length);
       var crowdingDot1 = document.getElementById(elName + "icon");
       //var crowdingDot2 = document.getElementById(elName + "icon2");
@@ -181,9 +175,14 @@ async function fetchGTFSdata(direction) {
               break;
         }
       }
-      console.log(crowdEmojis);
       // update detail in the actual webpage
-      let upcomingText = strTime + " - " + String(waittimeMinutes) + " minutes ";// + crowdEmojis;
+      // if wait time comes out as less than 1, say "Arriving in <1 minute"
+      let upcomingText = ""
+      if(waittimeMinutes < 1) {
+        upcomingText = "Arriving in <1 minutes";
+      } else {
+        upcomingText = strTime + " - " + String(waittimeMinutes) + " minutes ";
+      }
       timeDisplay.textContent = String(upcomingText);
     }
   }
