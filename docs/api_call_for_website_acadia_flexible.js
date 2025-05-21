@@ -66,6 +66,10 @@ function chosenSite() {
 function formatAMPM(militaryTime) {
   var hours = militaryTime.substring(0,2);
   var minutes = militaryTime.substring(3,5);
+  if(minutes == 60) { // the minutes shouldn't be getting to 60
+    minutes = 0;
+    hours = hours + 1;
+  }
   var ampm = hours >= 12 ? 'pm' : 'am';
   hours = hours % 12;
   if(hours == 0) { // the hour '0' should be '12'
