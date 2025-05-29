@@ -43,6 +43,9 @@ function chosenSite() {
     outboundTimetable.style.display = "none";  // <-- Set it to none
     var inboundLabel = document.getElementById("inboundLabel");
     inboundLabel.style.display = "none";  // <-- Set it to none
+    /* also shift time to be in middle, not half */
+    var inboundTimetable = document.getElementById("inboundTimes");
+    inboundTimetable.style.width = "100%";  // <-- Set it to 100% instead of 50%
     
   }
   
