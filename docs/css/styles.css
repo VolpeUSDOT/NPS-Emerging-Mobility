@@ -177,16 +177,12 @@ header img {
 .footer img {
     display: block;
     margin: auto;
-    min-width: 60%;
+    width: 50%;
     max-height: 40%;
 }
 
 .footer .update_time {
   font-size: 3vmin;
-}
-
-.footer img {
-  width: 5%;
 }
 
 .footer block {
