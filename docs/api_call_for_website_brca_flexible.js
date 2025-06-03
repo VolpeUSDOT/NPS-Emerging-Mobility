@@ -141,7 +141,7 @@ async function fetchGTFSdata(direction) {
       console.log(String(departureTimeMinutes).padStart(2, '0'));
       var depatureTimeHours = hours;
       // minutes exceeds 60, subtract 60 and add an hour. shuttles don't run at midnight so shouldn't have to handle hour carryovers
-      if(departureTimeMinutes > 60) {
+      if(departureTimeMinutes >= 60) {
         depatureTimeHours = hours + 1;
         departureTimeMinutes = departureTimeMinutes - 60;
       }
