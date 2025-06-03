@@ -212,8 +212,8 @@ var updatePage = setInterval((function() {
   fetchGTFSdata("inbound");
   toggleSlides();
   
-  // kick off another 25 second count down
-  document.getElementById("countdownBox").innerHTML = 25
+  // kick off another 20 second count down
+  document.getElementById("countdownBox").innerHTML = 20
 }
-), 25000); //refresh every 25 seconds
+), 20000); //refresh every 20 seconds
 
