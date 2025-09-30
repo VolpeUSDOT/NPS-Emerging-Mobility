@@ -21,7 +21,7 @@
     {
       "id": "US 441 restriction southbound",
       "type": "Feature",
-      "description": "Commercial vehicles prohibited on US 441/Newfound Gap Road",
+      "description": "Commercial vehicles prohibited on US 441/Newfound Gap Road",   
       "properties": {
         "core_details": {
           "data_source_id": "GRSM",
@@ -44,8 +44,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
-            -83.522549999999967,35.706340000000068],
+          [-83.522549999999967,35.706340000000068],
             [-83.522729999999967,35.706140000000062],
             [-83.523689999999988,35.705200000000048],
             [-83.523939999999982,35.704920000000072],
