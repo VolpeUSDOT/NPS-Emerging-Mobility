@@ -11,7 +11,7 @@
         "data_source_id": "park_alpha",
         "organization_name": "park_name",
         "contact_name": "park_contact",
-        "contact_email": "park_contact_email_address",
+        "contact_email": "placeholder_email@nps.gov",
         "update_date": "date_updated"
       }
     ]
