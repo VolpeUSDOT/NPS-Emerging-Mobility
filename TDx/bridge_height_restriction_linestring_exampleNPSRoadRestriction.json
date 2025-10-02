@@ -38,6 +38,11 @@
             "type": "reduced-height",
             "value": 10.5,
             "unit": "feet"
+          },
+          {
+            "type": "reduced-weight",
+            "value": 10.5,
+            "unit": "tons"
           }
         
         ],

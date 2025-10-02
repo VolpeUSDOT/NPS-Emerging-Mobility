@@ -1,6 +1,6 @@
 {
   "feed_info": {
-    "update_date": "2024-10-09T17' :08' :40.8089686Z",
+    "update_date": "2024-10-09T15:00:00Z",
     "publisher": "National Park Service",
     "contact_name": "National Park Service",
     "contact_email": "asknps@nps.gov",
@@ -20,7 +20,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 633,
+      "id": "633",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3927,6 +3927,7 @@
         ]
       },
       "properties": {
+        "core_details": "core details",
         "OBJECTID": 633,
         "REGION": "IM",
         "park_alpha": "ZION",
