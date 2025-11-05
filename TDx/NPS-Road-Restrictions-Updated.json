@@ -1,6 +1,6 @@
 {
   "feed_info": {
-    "update_date": "2025-11-04T14:20:45Z",
+    "update_date": "2025-11-05T16:14:51Z",
     "publisher": "National Park Service",
     "contact_name": "National Park Service",
     "contact_email": "asknps@nps.gov",
@@ -10,16 +10,16 @@
       {
         "data_source_id": "GWMP",
         "organization_name": "GWMP",
-        "contact_name": null,
+        "contact_name": "Steven Kattula",
         "contact_email": "steven_kattula@nps.gov",
-        "update_date": "2025-11-04T14:20:45Z"
+        "update_date": "2025-11-05T16:14:51Z"
       },
       {
         "data_source_id": "ZION",
         "organization_name": "ZION",
         "contact_name": "Lisa White; Lisa_M_White@nps.gov",
         "contact_email": "Lisa.White@nps.gov",
-        "update_date": "2025-11-04T14:20:45Z"
+        "update_date": "2025-11-05T16:14:51Z"
       }
     ]
   },
@@ -32,27 +32,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "SOUTHDOWN ROAD",
-          "direction": null
+          "road_names": [
+            "SOUTHDOWN ROAD"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04742999989452,
@@ -187,7 +191,8 @@
               38.74676212856946
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -197,8 +202,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "SB WASHINGTON BOULEVARD",
-          "direction": null
+          "road_names": [
+            "SB WASHINGTON BOULEVARD"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -207,21 +214,23 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-height",
-              "value": 11.5,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-height",
+                "value": 11.5,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.06242288820567,
@@ -604,7 +613,8 @@
               38.87997144122909
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -614,12 +624,14 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "GWMP - SOUTHBOUND",
-          "direction": null
+          "road_names": [
+            "GWMP - SOUTHBOUND"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           },
           {
             "type": "reduced-height",
@@ -627,24 +639,26 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            },
-            {
-              "type": "reduced-height",
-              "value": 11.9,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              },
+              {
+                "type": "reduced-height",
+                "value": 11.9,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04485280910984,
@@ -35823,7 +35837,8 @@
               38.96316584862507
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -35833,27 +35848,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "SPOUT RUN PARKWAY EASTBOUND",
-          "direction": null
+          "road_names": [
+            "SPOUT RUN PARKWAY EASTBOUND"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.09392199990032,
@@ -37556,7 +37575,8 @@
               38.90136064697634
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -37566,27 +37586,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "WB (OUTBOUND) CLARA BARTON MEMORIAL PARKWAY",
-          "direction": null
+          "road_names": [
+            "WB (OUTBOUND) CLARA BARTON MEMORIAL PARKWAY"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.11181560740431,
@@ -40605,7 +40629,8 @@
               38.97859283788921
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -40615,12 +40640,14 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "NB I-395 RAMP TO SB GWMP",
-          "direction": null
+          "road_names": [
+            "NB I-395 RAMP TO SB GWMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           },
           {
             "type": "reduced-height",
@@ -40628,24 +40655,26 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            },
-            {
-              "type": "reduced-height",
-              "value": 12.4,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              },
+              {
+                "type": "reduced-height",
+                "value": 12.4,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04469399962835,
@@ -41024,7 +41053,8 @@
               38.87077608914524
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -41034,8 +41064,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "EB (INBOUND) CLARA BARTON MEMORIAL PARKWAY",
-          "direction": null
+          "road_names": [
+            "EB (INBOUND) CLARA BARTON MEMORIAL PARKWAY"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -41044,21 +41076,23 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-height",
-              "value": 13.25,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-height",
+                "value": 13.25,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.20721234007738,
@@ -43845,7 +43879,8 @@
               38.93040699988319
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -43855,8 +43890,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "BOUNDARY CHANNEL DRIVE",
-          "direction": null
+          "road_names": [
+            "BOUNDARY CHANNEL DRIVE"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -43865,21 +43902,23 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-height",
-              "value": 12.5,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-height",
+                "value": 12.5,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.05389155415185,
@@ -44130,7 +44169,8 @@
               38.87942630727832
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -44140,27 +44180,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "ALEXANDRIA AVENUE",
-          "direction": null
+          "road_names": [
+            "ALEXANDRIA AVENUE"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04846969891742,
@@ -44191,7 +44235,8 @@
               38.74665569110732
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -44201,27 +44246,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "EB RAMP FROM CABIN JOHN PARKWAY",
-          "direction": null
+          "road_names": [
+            "EB RAMP FROM CABIN JOHN PARKWAY"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.14873200038147,
@@ -45148,7 +45197,8 @@
               38.96974299993957
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -45158,27 +45208,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "WB VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) RAMP TO SB GWMP",
-          "direction": null
+          "road_names": [
+            "WB VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) RAMP TO SB GWMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.13430599972207,
@@ -45325,7 +45379,8 @@
               38.9396200389337
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -45335,8 +45390,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "SB I-395 RAMP TO SB GWMP",
-          "direction": null
+          "road_names": [
+            "SB I-395 RAMP TO SB GWMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -45345,21 +45402,23 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-height",
-              "value": 11.9,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-height",
+                "value": 11.9,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.0449401593608,
@@ -45554,7 +45613,8 @@
               38.87342628239708
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -45564,27 +45624,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "ROSSLYN CIRCLE RAMP TO NB GWMP",
-          "direction": null
+          "road_names": [
+            "ROSSLYN CIRCLE RAMP TO NB GWMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.07129763018145,
@@ -45743,7 +45807,8 @@
               38.90180191642537
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -45753,27 +45818,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "EAST ABINGDON DRIVE",
-          "direction": null
+          "road_names": [
+            "EAST ABINGDON DRIVE"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04459472886361,
@@ -46120,7 +46189,8 @@
               38.82436663611139
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -46130,27 +46200,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "NORTHDOWN ROAD",
-          "direction": null
+          "road_names": [
+            "NORTHDOWN ROAD"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04846969891742,
@@ -46401,7 +46475,8 @@
               38.74911871026035
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -46411,27 +46486,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) RAMP TO NB GWMP",
-          "direction": null
+          "road_names": [
+            "VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) RAMP TO NB GWMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.13251726975614,
@@ -46586,7 +46665,8 @@
               38.940591638593276
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -46596,12 +46676,14 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "MOUNT VERNON PARKWAY (SOUTHBOUND)",
-          "direction": null
+          "road_names": [
+            "MOUNT VERNON PARKWAY (SOUTHBOUND)"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           },
           {
             "type": "reduced-height",
@@ -46609,24 +46691,26 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            },
-            {
-              "type": "reduced-height",
-              "value": 10.1,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              },
+              {
+                "type": "reduced-height",
+                "value": 10.1,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.09058299970565,
@@ -72925,7 +73009,8 @@
               38.79472000012794
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -72935,27 +73020,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "CHADWICK AVENUE / HERBERT SPRINGS ROAD",
-          "direction": null
+          "road_names": [
+            "CHADWICK AVENUE / HERBERT SPRINGS ROAD"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04957567167986,
@@ -73042,7 +73131,8 @@
               38.73528897900326
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -73052,19 +73142,23 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "ZION",
-          "road_names": "ZION CANYON SCENIC DRIVE",
-          "direction": null
+          "road_names": [
+            "ZION CANYON SCENIC DRIVE"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": []
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": []
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -112.97386218299334,
@@ -76967,7 +77061,8 @@
               37.284931843130096
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -76977,8 +77072,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "CARDEROCK ACCESS ROAD",
-          "direction": null
+          "road_names": [
+            "CARDEROCK ACCESS ROAD"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -76987,21 +77084,23 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-height",
-              "value": 11.5,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-height",
+                "value": 11.5,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.19565812921923,
@@ -77244,7 +77343,8 @@
               38.97303819775465
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -77254,19 +77354,23 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "MACARTHUR BOULEVARD ACCESS RAMP FROM WB CLARA BARTON PARKWAY",
-          "direction": null
+          "road_names": [
+            "MACARTHUR BOULEVARD ACCESS RAMP FROM WB CLARA BARTON PARKWAY"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": []
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": []
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.13577900020067,
@@ -77633,7 +77737,8 @@
               38.96454053072097
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -77643,19 +77748,23 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "FORT HUNT ROAD",
-          "direction": null
+          "road_names": [
+            "FORT HUNT ROAD"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": []
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": []
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04471781997137,
@@ -79782,7 +79891,8 @@
               38.71869299968222
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -79792,19 +79902,23 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "CABIN JOHN ACCESS ROAD",
-          "direction": null
+          "road_names": [
+            "CABIN JOHN ACCESS ROAD"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": []
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": []
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.15278958497134,
@@ -79895,7 +80009,8 @@
               38.97270299974372
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -79905,8 +80020,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "NB GWMP DISTRIBUTOR RAMP AT MEMORIAL CIRCLE",
-          "direction": null
+          "road_names": [
+            "NB GWMP DISTRIBUTOR RAMP AT MEMORIAL CIRCLE"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -79915,21 +80032,23 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-height",
-              "value": 12.5,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-height",
+                "value": 12.5,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.0544957987421,
@@ -80396,7 +80515,8 @@
               38.88943669964402
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -80406,27 +80526,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "SPUR FROM WB VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) TO NB GWMP RAMP",
-          "direction": null
+          "road_names": [
+            "SPUR FROM WB VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) TO NB GWMP RAMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.13220025963426,
@@ -80489,7 +80613,8 @@
               38.938898291622934
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -80499,8 +80624,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "EB U.S. HIGHWAY 50 RAMP TO SB GWMP",
-          "direction": null
+          "road_names": [
+            "EB U.S. HIGHWAY 50 RAMP TO SB GWMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -80509,21 +80636,23 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-height",
-              "value": 12,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-height",
+                "value": 12,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.06795500032297,
@@ -80674,7 +80803,8 @@
               38.88743723873762
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -80684,8 +80814,10 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "ZION",
-          "road_names": "SOUTH TO EAST ENTRANCE (ZION-MT CARMEL HIGHWAY)",
-          "direction": null
+          "road_names": [
+            "SOUTH TO EAST ENTRANCE (ZION-MT CARMEL HIGHWAY)"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
@@ -80709,48 +80841,50 @@
             "unit": "pounds"
           },
           {
-            "type": "permitted_oversize_loads_prohibited"
+            "type": "permitted-oversize-loads-prohibited"
           },
           {
-            "type": "no_passing"
+            "type": "no-passing"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "reduced-width",
-              "value": "7.83",
-              "unit": "feet"
-            },
-            {
-              "type": "reduced-height",
-              "value": 11.33,
-              "unit": "feet"
-            },
-            {
-              "type": "reduced-length",
-              "value": 35.75,
-              "unit": "feet"
-            },
-            {
-              "type": "reduced-weight",
-              "value": 50000,
-              "unit": "pounds"
-            },
-            {
-              "type": "permitted_oversize_loads_prohibited"
-            },
-            {
-              "type": "no_passing"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "reduced-width",
+                "value": "7.83",
+                "unit": "feet"
+              },
+              {
+                "type": "reduced-height",
+                "value": 11.33,
+                "unit": "feet"
+              },
+              {
+                "type": "reduced-length",
+                "value": 35.75,
+                "unit": "feet"
+              },
+              {
+                "type": "reduced-weight",
+                "value": 50000,
+                "unit": "pounds"
+              },
+              {
+                "type": "permitted-oversize-loads-prohibited"
+              },
+              {
+                "type": "no-passing"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -112.97386218299334,
@@ -91589,7 +91723,8 @@
               37.23553999987115
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -91599,12 +91734,14 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "NB WASHINGTON BOULEVARD TO MEMORIAL CIRCLE",
-          "direction": null
+          "road_names": [
+            "NB WASHINGTON BOULEVARD TO MEMORIAL CIRCLE"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           },
           {
             "type": "reduced-height",
@@ -91612,24 +91749,26 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            },
-            {
-              "type": "reduced-height",
-              "value": 12.5,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              },
+              {
+                "type": "reduced-height",
+                "value": 12.5,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.05714399999556,
@@ -92380,7 +92519,8 @@
               38.88574800976289
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -92390,27 +92530,31 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "EB VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) RAMP TO SB GWMP",
-          "direction": null
+          "road_names": [
+            "EB VA STATE HIGHWAY 123 (CHAIN BRIDGE ROAD) RAMP TO SB GWMP"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.13497800013454,
@@ -93021,7 +93165,8 @@
               38.936105938938
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -93031,12 +93176,14 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "MOUNT VERNON PARKWAY (NORTHBOUND)",
-          "direction": null
+          "road_names": [
+            "MOUNT VERNON PARKWAY (NORTHBOUND)"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           },
           {
             "type": "reduced-height",
@@ -93044,24 +93191,26 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            },
-            {
-              "type": "reduced-height",
-              "value": 10.1,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              },
+              {
+                "type": "reduced-height",
+                "value": 10.1,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.09058799993619,
@@ -114592,7 +114741,8 @@
               38.79469599992052
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -114602,12 +114752,14 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "GWMP",
-          "road_names": "GWMP - NORTHBOUND",
-          "direction": null
+          "road_names": [
+            "GWMP - NORTHBOUND"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [
           {
-            "type": "no_trucks"
+            "type": "no-trucks"
           },
           {
             "type": "reduced-height",
@@ -114615,24 +114767,26 @@
             "unit": "feet"
           }
         ],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": [
-            {
-              "type": "no_trucks"
-            },
-            {
-              "type": "reduced-height",
-              "value": 12.5,
-              "unit": "feet"
-            }
-          ]
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": [
+              {
+                "type": "no-trucks"
+              },
+              {
+                "type": "reduced-height",
+                "value": 12.5,
+                "unit": "feet"
+              }
+            ]
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -77.04468100982069,
@@ -151283,7 +151437,8 @@
               38.96334484878582
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     },
     {
@@ -151293,19 +151448,23 @@
         "core_details": {
           "event_type": "restriction",
           "data_source_id": "ZION",
-          "road_names": "ZION CANYON SCENIC DRIVE",
-          "direction": null
+          "road_names": [
+            "ZION CANYON SCENIC DRIVE"
+          ],
+          "direction": "northbound"
         },
         "restrictions": [],
-        "lanes": {
-          "order": 1,
-          "status": "open",
-          "type": "general",
-          "restrictions": []
-        }
+        "lanes": [
+          {
+            "order": 1,
+            "status": "open",
+            "type": "general",
+            "restrictions": []
+          }
+        ]
       },
       "geometry": {
-        "paths": [
+        "coordinates": [
           [
             [
               -112.9744292037447,
@@ -155172,7 +155331,8 @@
               37.284931843130096
             ]
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     }
   ]
