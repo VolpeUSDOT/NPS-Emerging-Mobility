@@ -1,6 +1,6 @@
 {
   "feed_info": {
-    "update_date": "2025-11-05T20:30:43Z",
+    "update_date": "2025-11-05T21:06:05Z",
     "publisher": "National Park Service",
     "contact_name": "National Park Service",
     "contact_email": "asknps@nps.gov",
@@ -12,14 +12,14 @@
         "organization_name": "GWMP",
         "contact_name": "Steven Kattula",
         "contact_email": "steven_kattula@nps.gov",
-        "update_date": "2025-11-05T20:30:43Z"
+        "update_date": "2025-11-05T21:06:05Z"
       },
       {
         "data_source_id": "ZION",
         "organization_name": "ZION",
         "contact_name": "Lisa White; Lisa_M_White@nps.gov",
         "contact_email": "Lisa.White@nps.gov",
-        "update_date": "2025-11-05T20:30:43Z"
+        "update_date": "2025-11-05T21:06:05Z"
       }
     ]
   },
@@ -41060,7 +41060,7 @@
         "restrictions": [
           {
             "type": "reduced-height",
-            "value": 13.25,
+            "value": 13.2,
             "unit": "feet"
           }
         ],
@@ -41072,7 +41072,7 @@
             "restrictions": [
               {
                 "type": "reduced-height",
-                "value": 13.25,
+                "value": 13.2,
                 "unit": "feet"
               }
             ]
@@ -80582,7 +80582,7 @@
         "restrictions": [
           {
             "type": "reduced-height",
-            "value": 12,
+            "value": 12.0,
             "unit": "feet"
           }
         ],
@@ -80594,7 +80594,7 @@
             "restrictions": [
               {
                 "type": "reduced-height",
-                "value": 12,
+                "value": 12.0,
                 "unit": "feet"
               }
             ]
@@ -80770,22 +80770,22 @@
         "restrictions": [
           {
             "type": "reduced-width",
-            "value": "7.83",
+            "value": 7.8,
             "unit": "feet"
           },
           {
             "type": "reduced-height",
-            "value": 11.33,
+            "value": 11.3,
             "unit": "feet"
           },
           {
             "type": "reduced-length",
-            "value": 35.75,
+            "value": 35.8,
             "unit": "feet"
           },
           {
             "type": "reduced-weight",
-            "value": 50000,
+            "value": 50000.0,
             "unit": "pounds"
           },
           {
@@ -80803,22 +80803,22 @@
             "restrictions": [
               {
                 "type": "reduced-width",
-                "value": "7.83",
+                "value": 7.8,
                 "unit": "feet"
               },
               {
                 "type": "reduced-height",
-                "value": 11.33,
+                "value": 11.3,
                 "unit": "feet"
               },
               {
                 "type": "reduced-length",
-                "value": 35.75,
+                "value": 35.8,
                 "unit": "feet"
               },
               {
                 "type": "reduced-weight",
-                "value": 50000,
+                "value": 50000.0,
                 "unit": "pounds"
               },
               {
