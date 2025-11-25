@@ -22,7 +22,7 @@ config = {
 	'train_groups': ['2','2'],
 
 	# API Key for WMATA
-	'metro_api_key': '4f5adc168e2b40f7a4e301cb644c1f0e',
+	'metro_api_key': 'your api key here',
 
 	#########################
 	# Other Values You      #

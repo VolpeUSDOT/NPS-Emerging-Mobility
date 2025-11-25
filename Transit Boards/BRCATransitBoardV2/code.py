@@ -58,11 +58,13 @@ def board_screen(labels_texts):
     LINE1_Y = 14
     LINE2_Y = 25
 
+    #board positioning options: create headers
     for txt, x in (("DIR", XDIR), ("MIN", XMIN), ("OCC", XOCC)):
         h = label.Label(F, text=txt, color=ORANGE)
         h.x, h.y = x, Y0
         group.append(h)
 
+    #board positioning options: create 2 lines of data
     for row in range(2):
         y = LINE1_Y if row == 0 else LINE2_Y
         d,t,o = labels_texts[row*3 + 0], labels_texts[row*3 + 1], labels_texts[row*3 + 2]
