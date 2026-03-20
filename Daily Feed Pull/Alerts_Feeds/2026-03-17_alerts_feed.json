@@ -1,5 +1,5 @@
 {
-    "total": "681",
+    "total": "676",
     "limit": "10000",
     "start": "0",
     "data": [
@@ -84,6 +84,16 @@
             "parkCode": "shen",
             "description": "The entire Skyline Drive is closed to the public from Front Royal at Mile 0 to Rockfish Gap at Mile 105, due to inclement weather conditions.",
             "category": "Park Closure",
+            "relatedRoadEvents": [],
+            "lastIndexedDate": "2026-03-17 00:00:00.0"
+        },
+        {
+            "id": "69AE4481-057C-41D0-AC2B-FBDC187BDC0D",
+            "url": "",
+            "title": "Trail closure possible",
+            "parkCode": "tont",
+            "description": "In light of recent extreme heat warnings, the Lower Cliff Dwelling Trail may close if temperatures exceed 105\u00b0F; however, the Visitor Center will maintain regular hours from 8:00 AM to 4:00 PM.",
+            "category": "Danger",
             "relatedRoadEvents": [],
             "lastIndexedDate": "2026-03-17 00:00:00.0"
         },
@@ -202,31 +212,11 @@
             "lastIndexedDate": "2026-03-16 00:00:00.0"
         },
         {
-            "id": "50270CAB-CA73-4F84-99C8-EDDF18BE698F",
-            "url": "",
-            "title": "Glen Echo Park Closing at 12noon Monday March 16 Due to Hazardous Weather",
-            "parkCode": "glec",
-            "description": "Glen Echo Park will be closing at 12noon on Monday March 16,2026 due to impending hazardous weather. Areas will reopen as soon as conditions are safe. Alert will be removed when area reopens. For the latest updates, visitors should check www.nps.gov/glec and social media.",
-            "category": "Park Closure",
-            "relatedRoadEvents": [],
-            "lastIndexedDate": "2026-03-16 00:00:00.0"
-        },
-        {
             "id": "2D6862D7-9E2F-42EB-87CB-922FEB8A77E7",
             "url": "",
             "title": "Hurricane Ridge Road Status, Monday 3/16 - Thursday 3/19",
             "parkCode": "olym",
             "description": "Hurricane Ridge Road remains closed Monday through Thursday during the winter season. The road is scheduled to reopen Friday, March 20th, weather and road conditions permitting.",
-            "category": "Park Closure",
-            "relatedRoadEvents": [],
-            "lastIndexedDate": "2026-03-16 00:00:00.0"
-        },
-        {
-            "id": "F9DF0E7A-0C10-4248-ABC6-BE9F1CC44794",
-            "url": "",
-            "title": "Great Falls Park Closing at 12noon Monday March 16 Due to Hazardous Weather",
-            "parkCode": "grfa",
-            "description": "Great Falls Park will be closing at 12noon on Monday March 16,2026 due to impending hazardous weather. Areas will reopen as soon as conditions are safe. Alert will be removed when area reopens. For the latest updates, visitors should check www.nps.gov/grfa and social media.",
             "category": "Park Closure",
             "relatedRoadEvents": [],
             "lastIndexedDate": "2026-03-16 00:00:00.0"
@@ -257,36 +247,6 @@
             "title": "Ford's Theatre closing at 2 p.m. on March 16",
             "parkCode": "foth",
             "description": "Ford's Theatre NHS will close at 2 p.m. on Monday, March 16 due to severe weather forecast. We apologize for any inconvenience.",
-            "category": "Park Closure",
-            "relatedRoadEvents": [],
-            "lastIndexedDate": "2026-03-16 00:00:00.0"
-        },
-        {
-            "id": "F87B5850-9716-4CA8-8719-041A5BE9130A",
-            "url": "",
-            "title": "Clara Barton NHS Closing at 12noon Monday March 16 Due to Hazardous Weather",
-            "parkCode": "clba",
-            "description": "Clara Barton NHS will be closing at 12noon on Monday March 16,2026 due to impending hazardous weather. Areas will reopen as soon as conditions are safe. Alert will be removed when area reopens. For the latest updates, visitors should check www.nps.gov/clba and social media.",
-            "category": "Park Closure",
-            "relatedRoadEvents": [],
-            "lastIndexedDate": "2026-03-16 00:00:00.0"
-        },
-        {
-            "id": "53E127B0-8A40-4A18-B326-00E453C54E53",
-            "url": "",
-            "title": "Arlington House Closing at 12noon Monday March 16 Due to Hazardous Weather",
-            "parkCode": "arho",
-            "description": "Arlington House, The Robert E. Lee Memorial, will be closing at 12noon on Monday March 16,2026 due to impending hazardous weather. Areas will reopen as soon as conditions are safe. Alert will be removed when area reopens. For the latest updates, visitors should check www.nps.gov/arho and social media.",
-            "category": "Park Closure",
-            "relatedRoadEvents": [],
-            "lastIndexedDate": "2026-03-16 00:00:00.0"
-        },
-        {
-            "id": "648C446B-A030-494C-9B65-89E025DBD08C",
-            "url": "",
-            "title": "All Parkway Areas and Facilities closing at 12noon Monday March 16",
-            "parkCode": "gwmp",
-            "description": "George Washington Memorial Parkway to close all park areas and facilities at 12noon Monday, March 16 due to impending hazardous weather. Areas will reopen as soon as conditions are safe. Alert will be removed when areas reopen. For the latest updates, visitors should check www.nps.gov/gwmp and GWMP social media.",
             "category": "Park Closure",
             "relatedRoadEvents": [],
             "lastIndexedDate": "2026-03-16 00:00:00.0"
@@ -1627,16 +1587,6 @@
             "parkCode": "elmo",
             "description": "Portions of trails may close when snow or ice are present. Please check in at the visitor center for current trail conditions.",
             "category": "Park Closure",
-            "relatedRoadEvents": [],
-            "lastIndexedDate": "2026-02-19 00:00:00.0"
-        },
-        {
-            "id": "5C9FF164-6C65-416D-AE3B-6424EBB2DA0C",
-            "url": "https://www.dcwater.com/about-dc-water/media/news",
-            "title": "DC Water Sewer Overflow",
-            "parkCode": "this",
-            "description": "DC Water is managing a sanitary sewer overflow from the Potomac Interceptor near Lock 10. Anyone with questions or in need of support can reach out to DC Water\u2019s 24-Hour Command Center at (202) 612-3400.",
-            "category": "Caution",
             "relatedRoadEvents": [],
             "lastIndexedDate": "2026-02-19 00:00:00.0"
         },
