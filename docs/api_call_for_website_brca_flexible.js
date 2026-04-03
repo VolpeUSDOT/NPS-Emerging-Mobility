@@ -31,12 +31,12 @@ function chosenSite() {
   /* set values from selections*/
   inboundStopId = dropDown.value;
   stopName = dropDown.options[dropDown.selectedIndex].text;
-  if(dropDown.value == "5"){
+  if(dropDown.value == "11"){ // rubys campground
      outboundStopId = "15";
-  } else if(dropDown.value == "6"){
-     outboundStopId = "14";
-  } else if(dropDown.value == "7"){
-     outboundStopId = "10";
+  } else if(dropDown.value == "3"){ // sunset campground
+     outboundStopId = "6";
+  } else if(dropDown.value == "47"){ // visitor center
+     outboundStopId = "49";
   } else {
     /* if no outbound, then don't show outbound or directional labels*/
     var outboundTimetable = document.getElementById("outboundTimes");
@@ -96,7 +96,7 @@ async function fetchGTFSdata(direction) {
   try{
     const response = await fetch(url);
     if(!response.ok) {
-      throw new Error("Could not fetch mbta data");
+      throw new Error("Could not fetch real time data");
     }
     const brcaShuttle = await response.json();
     //console.log(brcaShuttle);
@@ -108,7 +108,7 @@ async function fetchGTFSdata(direction) {
     const predictedWaits = [];
     const vehicleOccStatus = [];
     for(const pred of brcaShuttle[0].Times) {
-      if (predictedWaits.length < 3){
+      if (predictedWaits.length < 3 & pred.IsDeparted == false){
         //console.log(pred);
         const text = pred.Seconds;
         // save predicted departure time, drop the date
@@ -124,7 +124,6 @@ async function fetchGTFSdata(direction) {
       }
     }
     
-
     // assemble current time
     let now = new Date();
     let hours = now.getHours();
@@ -163,7 +162,6 @@ async function fetchGTFSdata(direction) {
       // update crowding icon
       console.log(vehicleOccStatus.length);
       var crowdingDot1 = document.getElementById(elName + "icon");
-      console.log(crowdingDot1);
       if(i < vehicleOccStatus.length) {
         console.log(vehicleOccStatus[i])
         switch (true) {
@@ -182,7 +180,9 @@ async function fetchGTFSdata(direction) {
       // if wait time comes out as less than 1, say "Arriving in <1 minute"
       let upcomingText = ""
       if(waittimeMinutes < 1) {
-        upcomingText = "Arriving in <1 minutes";
+        upcomingText = "NOW ARRIVING ";
+      } else if(waittimeMinutes == 1) {
+        upcomingText = strTime + " - 1 minute ";
       } else {
         upcomingText = strTime + " - " + String(waittimeMinutes) + " minutes ";
       }
