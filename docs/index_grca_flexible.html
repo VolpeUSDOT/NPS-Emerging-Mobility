@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles.css" >
+    <title>Grand Canyon National Park :: Shuttle Arrivals</title>
+    <meta name="thisSlide" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d42bbb0711.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>Shuttle Departures</h1>
+    <div class="nps-branding">
+        <p class="park-name">Grand Canyon National Park<br>Utah</p>
+        <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
+        <img src="images/nps-logo.svg" alt="National Park Service">
+    </div>
+</header>
+
+<div class="dropdown" id="welcome">
+  <h2>View upcoming shuttle departures from </h2>
+  <select id="chooseStop" onchange="chosenSite()" >
+    <option value= "99" selected="selected"> Select Shuttle Stop </option>
+    <option value = "1">Grand Canyon Visitor Center</option>
+    <option value = "12">Market Plaza</option>
+    <option value = "13">Shrine of the Ages</option>
+    <option value = "14">Train Depot</option>
+    <option value = "11">Bright Angel Lodge</option>
+    <option value = "47">Hermits Rest Route Transfer</option>
+    <option value = "3">Maswik Lodge</option>
+    <option value = "42">Backcountry Information Center</option>
+    <option value = "5">Center Road</option>
+    <option value = "7">Village East</option>
+    <option value = "8">Mather Campground</option>
+    <option value = "9">Trailer Village</option>
+  </select>
+</div>
+
+<!-- hide timetable until stop selected --> 
+<div id="timetables" style="display:none">
+<div class="content">
+  <span><h1 id="titleLine"> </h1></span>
+</div>
+
+<div class = "split">
+  <div class="half" id="inboundTimes">
+    <h2 id="inboundLabel">Into the Park</h2>
+    <p>
+        <h3><span class="time" id="inbound1">No upcoming departures</span>
+        <img src="" alt="" width="50" id="inbound1icon" />
+    </p>
+    <p>
+        <h3><span class="time" id="inbound2"></span>
+        <img src="" alt="" width="50" id="inbound2icon" />
+    </p>
+    <p>
+        <h3><span class="time" id="inbound3"></span>
+        <img src="" alt="" width="50" id="inbound3icon" />
+    </p>
+</div>
+  
+  <div class = "half" id = "outboundTimes">
+      <h2 id="outboundLabel">Into Grand Canyon City</h2>
+      <p><h3><span class="time" id="outbound1">No upcoming departures</span> 
+        <img src="" alt="" width="50" id="outbound1icon" /> </p>
+      <p><h3><span class="time" id="outbound2"></span> 
+        <img src="" alt="" width="50" id="outbound2icon" /></p>
+      <p><h3><span class="time" id="outbound3"></span> 
+        <img src="" alt="" width="50" id="outbound3icon" /></p>
+  </div>
+</div>
+
+<!-- Commenting out entire marquee now that we're doing slides, and the last updated timestamp
+<div class="content">
+    <span class="update_time" id="currtime"> </span>
+</div>
+
+<div class = "container">
+  <div class='marquee'>
+    <span><h1> PLAN ACCORDINGLY: Last Shuttle begins route from Shuttle Station at 5:45 PM  .  .  .  .  . 
+               No Parking at Grand Point. Grand Point accessible by SHUTTLE ONLY at this time </h1></span>
+  </div>
+</div>
+--->
+
+</div>
+
+
+<!-- hide notices page until slides turned on --> 
+<div id="notices" style="display:none">
+  <div class="content">
+    <span><h1>Village Route Shuttle Information</h1></span>
+    <ul>
+      <li><strong>The park shuttle is free with park admission.</strong> Park passes can be purchased at the Visitor Center or Backcountry Information Center.</li>
+      <li>While the shuttle is not required, it provides the most predictable way to enjoy the canyon views of the South Rim while also helping reduce congestion, noise, and air pollution.</li>
+      <li><strong>Plan Accordingly:</strong> To catch the last bus, be at a bus stop no later than <strong>8:45 PM</strong></li>
+    </ul>
+  </div>
+</div>
+
+<div class="footer" id="constantInfo" style="display:none; position: fixed; bottom:2%;">
+    <img class="route_map" src="images/grca-blue-loop-diagram.webp" alt="Shuttle Route Map">
+    <block class="update_time" id = "countdownBox"> 20 </block>
+</div>
+
+<script src= "api_call_for_website_brca_flexible.js"></script>
+
+</body>
+</html>
