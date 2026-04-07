@@ -72,8 +72,8 @@ function chosenSite() {
 function formatAMPM(militaryTime) {
   var hours = militaryTime.substring(0,2);
   var minutes = militaryTime.substring(3,5);
-  if(minutes == 60) { // the minutes shouldn't be getting to 60
-    minutes = 0;
+  while(minutes >= 60) { // the minutes shouldn't be getting to 60
+    minutes = minutes - 60;
     hours = hours + 1;
   }
   var ampm = hours >= 12 ? 'pm' : 'am';
@@ -140,8 +140,8 @@ async function fetchGTFSdata(direction) {
       console.log(String(departureTimeMinutes).padStart(2, '0'));
       var depatureTimeHours = hours;
       // minutes exceeds 60, subtract 60 and add an hour. shuttles don't run at midnight so shouldn't have to handle hour carryovers
-      if(departureTimeMinutes >= 60) {
-        depatureTimeHours = hours + 1;
+      while(departureTimeMinutes >= 60) {
+        depatureTimeHours = depatureTimeHours + 1;
         departureTimeMinutes = departureTimeMinutes - 60;
       }
       
