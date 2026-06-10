@@ -12,7 +12,7 @@ This script fetches the NPS Arch webcam page, resolves the current webcam image,
 
 ## Script
 
-`yolo arches.py`
+`Count_Arches.py`
 
 ## Output
 
@@ -93,7 +93,7 @@ The script can be configured with environment variables or CLI flags.
 | `WEBCAM_PAGE_URL` | NPS Arch webcam page URL | The webpage to scan for the image |
 | `FALLBACK_IMAGE_URL` | `https://www.nps.gov/webcams-arch/arch_traffic.jpg` | Used if the page does not expose a direct image link |
 | `MODEL_PATH` | `yolov8x.pt` | YOLO model path |
-| `OUTPUT_PATH` | `results/arch_vehicle_count_latest.json` | Where to write the result JSON |
+| `OUTPUT_PATH` | `arch_vehicle_count_latest.json` | Where to write the result JSON |
 | `YOLO_CONFIDENCE` | `0.50` | Confidence threshold |
 | `YOLO_IOU` | `0.45` | IOU threshold |
 | `YOLO_IMAGE_SIZE` | `1280` | Inference image size |
@@ -149,28 +149,28 @@ export PUBLISH_TO_GITHUB="1"
 
 ### Basic run
 
-From the folder containing `yolo arches.py`:
+From the folder containing `Count_Arches.py`:
 
 ```bash
-python "yolo arches.py"
+python "Count_Arches.py"
 ```
 
 ### Override the output path
 
 ```bash
-python "yolo arches.py" --output results/arch_vehicle_count_latest.json
+python "Count_Arches.py" --output arch_vehicle_count_latest.json
 ```
 
 ### Override the model
 
 ```bash
-python "yolo arches.py" --model yolov8n.pt
+python "Count_Arches.py" --model yolov8n.pt
 ```
 
 ### Override detection parameters
 
 ```bash
-python "yolo arches.py" --confidence 0.4 --iou 0.5 --imgsz 1280
+python "Count_Arches.py" --confidence 0.4 --iou 0.5 --imgsz 1280
 ```
 
 ## Expected behavior
@@ -230,6 +230,6 @@ Automatic publishing requires a GitHub token with permission to write repository
 
 ### Suggested GitHub pattern
 
-- Keep the latest result in `results/arch_vehicle_count_latest.json`
+- Keep the latest result in `arch_vehicle_count_latest.json`
 - Optionally write dated snapshots in the same directory, for example:
   - `results/arch_vehicle_count_2026-06-09.json`
