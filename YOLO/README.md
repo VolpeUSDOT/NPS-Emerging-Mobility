@@ -16,9 +16,7 @@ This script fetches the NPS Arch webcam page, resolves the current webcam image,
 
 ## Output
 
-By default, the script writes a JSON file here:
-
-`results/arch_vehicle_count_latest.json`
+By default, the script writes a JSON file called `arch_vehicle_count_latest.json`
 
 The JSON includes:
 
