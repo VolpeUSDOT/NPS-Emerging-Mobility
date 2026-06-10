@@ -1,1 +1,12 @@
-
+Arch webcam vehicle feed
+status: ok
+timestamp_utc: 2026-06-10T19:29:31.213157+00:00
+webcam_page_url: https://www.nps.gov/media/webcam/view.htm?id=81B46BDB-1DD8-B71B-0B250E8F4CC1E74A
+image_url: https://www.nps.gov/webcams-arch/arch_traffic.jpg
+model_path: yolov8x.pt
+vehicle_count: 2
+message: Detected 2 vehicles
+detections:
+- car (class_id=2, confidence=0.954) xyxy=[1637.8316650390625, 866.2586059570312, 2210.376220703125, 1391.0645751953125]
+- car (class_id=2, confidence=0.839) xyxy=[1383.8050537109375, 608.6026000976562, 1467.567138671875, 669.2769775390625]
+output_schema: arch_vehicle_count_v1
