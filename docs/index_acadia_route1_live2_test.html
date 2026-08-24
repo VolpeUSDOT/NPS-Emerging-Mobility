@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles2.css">
+    <title>Acadia National Park :: Route 1 Live Vehicles TEST</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d42bbb0711.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="acadia-live">
+
+<header>
+    <h1>Live Route 1 TEST</h1>
+    <div class="nps-branding">
+        <p class="park-name">Acadia National Park<br>Maine</p>
+        <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
+        <img src="images/nps-logo.svg" alt="National Park Service">
+    </div>
+</header>
+
+<main class="live-page">
+    <div class="content">
+        <span><h1 id="liveTitle">Acadia Route 1 Live Vehicles</h1></span>
+        <p class="live-status" id="liveStatusText">Loading live vehicle positions...</p>
+    </div>
+
+    <div class="live-map-shell">
+        <img id="route_map" src="images/map_acadia_gateway_bus1.jpg" alt="Acadia Route 1 map">
+        <svg id="vehicleOverlay" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"></svg>
+    </div>
+</main>
+
+<div class="footer" id="constantInfo" style="position: fixed; bottom:2%;">
+    <block class="update_time" id="countdownBox">15</block>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/protobufjs@7.2.5/dist/protobuf.min.js"></script>
+<script src="api_call_for_website_acadia_flexible2.js"></script>
+
+</body>
+</html>

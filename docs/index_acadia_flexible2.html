@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles2.css" >
+    <title>Acadia National Park :: Shuttle Departures</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d42bbb0711.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="acadia-departures">
+
+<header>
+    <h1>Shuttle Departures</h1>
+    <div class="nps-branding">
+        <p class="park-name">Acadia National Park<br>Maine</p>
+        <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
+        <img src="images/nps-logo.svg" alt="National Park Service">
+    </div>
+</header>
+
+<div id="timetables" class="acadia-layout">
+<div class="content">
+  <span><h1 id="titleLine">Upcoming Departures from Acadia Gateway Center</h1></span>
+</div>
+
+<div class = "split">
+    <div class = "half" id = "inboundTimes">
+        <h2 id="inboundLabel">Transit Times</h2>
+        <h3 id="inbound1">No upcoming departures</h3>
+        <h3 id="inbound2"></h3>
+        <h3 id="inbound3"></h3>
+    </div>
+    
+    <div class = "halfMap" id = "outboundTimes">
+        <img id="route_map" src="images/map_acadia_gateway_bus1.jpg" alt="Shuttle Route Map">
+    </div>
+    
+</div>
+
+</div>
+
+<div class="footer" id="constantInfo" style="position: fixed; bottom:2%;">
+    <block class="update_time" id = "countdownBox"> 25 </block>
+</div>
+
+<script src= "api_call_for_website_acadia_flexible2.js"></script>
+
+</body>
+</html>
