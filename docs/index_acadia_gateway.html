@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/styles.css" >
-    <title>Acadia National Park :: Shuttle Arrivals</title>
+    <title>Acadia Gateway Center :: Shuttle Departures</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/d42bbb0711.js" crossorigin="anonymous"></script>
 </head>
@@ -11,7 +11,7 @@
 <body>
 
 <header>
-    <h1>Shuttle Departures</h1>
+    <h1>Gateway Center Departures to Village Green</h1>
     <div class="nps-branding">
         <p class="park-name">Acadia National Park<br>Maine</p>
         <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
@@ -20,34 +20,29 @@
 </header>
 
 <!-- Main Timetable Display --> 
-<div id="timetables" style="display:block">
-  <div class="content">
-    <span><h1 id="titleLine">Upcoming Route 1 Departures from Acadia Gateway Center</h1></span>
-  </div>
-
-  <div class="split">
-      <div class="half" id="inboundTimes">
-          <p>
-            <h3 id="inbound1"><span class="time">Loading departures...</span></h3>
-            <!-- <img src="images/one_person_icon.png" width="50" id="inbound1icon" alt="Crowding Level 1" /> -->
-          </p>
-          <p>
-            <h3 id="inbound2"><span class="time"></span></h3>
-            <!-- <img src="images/one_person_icon.png" width="50" id="inbound2icon" alt="Crowding Level 2" /> -->
-          </p>
-          <p>
-            <h3 id="inbound3"><span class="time"></span></h3>
-            <!-- <img src="images/one_person_icon.png" width="50" id="inbound3icon" alt="Crowding Level 3" /> -->
-          </p>  
-      </div>
-      
-      <div class="halfMap" id="outboundTimes">
-          <img id="route_map" src="images/ACAD Transit Map_082526-with connections.png" alt="Shuttle Route Map">
-      </div>
-  </div>
+<div class="split">
+    <div class="half" id="inboundTimes">
+        <p>
+          <h3 id="inbound1"><span class="time">Loading departures...</span></h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound1icon" alt="Crowding Level 1" /> -->
+        </p>
+        <p>
+          <h3 id="inbound2"><span class="time"></span></h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound2icon" alt="Crowding Level 2" /> -->
+        </p>
+        <p>
+          <h3 id="inbound3"><span class="time"></span></h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound3icon" alt="Crowding Level 3" /> -->
+        </p>
+    </div>
+    
+    <div class="halfMap" id="outboundTimes">
+        <img id="route_map" src="images/ACAD Transit Map_082526-with connections.png" alt="Shuttle Route Map">
+    </div>
 </div>
 
-<!-- Service Notices Slide --> 
+
+<!-- Service Notices Slide 
 <div id="notices" style="display:none">
   <div class="content">
     <span><h1>Acadia Shuttle Information</h1></span>
@@ -59,10 +54,10 @@
       <li>Well-behaved and leashed or crated pets are allowed on buses and must remain on the floor.</li>
     </ul>
   </div>
-</div>
+</div> -->
 
-<div class="footer" id="constantInfo" style="display:block; position: fixed; bottom:2%;">
-    <div class="update_time" id="countdownBox">25</div>
+<div class="footer" id="constantInfo">
+    <h3 id="footerText">See Island Explorer pamphlet or ambassador for additional routes.</h3>
 </div>
 
 <script src="api_call_for_website_acadia_gateway.js"></script>

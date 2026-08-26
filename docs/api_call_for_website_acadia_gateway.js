@@ -6,17 +6,17 @@ const apiUrl = `https://islandexplorertracker.availtec.com/InfoPoint/rest/StopDe
 /* Cycle between departure timetable and info slide every 25s */
 async function toggleSlides() {
   const slide_timetables = document.getElementById("timetables");
-  const slide_notices = document.getElementById("notices");
+  // const slide_notices = document.getElementById("notices");
   
-  if (slide_timetables && slide_notices) {
-    if (slide_timetables.style.display === "none") {
-      slide_timetables.style.display = "block";
-      slide_notices.style.display = "none";
-    } else {
-      slide_timetables.style.display = "none";
-      slide_notices.style.display = "block";
-    }
-  }
+  // if (slide_timetables && slide_notices) {
+  //   if (slide_timetables.style.display === "none") {
+  //     slide_timetables.style.display = "block";
+  //     slide_notices.style.display = "none";
+  //   } else {
+  //     slide_timetables.style.display = "none";
+  //     slide_notices.style.display = "block";
+  //   }
+  // }
 }
 
 // Convert Date object to 12-hour AM/PM string
@@ -115,7 +115,7 @@ async function fetchGTFSdata() {
         } else {
           timeDisplay.innerHTML = i === 0 
             ? `<span class="time">No upcoming departures</span>` 
-            : `<span class="time">--</span>`;
+            : `<span class="time"></span>`;
         }
       }
     }
@@ -124,26 +124,27 @@ async function fetchGTFSdata() {
   }
 }
 
-// 1-second visual countdown
-setInterval(function () {
-  const countdownElement = document.getElementById("countdownBox");
-  if (countdownElement) {
-    let secondsLeft = parseInt(countdownElement.innerHTML, 10);
-    if (!isNaN(secondsLeft) && secondsLeft > 0) {
-      countdownElement.innerHTML = secondsLeft - 1;
-    }
-  }
-}, 1000);
+// // 1-second visual countdown
+// setInterval(function () {
+//   const countdownElement = document.getElementById("countdownBox");
+//   if (countdownElement) {
+//     let secondsLeft = parseInt(countdownElement.innerHTML, 10);
+//     if (!isNaN(secondsLeft) && secondsLeft > 0) {
+//       countdownElement.innerHTML = secondsLeft - 1;
+//     }
+//   }
+// }, 1000);
 
-// Fetch data and alternate display slides every 25 seconds
+// Fetch data and alternate display slides every 15 seconds -- just updating times now
+// The slides are no longer changing
 setInterval(function () {
   fetchGTFSdata();
   toggleSlides();
   const countdownElement = document.getElementById("countdownBox");
-  if (countdownElement) {
-    countdownElement.innerHTML = "25";
-  }
-}, 25000);
+  // if (countdownElement) {
+  //   countdownElement.innerHTML = "25";
+  // }
+}, 15000);
 
 // Initial execution
 fetchGTFSdata();

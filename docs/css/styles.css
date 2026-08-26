@@ -9,10 +9,6 @@ body h1,body h2,body h3,body p, body ul, body li {
     font-family: Arial,sans-serif
 }
 
-body h2 {
-    font-size: 4vmin;
-}
-
 body {
     font-family: Arial,sans-serif
 }
@@ -44,12 +40,12 @@ header,header h1 {
 
 header h1 {
     font-weight: 400;
-    font-size: 60px;
+    font-size: 3vw;
     margin: 0
 }
 
 header .nps-label,header .park-name {
-    font-size: 18px;
+    font-size: 1vw;
     margin: 0
 }
 
@@ -66,7 +62,7 @@ header .nps-branding {
 
 header img {
     display: block;
-    height: 80px
+    height: 9dvh
 }
 
 #content {
@@ -79,44 +75,46 @@ header img {
 
 .split {
     color: #000;
-    padding: 10px 10px;
+    padding: 10px 5px 10px 5px;
     position: relative;
+    align-items: center;
+    justify-content: center;
+    height: 75dvh;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .split .half {
     float: left;
-    position: relative;
-    /* height: 250px; */
     margin: 0;
-    text-align: center;
-    width: 40%
-}
-
-.split .half img {
-    max-height: 1.8em;
-    max-width: 2em;
-    display: inline-block;
-    position: relative;
-    vertical-align: bottom;
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 45dvh;
 }
 
 .split .half h3 {
     font-size: 3vw;
+    flex-basis: 100%;
     text-align: center;
+    justify-content: center;
+    vertical-align: center;
 }
 
 .split .halfMap {
     float: left;
-    position: relative;
-    /* height: 250px; */
-    text-align: center;
     width: 60%;
+    display: flex;
+    align-items: center; /* Vertically centers the image */
+    justify-content: center;
+    height: 75dvh;
 }
 
 .split .halfMap img {
-    display: block;
-    margin: 10px 10px 10px 10px;
-    width: 90%;
+    margin: 10px 5px 10px 5px;
+    max-width: 95%;
 }
 
 /* .split .half .icon img {
@@ -148,7 +146,7 @@ header img {
 .content h1 {
     display: block;
     font-weight: 400;
-    font-size: 6vmin;
+    font-size: 3vw;
     margin: 20px 0 20px 0;
     overflow: hidden;
     text-align: center;
@@ -172,63 +170,24 @@ header img {
     position: fixed;
     bottom: 0;
     width: 100%;
+    justify-content: center;
+    height: 15dvh;
 }
 
-.footer img {
-    display: block;
-    margin: auto;
-    width: 50%;
-    max-height: 40%;
+.footer h3 {
+    font-size: 3vw;
+    margin: 10 10 10 10;
+    text-align: center;
+    justify-content: center;
+    align-items: center; /* Vertically centers */
+    vertical-align: center;
 }
-
-.footer .update_time {
-  font-size: 3vw;
-}
-
-.footer block {
-  width: 18px;
-  height: 72px;
-  padding: 8px;
-  border: 2px solid black;
-  margin: 10px 10px 10px 10px;
-}
-
 
 body{
    width: 100%;
-   height: 100dvh;
 }
 
 /* Style for bottom left text noting when last updated */
-
-
-/* Style for scrolling banner at the bottom of page */
-
-.marquee {
-    width: 100%;
-    margin: 0 auto;
-    white-space: nowrap;
-    overflow: hidden;
-    position: fixed;
-    bottom: 0px;
-    background: #000;
-    color: #fff;
-}
-
-.marquee span {
-  display: inline-block;
-  padding-left: 100%;
-  animation: marquee 20s linear infinite;
-}
-
-@keyframes marquee {
-  0% {
-    transform: translate(0, 0);
-  }
-  100% {
-    transform: translate(-100%, 0);
-  }
-}
 
 #container {
     width: 100%;
