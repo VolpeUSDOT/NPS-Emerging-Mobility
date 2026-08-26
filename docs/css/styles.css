@@ -181,6 +181,7 @@ header img {
     justify-content: center;
     align-items: center; /* Vertically centers */
     vertical-align: center;
+    font-weight: 400;
 }
 
 body{
