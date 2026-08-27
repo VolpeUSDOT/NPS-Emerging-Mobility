@@ -11,7 +11,7 @@
 <body>
 
 <header>
-    <h1>Gateway Center Departures to Village Green</h1>
+    <h1>Gateway Center Bus Departures</h1>
     <div class="nps-branding">
         <p class="park-name">Acadia National Park<br>Maine</p>
         <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
@@ -23,15 +23,16 @@
 <div class="split">
     <div class="half" id="inboundTimes">
         <p>
-          <h3 id="inbound1"><span class="time">Loading departures...</span></h3>
+          <h3 id="timesHeader" style="font-weight:400; text-decoration:underline"><span>Departures to Village Green</span></h3>
           <!-- <img src="images/one_person_icon.png" width="50" id="inbound1icon" alt="Crowding Level 1" /> -->
-        </p>
-        <p>
-          <h3 id="inbound2"><span class="time"></span></h3>
+       
+          <h3 id="inbound1">Loading departures...</h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound1icon" alt="Crowding Level 1" /> -->
+        
+          <h3 id="inbound2"></h3>
           <!-- <img src="images/one_person_icon.png" width="50" id="inbound2icon" alt="Crowding Level 2" /> -->
-        </p>
-        <p>
-          <h3 id="inbound3"><span class="time"></span></h3>
+        
+          <h3 id="inbound3"></h3>
           <!-- <img src="images/one_person_icon.png" width="50" id="inbound3icon" alt="Crowding Level 3" /> -->
         </p>
     </div>
@@ -56,8 +57,11 @@
   </div>
 </div> -->
 
-<div class="footer" id="constantInfo">
-    <h3 id="footerText">See Island Explorer pamphlet or ambassador for more information.</h3>
+<div class="footer">
+    <p>
+      <h3 id="footerText">See Island Explorer pamphlet or ambassador for more information.</h3>
+      <h3 id="lastUpdated" style="text-align:right; padding-right: 10px; font-size: 1.5vw;">Last Updated XX:XX AM</h3>
+    </p>
 </div>
 
 <script src="api_call_for_website_acadia_gateway.js"></script>

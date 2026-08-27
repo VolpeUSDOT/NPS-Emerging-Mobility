@@ -3,7 +3,7 @@ const stopId = "74";
 const targetRouteId = "1";
 const apiUrl = `https://islandexplorertracker.availtec.com/InfoPoint/rest/StopDepartures/Get/${stopId}`;
 
-/* Cycle between departure timetable and info slide every 25s */
+/* Cycle between departure timetable and info slide every 25s
 async function toggleSlides() {
   const slide_timetables = document.getElementById("timetables");
   // const slide_notices = document.getElementById("notices");
@@ -17,7 +17,7 @@ async function toggleSlides() {
   //     slide_notices.style.display = "block";
   //   }
   // }
-}
+} */
 
 // Convert Date object to 12-hour AM/PM string
 function formatAMPM(date) {
@@ -98,7 +98,7 @@ async function fetchGTFSdata() {
 
           const upcomingText = waitMinutes < 1 
             ? "Departing Now" 
-            : `${formattedTime} - ${waitMinutes} minutes`;
+            : `${waitMinutes} minutes`;
 
           timeDisplay.innerHTML = `<span class="time">${upcomingText}</span>`;
 
@@ -119,6 +119,14 @@ async function fetchGTFSdata() {
         }
       }
     }
+
+    // Make sure last updated time is current
+    const updatedElement = document.getElementById("lastUpdated");
+    if (updatedElement) {
+      const formattedNow = formatAMPM(now);
+      updatedElement.innerHTML = `<span>Last Updated ${formattedNow}</span>`;
+    }
+
   } catch (error) {
     console.error("Error fetching InfoPoint departure data:", error);
   }
@@ -139,8 +147,8 @@ async function fetchGTFSdata() {
 // The slides are no longer changing
 setInterval(function () {
   fetchGTFSdata();
-  toggleSlides();
-  const countdownElement = document.getElementById("countdownBox");
+  // toggleSlides();
+  // const countdownElement = document.getElementById("countdownBox");
   // if (countdownElement) {
   //   countdownElement.innerHTML = "25";
   // }

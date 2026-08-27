@@ -5,8 +5,9 @@ body {
     padding: 0;
 }
 
-body h1,body h2,body h3,body p, body ul, body li {
-    font-family: Arial,sans-serif
+body h1,body h2,body h3, body p, body ul, body li {
+    font-family: Arial,sans-serif;
+    margin-block: 0.5em
 }
 
 body {
@@ -31,7 +32,8 @@ header {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    padding: 10px 20px 15px 40px
+    padding: 10px 20px 15px 40px;
+    height: 10dvh;
 }
 
 header,header h1 {
@@ -62,7 +64,7 @@ header .nps-branding {
 
 header img {
     display: block;
-    height: 9dvh
+    max-height: 9dvh;
 }
 
 #content {
@@ -78,7 +80,7 @@ header img {
     padding: 10px 10px 10px 10px;
     align-items: center;
     justify-content: center;
-    height: 75dvh;
+    height: 70dvh;
     display: flex;
     flex-wrap: wrap;
 }
@@ -86,18 +88,13 @@ header img {
 .split .half {
     float: left;
     width: 40%;
-    display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
 
 .split .half h3 {
     font-size: 3vw;
-    flex-basis: 100%;
     text-align: center;
-    justify-content: center;
-    vertical-align: center;
 }
 
 .split .halfMap {
@@ -106,7 +103,7 @@ header img {
     display: flex;
     align-items: center; /* Vertically centers the image */
     justify-content: center;
-    height: 75dvh;
+    height: 70dvh;
 }
 
 .split .halfMap img {
@@ -136,7 +133,6 @@ header img {
     display: block;
     margin: auto;
     min-width: 60%;
-    max-height: 60%;
 }
 
 .content h1 {
@@ -152,7 +148,7 @@ header img {
 .content ul {
     display: block;
     font-size: 5vmin;
-    margin: 20px 20px 20px 20px;
+    margin: 5px 5px 5px 5px;
     overflow: hidden;
     text-align: left;
     /*text-transform: uppercase*/
@@ -163,19 +159,18 @@ header img {
 }
 
 .footer {
-    position: fixed;
+    position: sticky;
     bottom: 0;
     width: 100%;
     justify-content: center;
+    height: 10dvh;
 }
 
 .footer h3 {
     font-size: 3vw;
-    margin: 0 10 10 10;
     text-align: center;
     justify-content: center;
     align-items: center; /* Vertically centers */
-    vertical-align: center;
     font-weight: 400;
 }
 
