@@ -75,8 +75,7 @@ header img {
 
 .split {
     color: #000;
-    padding: 10px 5px 10px 5px;
-    position: relative;
+    padding: 10px 10px 10px 10px;
     align-items: center;
     justify-content: center;
     height: 75dvh;
@@ -86,13 +85,11 @@ header img {
 
 .split .half {
     float: left;
-    margin: 0;
     width: 40%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    height: 45dvh;
 }
 
 .split .half h3 {
@@ -113,7 +110,6 @@ header img {
 }
 
 .split .halfMap img {
-    margin: 10px 5px 10px 5px;
     max-width: 95%;
 }
 
@@ -171,12 +167,11 @@ header img {
     bottom: 0;
     width: 100%;
     justify-content: center;
-    height: 15dvh;
 }
 
 .footer h3 {
     font-size: 3vw;
-    margin: 10 10 10 10;
+    margin: 0 10 10 10;
     text-align: center;
     justify-content: center;
     align-items: center; /* Vertically centers */
