@@ -11,7 +11,8 @@ body h1,body h2,body h3, body p, body ul, body li {
 }
 
 body {
-    font-family: Arial,sans-serif
+    font-family: Arial,sans-serif;
+    max-height: 90dvh;
 }
 
 body .text {
@@ -52,14 +53,15 @@ header .nps-label,header .park-name {
 }
 
 header .park-name {
-    margin-right: 10px
+    margin-right: 10px;
+    width: 14dvw;
 }
 
 header .nps-branding {
     align-items: center;
     -moz-column-gap: 35px;
     column-gap: 35px;
-    display: flex
+    display: flex;
 }
 
 header img {
