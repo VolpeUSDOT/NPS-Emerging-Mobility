@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles.css" >
+    <title>Acadia Gateway Center :: Shuttle Departures</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/d42bbb0711.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>Gateway Center Bus Departures</h1>
+    <div class="nps-branding">
+        <p class="park-name">Acadia National Park<br>Maine</p>
+        <span class="nps-label">National Park Service<br>U.S. Department of the Interior</span>
+        <img src="images/nps-logo.svg" alt="National Park Service">
+    </div>
+</header>
+
+<!-- Main Timetable Display --> 
+<div class="split">
+    <div class="half" id="inboundTimes">
+        <p>
+          <h3 id="timesHeader" style="font-weight:400; text-decoration:underline"><span>Departures to Village Green</span></h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound1icon" alt="Crowding Level 1" /> -->
+       
+          <h3 id="inbound1">Loading departures...</h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound1icon" alt="Crowding Level 1" /> -->
+        
+          <h3 id="inbound2"></h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound2icon" alt="Crowding Level 2" /> -->
+        
+          <h3 id="inbound3"></h3>
+          <!-- <img src="images/one_person_icon.png" width="50" id="inbound3icon" alt="Crowding Level 3" /> -->
+        </p>
+    </div>
+    
+    <div class="halfMap" id="outboundTimes">
+        <img id="route_map" src="images/ACAD Transit Map_082526-with connections.png" alt="Shuttle Route Map">
+    </div>
+</div>
+
+
+<!-- Service Notices Slide 
+<div id="notices" style="display:none">
+  <div class="content">
+    <span><h1>Acadia Shuttle Information</h1></span>
+    <ul>
+      <li><strong>Relax and enjoy a fare-free ride on the Island Explorer shuttle.</strong> By leaving your car behind, you help reduce air pollution while avoiding parking and traffic congestion.</li>
+      <li><strong>Buses are equipped with bike racks</strong> to carry up to six bikes. They cannot accommodate tag-alongs, trailers, tandem bikes, fat-tire bikes, or e-bikes.</li>
+      <li>Small collapsible <strong>strollers are allowed</strong> on buses. They must be folded and stowed on the floor at the rear of the bus.</li>
+      <li><strong>Buses are equipped with a wheelchair lift</strong> for accessibility. Please see bus driver for assistance.</li>
+      <li>Well-behaved and leashed or crated pets are allowed on buses and must remain on the floor.</li>
+    </ul>
+  </div>
+</div> -->
+
+<div class="footer">
+    <p>
+      <h3 id="footerText">See Island Explorer pamphlet or ambassador for more information.</h3>
+      <h3 id="lastUpdated" style="text-align:right; padding-right: 10px; font-size: 1.5vw;">Last Updated XX:XX AM</h3>
+    </p>
+</div>
+
+<script src="api_call_for_website_acadia_gateway.js"></script>
+
+</body>
+</html>
