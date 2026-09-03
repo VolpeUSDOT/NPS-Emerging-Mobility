@@ -1,0 +1,281 @@
+body {
+    background-color: #fff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+body h1,body h2,body h3,body p, body ul, body li {
+    font-family: Arial,sans-serif
+}
+
+body h2 {
+    font-size: 4vmin;
+}
+
+body {
+    font-family: Arial,sans-serif
+}
+
+body .text {
+    clear: right;
+    display: inline-block
+}
+
+body img {
+    display: block;
+    margin: auto;
+}
+
+header {
+    align-items: center;
+    background-color: #000;
+    clear: both;
+    color: #fff;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 10px 20px 15px 40px
+}
+
+header,header h1 {
+    font-family: Arial,sans-serif
+}
+
+header h1 {
+    font-weight: 400;
+    font-size: 60px;
+    margin: 0
+}
+
+header .nps-label,header .park-name {
+    font-size: 18px;
+    margin: 0
+}
+
+header .park-name {
+    margin-right: 10px
+}
+
+header .nps-branding {
+    align-items: center;
+    -moz-column-gap: 35px;
+    column-gap: 35px;
+    display: flex
+}
+
+header img {
+    display: block;
+    height: 80px
+}
+
+#content {
+    padding: 10px
+}
+
+.hidden {
+    display: none!important
+}
+
+.split {
+    color: #000;
+    padding: 10px 10px;
+    position: relative;
+}
+
+.split .half {
+    float: left;
+    position: relative;
+    /* height: 250px; */
+    margin: 0;
+    text-align: center;
+    width: 50%
+}
+
+.split .half img {
+    max-height: 1.5em;
+    max-width: 1.7em;
+    display: inline-block;
+    position: relative;
+    vertical-align: bottom;
+}
+
+.split .half h3 {
+    font-size: 3vmin;
+}
+
+.split .halfMap {
+    float: left;
+    position: relative;
+    /* height: 250px; */
+    margin: 0;
+    text-align: center;
+    width: 50%;
+}
+
+.split .halfMap img {
+    display: block;
+    margin: auto;
+    width: 55%;
+}
+
+.split .half .icon img {
+    display: inline-block;
+    margin: auto;
+    width: 15%;
+}
+
+/* Style for inline icons */
+
+.split > i {
+    display: inline-block;
+    margin-bottom: -3px;
+    margin-right: 4px;
+}
+
+.content {
+    clear: both;
+    list-style: none;
+}
+
+.content img {
+    display: block;
+    margin: auto;
+    min-width: 60%;
+    max-height: 40%;
+}
+
+.content h1 {
+    display: block;
+    font-weight: 400;
+    font-size: 6vmin;
+    margin: 20px 0 0;
+    overflow: hidden;
+    text-align: center;
+    /*text-transform: uppercase*/
+}
+
+.content ul {
+    display: block;
+    font-size: 4vmin;
+    margin: 20px 50px 20px 50px;
+    overflow: hidden;
+    text-align: left;
+    /*text-transform: uppercase*/
+}
+
+.content ul li {
+  padding: 8px 0px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    max-height: 40%;
+}
+
+.footer .update_time {
+  font-size: 3vmin;
+}
+
+.footer block {
+  width: 18px;
+  height: 72px;
+  padding: 8px;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+
+body{
+   width: 100%;
+   height: 100dvh;
+}
+
+/* Style for bottom left text noting when last updated */
+
+
+/* Style for scrolling banner at the bottom of page */
+
+.marquee {
+    width: 100%;
+    margin: 0 auto;
+    white-space: nowrap;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0px;
+    background: #000;
+    color: #fff;
+}
+
+.marquee span {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 20s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+
+#container {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    background: #000;
+    color: #fff;
+    padding: 10px 20px 15px 40px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+/* Overnight Overlay Screen */
+#overnight-overlay {
+    display: none;
+}
+
+body.overnight #overnight-overlay {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    color: #fff;
+    font-size: 6vmin;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    box-sizing: border-box;
+    z-index: 999999; /* Covers header, map, and all content */
+}
+
+body.overnight {
+    overflow: hidden;
+}
+
+
+

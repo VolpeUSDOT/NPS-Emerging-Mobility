@@ -14,6 +14,17 @@ function formatAMPM(militaryTime) {
   return strTime;
 }
 
+// Add this function to check the client's current time
+function checkOvernightStatus() {
+  const currentHour = new Date().getHours();
+  // 9 PM is hour 21; overnight runs from 21:00 to 06:59
+  const isOvernight = currentHour >= 21 || currentHour < 7;
+  document.body.classList.toggle('overnight', isOvernight);
+}
+
+// Run immediately on script load
+checkOvernightStatus();
+
 // get live predictions for departures
 async function fetchGTFSdata(direction) {
 
@@ -120,10 +131,16 @@ async function fetchGTFSdata(direction) {
   }
 }
 
-// get wait times for next three arrivals at both stations
+/* Update your existing updatePage interval to include checkOvernightStatus() */
 var updatePage = setInterval((function() {
+  checkOvernightStatus(); // Ensures the page switches automatically if left open
   fetchGTFSdata("outbound");
   fetchGTFSdata("inbound");
+  toggleSlides();
+  
+  // kick off another 20 second count down
+  document.getElementById("countdownBox").innerHTML = 20
 }
-), 3000); //refresh every 30 seconds
+), 20000);
+
 
