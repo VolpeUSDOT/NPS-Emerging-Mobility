@@ -1,0 +1,19 @@
+# This is a Declarative Automation Bundle definition for NPS-Emerging-Mobility.
+# The Databricks extension requires databricks.yml configuration file.
+# See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
+
+bundle:
+  name: NPS-Emerging-Mobility
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://dbc-8c75f32f-ca52.cloud.databricks.com
+
+  ## Optionally, there could be 'staging' or 'prod' targets here.
+  #
+  # prod:
+  #   workspace:
+  #     host: https://dbc-8c75f32f-ca52.cloud.databricks.com
