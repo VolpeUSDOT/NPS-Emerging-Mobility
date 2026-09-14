@@ -21,20 +21,8 @@
 
 <div class="dropdown" id="welcome">
   <h2>View upcoming shuttle departures from </h2>
-  <select id="chooseStop" onchange="chosenSite()" >
-    <option value= "99" selected="selected"> Select Shuttle Stop </option>
-    <option value = "1">Shuttle Station</option>
-    <option value = "12">Old Bryce Town</option>
-    <option value = "13">Best Western+ Grand</option>
-    <option value = "14">Best Western+ Ruby's Inn</option>
-    <option value = "11">Ruby's Inn Campground</option>
-    <option value = "47">Visitor Center</option>
-    <option value = "3">Sunset Campground</option>
-    <option value = "42">Bryce Point</option>
-    <option value = "5">Inspiration Point</option>
-    <option value = "7">Sunset Point</option>
-    <option value = "8">Bryce Lodge</option>
-    <option value = "9">Sunrise Point</option>
+  <select id="chooseStop" onclick="chosenSite()" >
+    <option value = "47" selected>Visitor Center</option>
   </select>
 </div>
 
@@ -46,7 +34,7 @@
 
 <div class = "split">
   <div class="half" id="inboundTimes">
-    <h2 id="inboundLabel">Into the Park</h2>
+    <h2 id="inboundLabel">Into the Park (Stop 6)</h2>
     <p>
         <h2><span class="time" id="inbound1">No upcoming departures</span>
         <img src="" alt="" width="50" id="inbound1icon" />
@@ -62,7 +50,7 @@
 </div>
   
   <div class = "half" id = "outboundTimes">
-      <h2 id="outboundLabel">Into Bryce Canyon City</h2>
+      <h2 id="outboundLabel">Into Bryce Canyon City (Stop 14)</h2>
       <p><h2><span class="time" id="outbound1">No upcoming departures</span> 
         <img src="" alt="" width="50" id="outbound1icon" /> </p>
       <p><h2><span class="time" id="outbound2"></span> 
