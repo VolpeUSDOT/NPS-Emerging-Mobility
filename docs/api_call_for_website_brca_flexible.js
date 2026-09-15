@@ -10,6 +10,7 @@ var outboundStopId = "";
 var stopName = "";
 var urloutb = baseAPIurl + outboundStopId + "&version=2";
 var urlinb = baseAPIurl + outboundStopId + "&version=2";
+let showOvernightTime = false;
 
 /* when displaying times, cycle between time and announcements every 15 seconds */
 async function toggleSlides() {
@@ -24,6 +25,93 @@ async function toggleSlides() {
   slide_timetables.style.display = notices_display_style; 
  
 }
+
+// Helper to determine active schedule based on current date
+function getShuttleSeasonConfig(now = new Date()) {
+  const month = now.getMonth() + 1; // 1-12
+  const day = now.getDate();
+  const mmdd = month * 100 + day; // e.g., April 3 = 403, Oct 18 = 1018
+
+  // Spring Service (Apr 3 – May 8) & Fall Service (Sep 21 – Oct 18)
+  if ((mmdd >= 403 && mmdd <= 508) || (mmdd >= 921 && mmdd <= 1018)) {
+    return {
+      isOffseason: false,
+      lastShuttleTime: "5:45 PM",
+      startHour: 19, // 7 PM
+      endHour: 7,    // 7 AM
+      message: "Shuttles will resume at 8 am."
+    };
+  }
+  
+  // Summer Service (May 9 – Sep 20)
+  if (mmdd >= 509 && mmdd <= 920) {
+    return {
+      isOffseason: false,
+      lastShuttleTime: "7:30 PM",
+      startHour: 21, // 9 PM
+      endHour: 7,    // 7 AM
+      message: "Shuttles will resume at 8 am."
+    };
+  }
+
+  // Off-Season (Oct 19 – Apr 2)
+  return {
+    isOffseason: true,
+    lastShuttleTime: null,
+    startHour: null,
+    endHour: null,
+    message: "The shuttle season has ended and will resume in early April."
+  };
+}
+
+// Dynamically update the notices list item text
+function updateNoticesText(config) {
+  const noticeItem = document.getElementById("last-shuttle-notice");
+  if (!noticeItem) return;
+
+  if (config.isOffseason) {
+    noticeItem.innerHTML = "<strong>Plan Accordingly:</strong> Shuttle service has ended for the season and will resume in early April.";
+  } else {
+    noticeItem.innerHTML = `<strong>Plan Accordingly:</strong> Last Shuttle begins route from Shuttle Station at <strong>${config.lastShuttleTime}</strong>`;
+  }
+}
+
+function checkOvernightStatus() {
+  const now = new Date();
+  const currentHour = now.getHours();
+  const config = getShuttleSeasonConfig(now);
+
+  // Update schedule notice text
+  updateNoticesText(config);
+
+  // Determine if the black screen overlay should display
+  let isOvernight = false;
+  if (config.isOffseason) {
+    isOvernight = true; // Display continuously 24/7 during off-season
+  } else {
+    // Display between seasonal evening start hour (19:00 or 21:00) and 07:00 AM
+    isOvernight = currentHour >= config.startHour || currentHour < config.endHour;
+  }
+  
+  document.body.classList.toggle('overnight', isOvernight);
+
+  if (isOvernight) {
+    const overlay = document.getElementById("overnight-overlay");
+    if (overlay) {
+      if (showOvernightTime) {
+        overlay.textContent = now.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+      } else {
+        overlay.textContent = config.message;
+      }
+      showOvernightTime = !showOvernightTime;
+    }
+  } else {
+    showOvernightTime = false;
+  }
+}
+
+// Run immediately on script load
+checkOvernightStatus();
 
 /* When the user selects stop, go there */
 function chosenSite() {
@@ -129,6 +217,21 @@ async function fetchGTFSdata(direction) {
     let hours = now.getHours();
     let minutes = now.getMinutes();
     let seconds = now.getSeconds();
+
+    // clear old departure times before setting anew
+    var inbound1Display = document.getElementById("inbound1")
+    inbound1Display.textContent = "";
+    var inbound2Display = document.getElementById("inbound2")
+    inbound2Display.textContent = "";
+    var inbound3Display = document.getElementById("inbound3")
+    inbound3Display.textContent = "";
+    // same for outbound
+    var outbound1Display = document.getElementById("outbound1")
+    outbound1Display.textContent = "";
+    var outbound2Display = document.getElementById("outbound2")
+    outbound2Display.textContent = "";
+    var outbound3Display = document.getElementById("outbound3")
+    outbound3Display.textContent = "";
     
     // calculate wait times
     const predictedDepartures = [];
@@ -206,8 +309,10 @@ var secondsCountdown = setInterval(function() {
     
 }, 1000);
 
-// get wait times for next three arrivals at both stations
+
+/* Update your existing updatePage interval */
 var updatePage = setInterval((function() {
+  checkOvernightStatus(); // Executes the 20-second toggle loop
   fetchGTFSdata("outbound");
   fetchGTFSdata("inbound");
   toggleSlides();
@@ -215,5 +320,4 @@ var updatePage = setInterval((function() {
   // kick off another 20 second count down
   document.getElementById("countdownBox").innerHTML = 20
 }
-), 20000); //refresh every 20 seconds
-
+), 20000);
